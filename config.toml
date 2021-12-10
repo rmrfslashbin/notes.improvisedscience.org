@@ -1,0 +1,8 @@
+baseURL = 'https://notes.improvisedscience.org/'
+languageCode = 'en-us'
+title = 'notes.improvisedscience.org.'
+theme = 'learn'
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+[params]
+"description" = "A collection of notes and thoughts."
