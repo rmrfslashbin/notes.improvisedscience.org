@@ -1,6 +1,21 @@
+---
+title: Ethiopian Style Chickpea Stew
+tags:
+    - chickpeas
+categories:
+    - main
+    - stews
+methods:
+    - stove-top
+themes:
+    - vegan
+    - one-pot meals
+    - ethiopian
+---
+
 ## Source
 
--   <http://www.wholefoodsmarket.com/recipe/ethiopian-style-chickpea-stew>
+-   http://www.wholefoodsmarket.com/recipe/ethiopian-style-chickpea-stew
 
 ## Preheat Oven
 
@@ -82,9 +97,3 @@
 -   Uncover pot and simmer until stew is thickened and potatoes and
     carrots are very tender, about 25 minutes more.
 -   Ladle stew into bowls.
-
-[Category:One-Pot Meals](Category:One-Pot_Meals "wikilink")
-[Category:Vegetarian](Category:Vegetarian "wikilink")
-[Category:Chickpeas](Category:Chickpeas "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

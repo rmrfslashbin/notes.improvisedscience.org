@@ -1,6 +1,25 @@
+---
+title: Chole Palak (Chickpeas With Spinach)
+tags:
+    - chickpeas
+    - spinach
+    - curry
+    - tomatoes
+    - chilis
+    - manjula
+categories:
+    - main
+methods:
+    - stove-top
+themes:
+    - vegan
+    - one-pot meals
+    - indian
+---
+
 ## Source
 
--   <http://www.manjulaskitchen.com/2009/07/07/chole-palak-chickpeas-with-spinach/>
+-   http://www.manjulaskitchen.com/2009/07/07/chole-palak-chickpeas-with-spinach/
 
 ## Special Equipment
 
@@ -68,10 +87,3 @@
 
 -   Add garam masala
 -   Serve with bread and/or rice.
-
-[Category:Vegetarian](Category:Vegetarian "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Spinach](Category:Spinach "wikilink")
-[Category:Veggies](Category:Veggies "wikilink")
-[Category:Chickpeas](Category:Chickpeas "wikilink")
-[Category:Indian](Category:Indian "wikilink")

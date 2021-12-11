@@ -1,7 +1,12 @@
-+++
-title = "Pâte Brisée"
-tags = ["crust"]
-+++
+---
+title: Pâte Brisée
+categories: 
+    - crust
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
 > This is a flavorful pastry dough that is quick to make and easy to
 > roll out. The pastry can be made in a food processor, electric mixer,

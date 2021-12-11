@@ -1,7 +1,14 @@
-+++
-title = "BBQ Salmon"
-tags = ["salmon", "fish", "grilled", "bbq"]
-+++
+---
+title: BBQ Salmon
+tags:
+    - bbq
+    - salmon
+categories: 
+    - main
+    - fish
+methods:
+    - roasted
+---
 
 Recipe modified from source:
 <http://www.cookscountry.com/recipes/4374-bbq-wood-grilled-salmon>

@@ -1,7 +1,11 @@
-+++
-title = "Basic Tajine"
-tags = ["tajine", "baked"]
-+++
+---
+title: Basic Tajine
+categories: 
+    - main
+methods:
+    - baked
+    - tajine
+---
 
 
 A [Tajine](https://en.wikipedia.org/wiki/Tajine) is a versatile clay pot

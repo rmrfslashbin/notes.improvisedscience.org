@@ -1,3 +1,17 @@
+---
+title: Chicken and Broccoli Noodle Casserole
+tags:
+    - pasta
+    - chicken
+    - broccoli
+    - noodle
+    - cheese
+categories: 
+    - casserole
+    - main
+methods:
+    - baked
+---
 For this recipe, you will need 340 grams (12 ounces) (or 2 good sized
 chicken breasts) of cooked, shredded chicken. The chicken can be cooked
 ahead of time by boiling two chicken breasts in a pot of seasoned
@@ -5,7 +19,7 @@ chicken broth for about 1 hour, or until the meat begins to fall apart.
 
 ## Source
 
--   <http://www.skinnytaste.com/2012/02/chicken-and-broccoli-noodle-casserole.html>
+-   http://www.skinnytaste.com/2012/02/chicken-and-broccoli-noodle-casserole.html
 
 ## Ingredients
 
@@ -82,11 +96,3 @@ Pour into casserole dish:
 
 -   Top with Parmesan cheese and breadcrumbs.
 -   Bake 20 to 25 minutes.
-
-[Category:Casseroles](Category:Casseroles "wikilink") [Category:Roasted
-and Baked](Category:Roasted_and_Baked "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Chicken](Category:Chicken "wikilink")
-[Category:Broccoli](Category:Broccoli "wikilink")
-[Category:Pasta](Category:Pasta "wikilink")
-[Category:Cheese](Category:Cheese "wikilink")

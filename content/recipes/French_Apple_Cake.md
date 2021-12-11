@@ -1,8 +1,22 @@
-# Source
+---
+title: French Apple Cake
+tags:
+    - apples
+    - brandy
+    - milk street
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+## Source
 
 Milk Street
 
-# Special Equipment
+## Special Equipment
 
 -   9" springform or round cake pan
 -   12" non-stick skillet
@@ -11,11 +25,11 @@ Milk Street
 -   Large mixing bowl
 -   Large plate on which to cool cooked appless
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat to 375°F
 
-# Ingredients
+## Ingredients
 
 -   113 grams unsalted butter
 -   4 grams salt
@@ -33,13 +47,13 @@ Milk Street
 -   2 large eggs
 -   2 teaspoons vanilla extract
 
-# Preparation
+## Preparation
 
-## Prep Pan
+### Prep Pan
 
 -   Butter and flour the 9" springform or cake pan.
 
-## Melt Butter
+### Melt Butter
 
 -   Add **butter** and **4 grams salt** to a 12" non-stick skillet
 -   Cook on **medium-high heat**, swirling the skilled frequently until
@@ -48,7 +62,7 @@ Milk Street
     skillet; leaving excess butter for the next step.
 -   Add **allspice** to butter and stir. Set aside.
 
-## Apples
+### Apples
 
 -   Add all of the **apples** to the still-hot skillet.
 -   Add the **2 tablespoons sugar** and **3 grams of salt**.
@@ -58,7 +72,7 @@ Milk Street
 -   Transfer cooked apples to a large plate, spread into a single layer,
     and refrigerate till cool; about 30 minutes.
 
-## Cake Batter
+### Cake Batter
 
 Once the apples are cool...
 
@@ -69,18 +83,14 @@ Once the apples are cool...
 -   Using a rubber spatula, stir in flour mixture.
 -   Add cooled apples; fold until well combined.
 
-## Pour into Pan
+### Pour into Pan
 
 -   Pour batter into the prepared pan.
 -   Spread into an even layer.
 -   Sprinkle remaining 1 tablespoon sugar over top of batter.
 
-# Bake
+## Bake
 
 -   Bake until cake is deeply browned; **35 to 40 minutes**.
 -   Let cool **10 minutes**; run a knife around the edge of the pan.
 -   Let cool completely in the pan on a wire rack.
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Apples](Category:Apples "wikilink")

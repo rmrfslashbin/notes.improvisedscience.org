@@ -2,6 +2,7 @@ baseURL: https://notes.improvisedscience.org/
 languageCode: en-us
 title: notes.improvisedscience.org.
 theme: papermod
+env: production
 outputs:
   home:
     - HTML

@@ -1,4 +1,15 @@
-Tried and tested Crème Brûlée. Oh so many batched of Crème Brûlée to
+---
+title: Crème brûlée
+categories: 
+    - dessert
+    - custard
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
+Tried and tested Crème Brûlée. Oh so many batches of Crème Brûlée to
 make this one work...
 
 ## Special Equipment
@@ -51,6 +62,3 @@ make this one work...
 -   Torch to melt sugar.
 -   Re-chill custards for a few minutes before serving.
 
-[Category:Puddings, Creams, and
-Custards](Category:Puddings,_Creams,_and_Custards "wikilink")
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")

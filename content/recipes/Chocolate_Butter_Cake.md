@@ -1,11 +1,23 @@
+---
+title: Chocolate Butter Cake
+tags:
+    - chocolate
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 -   Deeply chocolaty, moist cake with a nice crumb.
 -   Makes two 9" rounds.
--   Goes very well with [Cherry Cream Cheese
-    Frosting](Cherry_Cream_Cheese_Frosting "wikilink")
+-   Goes very well with [Cherry Cream Cheese Frosting](/recipes/Cherry_Cream_Cheese_Frosting.md).
 
 ## Source
 
--   <http://www.joyofbaking.com/ChocolateButterCake.html>
+-   http://www.joyofbaking.com/ChocolateButterCake.html
 
 ## Special Equipment
 
@@ -95,7 +107,3 @@ ingredients:
 -   Cool for 10 minutes
 -   Turn out cakes onto wire rack, remove parchment, and cool
     completely.
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink")

@@ -1,3 +1,17 @@
+---
+title: Chex Mix
+tags:
+    - classic
+    - chex
+categories: 
+    - snack
+    - party mix
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 Classic Chex Mix recipe.
 
 ## Special Equipment
@@ -35,6 +49,3 @@ Classic Chex Mix recipe.
 ## Storage
 
 -   Store in air tight container
-
-[Category:Snacks](Category:Snacks "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

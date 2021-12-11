@@ -1,7 +1,18 @@
-+++
-title = "Apple Cranberry Crumble Pie"
-tags = ["pies", "apples", "cranberries", "thanksgiving", "baked", "crust"]
-+++
+---
+title: Apple Cranberry Crumble Pie
+tags:
+    - apple
+    - cranberries
+categories: 
+    - dessert
+    - pie
+    - crumble
+methods:
+    - baked
+themes:
+    - thanksgiving
+    - vegetarian
+---
 
 A fantastic pie which is fairly easy to make; albeit somewhat
 time-consuming. My changes to the recipe yield a tarter and naturally

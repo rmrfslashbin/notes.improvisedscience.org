@@ -1,7 +1,16 @@
-+++
-title = "Brownies (NY Times Recipe)"
-tags = ["desserts", "roasted and baked", "chocolate"]
-+++
+---
+title: Brownies
+tags:
+    - chocolate
+    - nytimes
+categories: 
+    - dessert
+    - breakfast
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
 ## Source
 https://cooking.nytimes.com/recipes/1018653-brownies

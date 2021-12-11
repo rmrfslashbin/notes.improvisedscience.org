@@ -1,7 +1,16 @@
-+++
-title = "Apple Cider Vinegar Pancakes"
-tags = ["breakfast", "griddle"]
-+++
+---
+title: Apple Cider Vinegar Pancakes
+tags:
+    - apple cider
+categories: 
+    - breakfast
+    - pancakes
+    - bread
+methods:
+    - griddle
+themes:
+    - vegetarian
+---
 
 These pancakes add a new twist on the typical buttermilk + blueberry variety.
 

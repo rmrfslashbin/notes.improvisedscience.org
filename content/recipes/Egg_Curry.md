@@ -1,8 +1,22 @@
+---
+title: Egg Curry
+tags:
+    - curry
+categories:
+    - main
+methods:
+    - stove-top
+themes:
+    - vegan
+    - one-pot meals
+    - indian
+---
+
 This versatile dish can be used as a base for various proteins. The
 original recipe called for adding hard-boiled eggs. This version
 instructs to crack eggs atop the curry and poach for a few minutes.
 
-# Ingredients
+## Ingredients
 
 -   ¼ cup neutral oil, such as grapeseed or canola
 -   2 medium yellow onions, chopped
@@ -19,15 +33,15 @@ instructs to crack eggs atop the curry and poach for a few minutes.
 -   1 cup water
 -   ½ teaspoon garam masala
 
-# Preparation
+## Preparation
 
-## Caramelize Onions
+### Caramelize Onions
 
 -   In a medium, heavy skillet, heat the **oil** over medium.
 -   Add the **onions** and cook, stirring occasionally, until evenly
     caramelized and light brown, **25 to 30 minutes**.
 
-## Add spices
+### Add spices
 
 -   Stir in the **garlic** and **ginger**, and fry, stirring
     occasionally, another **4 minutes**.
@@ -35,7 +49,7 @@ instructs to crack eggs atop the curry and poach for a few minutes.
     toast, after about **2 minutes**, stir in the **coriander**,
     **turmeric**, and **peppercorns**.
 
-## Final Prep
+### Final Prep
 
 -   Add the **tomatoes**, **salt** and **1 cup water**.
 -   Cook, stirring occasionally until the mixture thickens and the fat
@@ -43,7 +57,7 @@ instructs to crack eggs atop the curry and poach for a few minutes.
 -   Stir in the **garam masala** and lower the heat. If the sauce isn’t
     runny, stir in 1/2 cup water.
 
-## Eggs/Protein
+### Eggs/Protein
 
 These are suggestions:
 
@@ -53,10 +67,3 @@ These are suggestions:
 -   Add tofu, cook until hot.
 -   Add chickpeas.
 -   Add sweet potatoes.
-
-[Category:One-Pot Meals](Category:One-Pot_Meals "wikilink")
-[Category:Indian](Category:Indian "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Onions](Category:Onions "wikilink")
-[Category:Tomatoes](Category:Tomatoes "wikilink")
-[Category:Eggs](Category:Eggs "wikilink")

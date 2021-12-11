@@ -1,10 +1,20 @@
+---
+title: Four-Spice Salmon
+tags:
+    - salmon
+categories: 
+    - main
+    - fish
+methods:
+    -  pan-seared
+---
 Super easy pan-seared Salmon.
 
-# Source
+## Source
 
-<https://cooking.nytimes.com/recipes/1014578-four-spice-salmon>
+https://cooking.nytimes.com/recipes/1014578-four-spice-salmon
 
-# Ingredients
+## Ingredients
 
 -   4 6-ounce skinned salmon fillets
 -   Salt and black pepper
@@ -15,7 +25,7 @@ Super easy pan-seared Salmon.
 -   2 tablespoons peanut oil, grape seed or other neutral oil, or
     clarified butter
 
-# Preparation
+## Preparation
 
 -   Season fillets on both sides with salt and pepper.
 -   Toast spices then grind them to a coarse powder in a coffee or spice
@@ -29,7 +39,3 @@ Super easy pan-seared Salmon.
     browned crust.
 -   Turn the fillets and cook for another 2 to 3 minutes, or until the
     salmon just slightly resists when pierced with a thin-bladed knife.
-
-[Category:Main Dishes](Category:Main_Dishes "wikilink")
-[Category:Salmon](Category:Salmon "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")

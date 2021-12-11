@@ -1,9 +1,25 @@
+---
+title: Cranberry Cherry Pie
+tags:
+    - cranberries
+    - cherries
+    - family recipe
+categories: 
+    - dessert
+    - pie
+methods:
+    - baked
+themes:
+    - thanksgiving
+    - vegetarian
+---
+
 This is Mom's famous pie.
 
 ## Special Equipment
 
 -   9" Deep Dish Pie Plate
--   One recipe [Pate Bris](Pate_Bris "wikilink") (pie crust)
+-   One recipe [Pâte Brisée](/recipes/pate_brisee)
 
 ## Preheat Oven
 
@@ -31,9 +47,3 @@ This is Mom's famous pie.
 ## Bake
 
 -   Bake about 1 hour
-
-[Category:Pies](Category:Pies "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Cranberries](Category:Cranberries "wikilink")
-[Category:Cherries](Category:Cherries "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

@@ -1,7 +1,16 @@
-+++
-title = "Banana Pudding"
-tags = ["pudding", "banana", "baked", "stove top"]
-+++
+---
+title: Banana Pudding
+tags:
+    - banana
+categories: 
+    - dessert
+    - pudding
+methods:
+    - baked
+    - stove-top
+themes:
+    - vegetarian
+---
 
 ## Source
 

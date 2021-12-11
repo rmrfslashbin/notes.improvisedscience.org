@@ -1,7 +1,19 @@
-+++
-title = "Buttered Stuffing with Leeks"
-tags = ["thanksgiving", "breads", "sage", "leeks", "baked"]
-+++
+---
+title: Buttered Stuffing with Leeks
+tags:
+    - sage
+    - leeks
+categories: 
+    - side dish
+    - bread
+    - stuffing
+    - dressing
+methods:
+    - baked
+themes:
+    - vegetarian
+    - thanksgiving
+---
 
 A very simple Thanksgiving dressing (stuffing).
 

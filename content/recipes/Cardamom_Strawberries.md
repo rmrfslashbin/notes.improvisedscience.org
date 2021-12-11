@@ -1,4 +1,20 @@
-# Ingredients
+---
+title: Cardamom Strawberries
+tags:
+    - strawberries
+    - cardamom
+    - honey
+    - bourbon
+    - syrup
+categories: 
+    - dessert
+    - fruits
+    - toppings
+themes:
+    - vegan
+---
+
+## Ingredients
 
 -   1 quart fresh strawberries, hulled, quartered, or sliced
 -   ½ cup water
@@ -8,9 +24,9 @@
 -   1 teaspoon molasses
 -   2 tablespoons bourbon
 
-# Method
+## Method
 
-## Syrup
+### Syrup
 
 Into a small saucepan, add:
 
@@ -27,7 +43,7 @@ occasionally.
     seconds).
 -   Let cool to room temperature.
 
-## Add to strawberries
+### Add to strawberries
 
 -   Places hulled and sliced strawberries in a non-reactive bowl.
 -   Pour syrup over strawberries.
@@ -35,20 +51,3 @@ occasionally.
 
 Let set for at least one hour or overnight in the refrigerator.
 
-# Images
-
-Pictured
-
--   [Cardamom Strawberries](Cardamom_Strawberries "wikilink")
--   [Pound Cake](Pound_Cake "wikilink")
-
-<https://media.improvisedscience.org/cardamom-strawberries_20180519_152502-320w.jpeg>
-<https://media.improvisedscience.org/pound-cake-and-cardamom-strawberries_20180519_180518-320w.jpeg>
-
-[Category:Desserts](Category:Desserts "wikilink")
-[Category:Vegan](Category:Vegan "wikilink")
-[Category:Strawberries](Category:Strawberries "wikilink")
-[Category:Cardamom](Category:Cardamom "wikilink")
-[Category:Bourbon](Category:Bourbon "wikilink")
-[Category:Honey](Category:Honey "wikilink")
-[Category:Syrups](Category:Syrups "wikilink")

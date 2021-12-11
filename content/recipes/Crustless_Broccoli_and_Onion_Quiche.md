@@ -1,3 +1,17 @@
+---
+title: Crustless Broccoli and Onion Quiche
+tags:
+    - broccoli
+    - onion
+categories: 
+    - main
+    - quiche
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 I've modified this recipe to streamline the cooking of the veggies and
 the final quiche.
 

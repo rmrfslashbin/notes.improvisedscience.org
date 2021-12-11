@@ -1,15 +1,16 @@
 ---
 title: 7-Grain Muffins
 tags:
-    - muffins
     - spelt
     - cherries
 categories: 
     - breakfast
+    - muffins
     - bread
-    - vegetarian
 methods:
     - baked
+themes:
+    - vegetarian
 ---
 
 This versatile recipe can be used with a variety of whole grain flours (wheat, spelt, rye), multi-grain cereals, and dried and fresh fruits (cherries, raisins, cranberries, blueberries).

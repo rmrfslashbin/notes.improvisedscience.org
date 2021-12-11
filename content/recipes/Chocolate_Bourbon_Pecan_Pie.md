@@ -1,7 +1,22 @@
+---
+title: Chocolate Bourbon Pecan Pie
+tags:
+    - chocolate
+    - bourbon
+    - pecan
+categories: 
+    - dessert
+    - pie
+methods:
+    - baked
+themes:
+    - vegetarian
+    - thanksgiving
+---
 ## Special Equipment
 
 -   9" Pie Plate
--   One recipe [Pate Bris](Pate_Bris "wikilink") (pie crust)
+-   One recipe [Pâte Brisée](/recipes/pate_brisee)
 -   Stand Mixer
 
 ## Preheat Oven
@@ -59,10 +74,3 @@
 
 -   Remove from oven and place on a wire rack to cool
 -   Serve warm or at room temperature with whipping cream.
-
-[Category:Pies](Category:Pies "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink")
-[Category:Bourbon](Category:Bourbon "wikilink")
-[Category:Pecans](Category:Pecans "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

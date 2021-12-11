@@ -1,3 +1,19 @@
+---
+title: Cornbread Dressing with Kale and Mushrooms
+tags:
+    - cornmeal
+    - buttermilk
+    - cooks country
+categories: 
+    - bread
+    - side dish
+methods:
+    - baked
+themes:
+    - vegetarian
+    - thanksgiving
+---
+
 I've heavily modified the source recipe to drop the raisins and swap the
 sourdough for cornbread.
 
@@ -22,8 +38,7 @@ Inspired by
 
 ## Ingredients
 
--   680 grams (1.5 lbs) 1.5x recipe of [Corn
-    Bread](Corn_Bread "wikilink")
+-   680 grams (1.5 lbs) 1.5x recipe of [Corn Bread](/recipes/Corn_bread.md)
 -   3 ½ tablespoons unsalted butter
 -   ½ cup extra-virgin olive oil
 -   Salt and pepper
@@ -99,7 +114,3 @@ hours.**
 -   Uncover and continue to bake until top is golden and crisp, about 15
     minutes longer.
 -   Let cool for 10 minutes before serving.
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

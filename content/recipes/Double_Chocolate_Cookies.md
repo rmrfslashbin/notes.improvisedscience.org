@@ -1,21 +1,35 @@
-# Source
+---
+title: Double Chocolate Cookies
+tags:
+    - chocolate
+    - dutch-process
+categories: 
+    - dessert
+    - cookies
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
+## Source
 
 -   <https://cooking.nytimes.com/recipes/1018459-double-chocolate-cookies>
 
-# Change Log
+## Change Log
 
 -   Reduced granulated and brown sugar amounts
 
-# Special Equipment
+## Special Equipment
 
 -   Cookie Baking Sheet
 -   Stand Mixer
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat oven to 350°F
 
-# Ingredients
+## Ingredients
 
 -   145 grams (1 cup) all-purpose flour
 -   75 grams (3/4 cup) Dutch-process cocoa powder
@@ -29,7 +43,7 @@
 -   2 teaspoons pure vanilla extract
 -   ¾ bag bittersweet chocolate chips
 
-# Preparation
+## Preparation
 
 -   In a medium bowl, whisk together, then set aside:
     -   flour
@@ -48,7 +62,7 @@
 -   Press plastic wrap against the dough and chill it for at least 24
     hours and up to 36.
 
-# Bake
+## Bake
 
 -   Heat oven to 350°f degrees.
 -   Line a baking sheet with parchment paper.
@@ -61,7 +75,3 @@
 -   Repeat with the remaining dough, baking a second batch of four or
     five cookies.
 -   Serve warm.
-
-[Category:Cookies](Category:Cookies "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink")

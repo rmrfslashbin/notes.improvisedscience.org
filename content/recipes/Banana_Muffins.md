@@ -1,7 +1,18 @@
-+++
-title = "Banana Muffins"
-tags = ["baked", "breads", "muffins", "banana", "spelt", "vegetarian"]
-+++
+---
+title: Banana Muffins
+tags:
+    - banana
+    - spelt
+categories: 
+    - breakfast
+    - muffins
+    - bread
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 
 This recipe is derived from [7-Grain Muffins](/recipes/7-grain_muffins/) and modified include ripe bananas
 and accompanying spices.

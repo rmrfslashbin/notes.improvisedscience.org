@@ -1,7 +1,16 @@
-+++
-title = "Apple Cobbler"
-tags = ["cobbler", "apples", "baked", "dessert", "mom"]
-+++
+---
+title: Apple Cobbler
+tags:
+    - apple
+    - family recipe
+categories: 
+    - dessert
+    - cobbler
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
 This is mom's classic apple cobbler recipe.
 

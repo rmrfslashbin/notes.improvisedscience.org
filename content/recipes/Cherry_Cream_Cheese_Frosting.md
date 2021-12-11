@@ -1,3 +1,16 @@
+---
+title: Cherry Cream Cheese Frosting
+tags:
+    - cream cheese
+    - cherry
+categories: 
+    - dessert
+    - frosting
+    - icing
+themes:
+    - vegetarian
+---
+
 I first made this recipe to frost a double-layer 9" round chocolate
 cake. This recipe produced enough frosting to top each of the rounds
 (filling between the two rounds, plus the top). If it is desired to fill
@@ -12,7 +25,7 @@ blackberry, apricot, etc.
 
 ## Source
 
--   <http://sweetapolita.com/2012/10/black-velvet-cupcakes-with-cherry-cream-cheese-frosting/>
+-   http://sweetapolita.com/2012/10/black-velvet-cupcakes-with-cherry-cream-cheese-frosting/
 
 ## Special Equipment
 
@@ -46,6 +59,3 @@ Using a stand mixer fitted with a paddle:
 Taste the frosting and add more preserves if desired. If the frosting is
 too thin, at a little more sugar. If it is too thick, add more preserves
 (if the flavor tolerates), or a little milk.
-
-[Category:Frostings](Category:Frostings "wikilink")
-[Category:No-Cook](Category:No-Cook "wikilink")

@@ -1,3 +1,15 @@
+---
+title: Chicken Scaloppini
+tags:
+    - chicken
+    - wine
+    - veggies
+categories: 
+    - main
+methods:
+    - stove-top
+---
+
 Sautéed chicken cutlets with a quick pan sauce make an ideal weeknight
 meal, and with a few tweaks, we perfected the classic. Most recipes call
 for browning the chicken before building the sauce, but we found that

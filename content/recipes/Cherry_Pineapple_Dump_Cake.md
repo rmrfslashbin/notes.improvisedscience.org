@@ -1,3 +1,21 @@
+---
+title: Cherry Pineapple Dump Cake
+tags:
+    - cherries
+    - pineapple
+    - convenience
+    - boxed cake mix
+    - family recipe
+categories: 
+    - dessert
+    - cake
+    - dump cake
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 This is an old "easy recipe" which is deliciously deadly. Eat with care.
 The "Cherry Pineapple" rendition is just one way this cake can be
 prepared; the basic recipe can be altered to use any flavor of cake mix
@@ -34,8 +52,3 @@ with any variety of canned fruits.
 ## Variations
 
 -   Strawberry pie filling with chocolate cake mix
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Cherries](Category:Cherries "wikilink")
-[Category:Pineapple](Category:Pineapple "wikilink")

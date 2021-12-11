@@ -1,3 +1,17 @@
+---
+title: Cheesecake
+tags:
+    - cream cheese
+    - original recipe
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
 This is the final product of many, many test cheesecakes.
 
 ## Special Equipment
@@ -57,6 +71,3 @@ should be placed on the lower oven rack to provide humidity.
 ## Presentation
 
 Slice cheesecake using a non-serrated knife or cut with thread.
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

@@ -1,13 +1,26 @@
+---
+title: Chili and Garlic Shrimp
+tags:
+    - shrimp
+    - garlic
+    - chilis
+    - guajillo
+categories: 
+    - main
+methods:
+    - stove-top
+---
+
 Quick and easy, mildly spicy, deeply flavorful. Guajillo chiles can be
 easy purchased in most markets or online.
 
-# Equipment
+## Equipment
 
 -   12-inch nonstick skillet
 -   Kitchen shears
 -   Blender or food processor
 
-# Ingredients
+## Ingredients
 
 -   30 grams dried guajillo chiles
 -   1/2 cup water
@@ -23,9 +36,9 @@ easy purchased in most markets or online.
 -   2 tablespoons unsalted butter, cut in two pieces
 -   2 tablespoons chopped fresh cilantro
 
-# Preparation
+## Preparation
 
-## Chiles
+### Chiles
 
 -   Using kitchen shears, stem **guajillos**- cut in half lengthwise and
     discard seeds.
@@ -38,7 +51,7 @@ easy purchased in most markets or online.
     teaspoon salt**.
 -   Blend until smooth; set aside.
 
-## Shrimp
+### Shrimp
 
 -   Pat **shrimp** dry with paper towels.
 -   Sprinkle with **cumin**, **cayenne**, and remaining **1/2 teaspoon
@@ -52,7 +65,7 @@ easy purchased in most markets or online.
 -   Repeat with **1 tablespoon oil** and remaining shrimp.
 -   Transfer second batch to bowl with first batch.
 
-## Combine
+### Combine
 
 -   Reduce heat to low.
 -   Add remaining **1 tablespoon oil** and **sliced garlic** to
@@ -62,14 +75,9 @@ easy purchased in most markets or online.
 -   Add **shrimp**.
 -   Cook until shrimp are just cooked through; **about 1 minute**.
 
-## Finish
+### Finish
 
 -   Off heat, stir in **lime juice** and **buttter** until butter is
     melted.
 -   Transfer to serving dish.
 -   Sprinkle with **cilantro** and serve.
-
-[Category:Chiles](Category:Chiles "wikilink")
-[Category:Shrimp](Category:Shrimp "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:Main
-Dishes](Category:Main_Dishes "wikilink")

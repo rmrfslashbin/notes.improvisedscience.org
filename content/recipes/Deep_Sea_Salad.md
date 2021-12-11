@@ -1,3 +1,17 @@
+---
+title: Deep Sea Salad
+tags:
+    - convenience
+    - jello
+    - family recipe
+categories: 
+    - dessert
+methods:
+    - no-cook
+themes:
+    - vegetarian
+---
+
 Patricia Ku's famous "Deep Sea Salad"
 
 ## Special Equipment
@@ -33,6 +47,3 @@ Patricia Ku's famous "Deep Sea Salad"
 -   Cool to room temperature.
 -   Pour over refrigerated mixture.
 -   Refrigerate until set.
-
-[Category:Desserts](Category:Desserts "wikilink")
-[Category:No-Cook](Category:No-Cook "wikilink")

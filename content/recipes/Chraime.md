@@ -1,4 +1,17 @@
-<http://en.wikibooks.org/wiki/Cookbook:Chraime>
+---
+title: Chráime
+tags:
+    - fish
+    - veggies
+    - potatoes
+    - tomatoes
+categories:
+    - main
+methods:
+    - stove-top
+themes:
+    - one-pot meals
+---
 
 ## Ingredients
 

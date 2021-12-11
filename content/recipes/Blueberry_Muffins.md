@@ -1,7 +1,16 @@
-+++
-title = "Blueberry Muffins"
-tags = ["blueberries", "muffins", "baked"]
-+++
+---
+title: Blueberry Muffins
+tags:
+    - blueberry
+categories: 
+    - breakfast
+    - muffins
+    - bread
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
 These blueberry muffins are light, delicious, and delightful. Use fresh
 blueberries for full flavor and opt for muffin wrappers as opposed to

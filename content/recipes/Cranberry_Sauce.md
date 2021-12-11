@@ -1,10 +1,24 @@
+---
+title: Cranberry Sauce
+tags:
+    - cranberries
+categories: 
+    - side dish
+    - sauce
+methods:
+    - stove-top
+themes:
+    - thanksgiving
+    - vegan
+---
+
 This is a tart rendition of a classic cranberry sauce. Some recipes
 indicate using a minimum of 6 tablespoons of sugar per 4 cups of
 cranberries, others indicate as much as a cup of sugar. Sweeten as
 desired to accomidate invididual tastes. Just remember: you can always
 add sugar, but you can't take it out.
 
-# Ingredients
+## Ingredients
 
 -   4 cups whole cranberries
 -   1 cups water
@@ -12,7 +26,7 @@ add sugar, but you can't take it out.
 -   Pinch of salt
 -   ¼ cup orange juice or Grand Marnier (optional)
 
-# Preparation
+## Preparation
 
 -   In a medium saucepan, combine:
     -   cranberries
@@ -25,8 +39,3 @@ add sugar, but you can't take it out.
 -   Remove from heat.
 -   Stir in juice or liqueur, if using.
 -   Serve or then cover sauce and chill.
-
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")
-[Category:Sauce](Category:Sauce "wikilink")
-[Category:Cranberries](Category:Cranberries "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")

@@ -1,3 +1,20 @@
+---
+title: Egg Nog
+tags:
+    - bourbon
+    - rum
+    - vanilla
+    - cream
+    - nutmeg
+categories:
+    - drinks
+methods:
+    - no-cook
+themes:
+    - vegetarian
+    - holiday
+---
+
 ## Ingredient and Measurement Table
 
 | Ingredient                               | 8 Servings                      | 16 Servings           | 24 Servings                   |
@@ -27,6 +44,3 @@
 -   Serve at room temperature.
 -   Ladling eggnog into cups.
 -   Sprinkle nutmeg on top.
-
-[Category:Drinks](Category:Drinks "wikilink")
-[Category:No-Cook](Category:No-Cook "wikilink")

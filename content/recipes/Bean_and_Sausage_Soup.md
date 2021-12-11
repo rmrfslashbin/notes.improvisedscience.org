@@ -1,7 +1,16 @@
-+++
-title = "Bean and Sausage Soup"
-tags = ["soup", "beans", "sausage", "stove top", "one-pot meals"]
-+++
+---
+title: Bean and Sausage Soup
+tags:
+    - beans
+    - sausage
+categories: 
+    - main
+    - soup
+methods:
+    - stove-top
+themes:
+    - one-pot meals 
+---
 
 This recipe was modified to remove the kale and yield more of a stew
 type of consistency.

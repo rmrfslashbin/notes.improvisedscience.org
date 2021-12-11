@@ -2,12 +2,12 @@
 title: Anasazi Beans
 tags:
     - beans
-categories: 
-    - one-pot meals
+    - family recipe
 methods:
     - crock pot
 themes:
     - vegan
+    - one-pot meals
 ---
 
 ## Source

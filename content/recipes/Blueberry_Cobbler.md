@@ -1,7 +1,15 @@
-+++
-title = "Blueberry Cobbler"
-tags = ["blueberries", "cobbler", "baked"]
-+++
+---
+title: Blueberry Cobbler
+tags:
+    - blueberry
+categories: 
+    - dessert
+    - cobbler
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
 > This cobbler, which comes from the kitchens of Chez Panisse, prizes
 > the berries above all, using only 1/3 cup of sugar. The dough rounds

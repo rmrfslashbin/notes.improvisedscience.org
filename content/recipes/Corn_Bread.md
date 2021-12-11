@@ -1,21 +1,37 @@
-# Source
+---
+title: Corn Bread
+tags:
+    - cornmeal
+    - buttermilk
+    - cast iron skillet
+    - nytimes
+categories: 
+    - bread
+    - side dish
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
-<https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread>
+## Source
 
-# Change Log
+https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
+
+## Change Log
 
 -   Honey can be omitted if recipe is to be savory or used in a savory
     dish such as cornbread dressing.
 
-# Special Equipment
+## Special Equipment
 
 -   11 to 12 inch cast-iron skillet
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat oven to 375°F.
 
-# Ingredients
+## Ingredients
 
 -   170 grams (12 tablespoons / 1 1/2 sticks) unsalted butter
 -   ½ cup (120 ml) maple syrup (omit for savory dishes)
@@ -28,11 +44,11 @@
 -   9 grams (1 ½) teaspoons salt
 -   5 grams (½ teaspoon) baking soda
 
-# Preparation
+## Preparation
 
 -   Heat oven to '''375°F.
 
-## Brown Butter
+3## Brown Butter
 
 -   On the stovetop, in an 11- or 12-inch cast iron skillet, melt the
     **butter** over medium heat.
@@ -41,14 +57,14 @@
     see that it does not burn.)
 -   Pour brown butter into a large bowl. (Do not wipe out the pan.)
 
-## Wet Ingredients
+### Wet Ingredients
 
 -   If using, whisk the **maple syrup** into the butter.
 -   Whisk **buttermilk** into the butter.
 -   The mixture should be cool to the touch; if not, let cool.
 -   Whisk in the **eggs**.
 
-## Combine with Dry Ingredients
+### Combine with Dry Ingredients
 
 Into the butter/buttermilk mixture, whisk in:
 
@@ -58,7 +74,7 @@ Into the butter/buttermilk mixture, whisk in:
 -   Salt
 -   Baking soda
 
-## Bake
+### Bake
 
 -   If the skillet is no longer hot, reheat it briefly on the stove for
     a few minutes.
@@ -66,11 +82,3 @@ Into the butter/buttermilk mixture, whisk in:
 -   Bake until the top is golden brown and a toothpick inserted into it
     emerges clean, **30 to 40 minutes**.
 -   Cool in the skillet for **10 minutes** before slicing.
-
-# Pictures
-
-<https://s3.amazonaws.com/bc52a264-5aeb-11e8-b07b-00163e6e8c88/cornbread-20180610_150604-320w.png>
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

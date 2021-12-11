@@ -1,7 +1,17 @@
-+++
-title = "Aunt Goldie's Quick Rise Biscuits"
-tags = ["baked", "breads", "biscuits"]
-+++
+---
+title: Aunt Goldie's Quick Rise Biscuits
+tags:
+    - yeast
+    - family recipe
+categories: 
+    - bread
+    - buscuits
+methods:
+    - baked
+themes:
+    - vegetarian
+
+---
 
 These biscuits are from an old verbal recipe, passed down over the
 years. The measurements are approximate and should be varied according

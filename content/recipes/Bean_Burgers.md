@@ -1,7 +1,15 @@
-+++
-title = "Bean Burgers"
-tags = ["beans", "burgers", "grilled", "vegetarian"]
-+++
+---
+title: Bean Burgers
+tags:
+    - beans
+categories: 
+    - main
+    - burgers
+methods:
+    - grill
+themes:
+    - vegan
+---
 
 ## Equipment
 

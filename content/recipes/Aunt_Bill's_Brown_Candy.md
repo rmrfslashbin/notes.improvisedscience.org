@@ -1,7 +1,14 @@
-+++
-title = "Aunt Bill's Brown Candy"
-tags = ["candy"]
-+++
+---
+title: Aunt Bill's Brown Candy
+categories: 
+    - dessert
+    - candy
+methods:
+    - stove-top
+themes:
+    - vegetarian
+
+---
 
 This is a rich, dense caramel candy which require the simultaneous effort of two people, a lot of sweat, a lot of elbow grease and a highly durable electric mixer.
 

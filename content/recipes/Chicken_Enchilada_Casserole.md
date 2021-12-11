@@ -1,3 +1,19 @@
+---
+title: Chicken Enchilada Casserole
+tags:
+    - chicken
+    - enchelada
+    - poblano
+    - peppers
+    - tortillas
+    - cheese
+categories: 
+    - casserole
+    - main
+methods:
+    - baked
+---
+
 ## Source
 
 <http://www.wholefoodsmarket.com/recipe/chicken-enchilada-casserole>
