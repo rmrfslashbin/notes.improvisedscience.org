@@ -1,6 +1,11 @@
++++
+title = "Buttered Stuffing with Leeks"
+tags = ["thanksgiving", "breads", "sage", "leeks", "baked"]
++++
+
 A very simple Thanksgiving dressing (stuffing).
 
-# Ingredients
+## Ingredients
 
 -   1 large loaf good, crusty bread, preferably sourdough, ciabatta, or
     multi-grain (about 1¼ pounds)
@@ -15,13 +20,13 @@ A very simple Thanksgiving dressing (stuffing).
 -   ½ cup finely chopped parsley
 -   ¼ cup finely chopped chives
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat oven to 375°F.
 
-# Preparation
+## Preparation
 
-## Bread
+### Bread
 
 -   Using your hands, tear bread, crust and all, into 1 ½- to 2-inch
     pieces.
@@ -30,7 +35,7 @@ A very simple Thanksgiving dressing (stuffing).
     toast the chunks in a 300-degree oven instead, tossing occasionally,
     until lightly crisped, but not browned, on the outside.
 
-## Leeks
+### Leeks
 
 -   Heat oven to 375°F.
 -   In a large skillet over medium-high heat, combine olive oil and 4
@@ -43,7 +48,7 @@ A very simple Thanksgiving dressing (stuffing).
     4 minutes.
 -   Remove from heat.
 
-## Broth
+### Broth
 
 -   In a medium bowl, whisk together broth and eggs.
 -   Into a large bowl, combine until evenly distributed:
@@ -52,14 +57,14 @@ A very simple Thanksgiving dressing (stuffing).
     -   Parsley
     -   Chives
 
-## Combine
+### Combine
 
 -   Pour about half the egg mixture over the bread and toss a few times.
 -   Let sit a minute or two and give another toss.
 -   Let sit about 20 minutes.
 -   Add more egg mixture until mixture is very wet.
 
-## Bake
+### Bake
 
 -   Transfer mixture to a 2 1/2- to 3-quart baking dish (a 9-by-13 pan
     also works), making sure not to pack it too tightly.
@@ -69,7 +74,7 @@ A very simple Thanksgiving dressing (stuffing).
     aside. (If you are nearly ready to serve, proceed directly to the
     next step and continue without pausing.)
 
-## Finish
+### Finish
 
 -   When ready to serve, remove foil and increase the temperature to
     425°F.
@@ -77,10 +82,3 @@ A very simple Thanksgiving dressing (stuffing).
 -   Bake stuffing until crispy, crunchy and golden brown on top, 20 to
     25 minutes.
 -   Serve.
-
-[Category:Thanksgiving](Category:Thanksgiving "wikilink") [Category:Side
-Dishes](Category:Side_Dishes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Bread](Category:Bread "wikilink")
-[Category:Sage](Category:Sage "wikilink")
-[Category:Leeks](Category:Leeks "wikilink")

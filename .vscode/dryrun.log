@@ -1,0 +1,7 @@
+make run --dry-run --keep-going --print-directory
+make: Entering directory `/Users/rmrfslashbin/src/github.com/rmrfslashbin/notes.improvisedscience.org'
+echo "Running..."
+hugo server
+echo "Done."
+make: Leaving directory `/Users/rmrfslashbin/src/github.com/rmrfslashbin/notes.improvisedscience.org'
+ 

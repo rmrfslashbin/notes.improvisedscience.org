@@ -1,3 +1,8 @@
++++
+title = "Aunt Goldie's Quick Rise Biscuits"
+tags = ["baked", "breads", "biscuits"]
++++
+
 These biscuits are from an old verbal recipe, passed down over the
 years. The measurements are approximate and should be varied according
 to humidity. This recipe lacks precise measurement, oven temperature,
@@ -36,6 +41,3 @@ and cooking times.
 -   Transfer to a large bowl; cover and refrigerate
 -   Use as needed; roll out to ½ thick
 -   Cut, bake
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

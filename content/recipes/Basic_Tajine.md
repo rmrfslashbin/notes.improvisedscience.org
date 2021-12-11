@@ -1,3 +1,9 @@
++++
+title = "Basic Tajine"
+tags = ["tajine", "baked"]
++++
+
+
 A [Tajine](https://en.wikipedia.org/wiki/Tajine) is a versatile clay pot
 with a conical lid which lends itself to slow cooked, flavor infused
 foods. The process in preping and cooking a dish is typically the same
@@ -14,12 +20,12 @@ across most recipes:
 -   Cool at about 350°F for about 1.5 to 2 hours.
 -   Server with couscous, rice, quinoa, or other similar grain.
 
-# Pre-soak
+## Pre-soak
 
 To make the best use of a tajine pot, pre-soak the base and lid,
 submerged in water, for at least one hour before use.
 
-# Proteins
+## Proteins
 
 Tejine recipes can include various proteins:
 
@@ -28,7 +34,7 @@ Tejine recipes can include various proteins:
 -   Fish
 -   Tofu
 
-# Vegetable/Legume
+## Vegetable/Legume
 
 Typical vegetables found in common recipes:
 
@@ -43,14 +49,14 @@ Typical vegetables found in common recipes:
 -   Green beans
 -   Okra
 
-# Seasonings
+## Seasonings
 
 A tajine can be flavored in any style you desire. Traditionally, warm
 spices such as cinnamon, nutmeg, allspice, cardamon are used.
 Additionally, cumin, coriander, ginger, and garlic are found in many
 dishes. Honey is often used to temper the bitterness of raw spices.
 
-# Cooking
+## Cooking
 
 Some tajines can be placed directly over flame; check the usage
 instructions for your specific pot. As an alternative, a good cast iron
@@ -67,18 +73,18 @@ sensitive surface (ie: not a cold granite counter top). Tip the lid away
 from your face to avoid steam burns. Let the steam vent out, then slowly
 remove the lid from the base.
 
-# Serving
+## Serving
 
 The tajine can be presented directly to the dinner table. Serve with a
 side of fluffy couscous, quinoa, brown rice, or other similar grain.
 
-# Clean up
+## Clean-up
 
 Clean up should be simple: warm soapy water and a soft cloth. Do not use
 anything harsh or scratchy which would damage the finish of the tajine.
 Store in a dry spot.
 
-# Recipes
+## Recipes
 
 Tajine recipes are plentiful. A little googling will yield recipes both
 from big-name sources and transcribed family recipes handed down by
@@ -88,7 +94,7 @@ about the look, feel, and taste- as opposed to precise measurements,
 skills, and cooking time. It's your tajine, it's your food. Make the
 best of it!
 
-## Chicken and Preserved Lemons
+### Chicken and Preserved Lemons
 
 Here's one basic recipe for chicken thighs:
 
@@ -109,7 +115,7 @@ With a spice mix:
 -   ½ tablespoon ground cardamom
 -   2 ½ teaspoons ground allspice
 
-## Chicken with Apricots
+### Chicken with Apricots
 
 -   3 lbs skin on, bone in chicken thighs
 -   3 large yellow onions
@@ -120,8 +126,3 @@ With a spice mix:
     toasted to help mellow out the flavors
 
 Perhaps some chickpeas, sweet potatoes, carrots, or other roots.
-
-[Category:Chicken](Category:Chicken "wikilink") [Category:One-Pot
-Meals](Category:One-Pot_Meals "wikilink")
-[Category:Tajine](Category:Tajine "wikilink") [Category:Main
-Dishes](Category:Main_Dishes "wikilink")

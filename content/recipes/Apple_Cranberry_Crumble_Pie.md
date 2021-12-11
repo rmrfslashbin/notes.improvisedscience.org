@@ -1,8 +1,12 @@
++++
+title = "Apple Cranberry Crumble Pie"
+tags = ["pies", "apples", "cranberries", "thanksgiving", "baked", "crust"]
++++
+
 A fantastic pie which is fairly easy to make; albeit somewhat
 time-consuming. My changes to the recipe yield a tarter and naturally
 flavored pie. The crumble topping can be swapped for a traditional
-crust. If so desired, make full batch of [Pate
-Bris](Pate_Bris "wikilink").
+crust. If so desired, make full batch of [Pâte Brisée](/recipes/pate_brisee).
 
 ## Source
 
@@ -29,8 +33,7 @@ This recipe has been modified from the original source:
 
 ## Prerequisite Recipes
 
--   [Half recipe](Pate_Bris#Ingredients_.28Half_Recipe.29 "wikilink") of
-    [Pate Bris](Pate_Bris "wikilink")
+-   [Pâte Brisée](/recipes/pate_brisee)
 
 ## Preheat Oven
 
@@ -71,7 +74,7 @@ This recipe has been modified from the original source:
 
 ### Crust
 
--   Prepare half a recipe of [Pate Bris](Pate_Bris "wikilink") (for the
+-   Prepare half a recipe of [Pâte Brisée](/recipes/pate_brisee) (for the
     bottom crust).
 -   On a lightly floured surface, roll dough out into a 13-inch round.
 -   Gently lift the 13-inch round from the floured surface and center in
@@ -135,9 +138,3 @@ This recipe has been modified from the original source:
 -   Place pie on a rimmed baking sheet and bake for 1 hour, until the
     edges bubble and the apples are cooked through.
 -   Allow to cool for at least an hour before serving.
-
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Pies](Category:Pies "wikilink")
-[Category:Apples](Category:Apples "wikilink")
-[Category:Cranberries](Category:Cranberries "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

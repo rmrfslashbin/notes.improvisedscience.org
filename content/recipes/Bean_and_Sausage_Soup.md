@@ -1,3 +1,8 @@
++++
+title = "Bean and Sausage Soup"
+tags = ["soup", "beans", "sausage", "stove top", "one-pot meals"]
++++
+
 This recipe was modified to remove the kale and yield more of a stew
 type of consistency.
 
@@ -67,8 +72,3 @@ drain.
 
 Simmer, uncovered, stirring occasionally about 12 to 15 minutes; or
 until desired consistency.
-
-[Category:One-Pot Meals](Category:One-Pot_Meals "wikilink")
-[Category:Stove Top](Category:Stove_Top "wikilink")
-[Category:Beans](Category:Beans "wikilink")
-[Category:Sausage](Category:Sausage "wikilink")

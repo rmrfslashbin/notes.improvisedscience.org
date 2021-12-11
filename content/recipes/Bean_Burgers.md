@@ -1,3 +1,8 @@
++++
+title = "Bean Burgers"
+tags = ["beans", "burgers", "grilled", "vegetarian"]
++++
+
 ## Equipment
 
 -   Food Processor
@@ -25,7 +30,3 @@
 5.  Divide the mixture into four even patties and cook them in olive oil
     until nicely browned each side.
 6.  Serve on toasted buns with lettuce, tomato and onions.
-
-[Category:Burgers](Category:Burgers "wikilink")
-[Category:Grill](Category:Grill "wikilink")
-[Category:Beans](Category:Beans "wikilink")

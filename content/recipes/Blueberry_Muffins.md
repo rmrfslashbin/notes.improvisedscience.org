@@ -1,3 +1,8 @@
++++
+title = "Blueberry Muffins"
+tags = ["blueberries", "muffins", "baked"]
++++
+
 These blueberry muffins are light, delicious, and delightful. Use fresh
 blueberries for full flavor and opt for muffin wrappers as opposed to
 non-stick spray for even lighter tasting muffins.
@@ -72,7 +77,3 @@ non-stick spray for even lighter tasting muffins.
 -   Bake 25 to 30 minutes, rotating pan halfway through baking, until
     light golden brown and toothpick inserted into center comes out
     clean.
-
-[Category:Muffins](Category:Muffins "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Blueberries](Category:Blueberries "wikilink")

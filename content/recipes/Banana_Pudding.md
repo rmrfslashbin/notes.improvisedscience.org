@@ -1,17 +1,22 @@
-# Source
++++
+title = "Banana Pudding"
+tags = ["pudding", "banana", "baked", "stove top"]
++++
 
-<https://cooking.nytimes.com/recipes/1015130-banana-pudding>
+## Source
 
-# Equipment
+https://cooking.nytimes.com/recipes/1015130-banana-pudding
+
+## Equipment
 
 -   Stand Mixer
 -   13x9" baking dish
 
-# Preheat Oven
+## Preheat Oven
 
 Preheat oven to 350°F
 
-# Ingredients
+## Ingredients
 
 -   1 ¼ cups granulated sugar, divided: ¾ cup + ½ cup
 -   ⅓ cup cornstarch
@@ -24,9 +29,9 @@ Preheat oven to 350°F
 -   1 11-ounce box nilla wafers
 -   3 to 4 bananas, depending on size
 
-# Preparation
+## Preparation
 
-## Custard
+### Custard
 
 -   Whisk together in a pot set over medium heat:
     -   ¾ cup of sugar
@@ -40,7 +45,7 @@ Preheat oven to 350°F
 -   Remove the mixture from heat.
 -   Whisk in **vanilla**, **salt**, and **butter**.
 
-## Meringue
+### Meringue
 
 -   Into a heatproof stand mixer bowl, whisk together:
     -   Egg whites
@@ -52,7 +57,7 @@ Preheat oven to 350°F
 -   Transfer to the stand mixer fitted with a whisk, and beat until
     stiff, about 5 to 7 minutes.
 
-## Bake
+### Bake
 
 -   Line a 13-by-9-inch oven-safe casserole pan with one layer of
     **Nilla wafers** and one layer of **banana slices**.
@@ -61,9 +66,3 @@ Preheat oven to 350°F
 -   Bake in the oven for **10 to 15 minutes**, until the peaks are the
     color of a toasted marshmallow.
 -   Allow to rest until ready to serve.
-
-[Category:Puddings, Creams, and
-Custards](Category:Puddings,_Creams,_and_Custards "wikilink")
-[Category:Banana](Category:Banana "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

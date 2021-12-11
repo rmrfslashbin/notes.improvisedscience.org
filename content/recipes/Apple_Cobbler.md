@@ -1,3 +1,8 @@
++++
+title = "Apple Cobbler"
+tags = ["cobbler", "apples", "baked", "dessert", "mom"]
++++
+
 This is mom's classic apple cobbler recipe.
 
 ## Info
@@ -9,7 +14,7 @@ This is mom's classic apple cobbler recipe.
 ## Equipment
 
 -   9x13x2" Baking dish
--   Two recipes [Pate Bris](Pate_Bris "wikilink")
+-   Two recipes [Pâte Brisée](/recipes/pate_brisee)
 
 ## Preheat Oven
 
@@ -24,7 +29,7 @@ This is mom's classic apple cobbler recipe.
 -   1 tablespoon Nutmeg
 -   1 tablespoon Allspice
 -   ½ cup Butter
--   4 Pie Crusts ([Pate Bris](Pate_Bris "wikilink"))
+-   4 Pie Crusts [Pâte Brisée](/recipes/pate_brisee)
 
 ## Preparation
 
@@ -40,7 +45,3 @@ This is mom's classic apple cobbler recipe.
 
 -   Cover with heavy foil and bake 2 ½ hours.
 -   Remove foil and bake another 30 minutes.
-
-[Category:Cobblers and Crisps](Category:Cobblers_and_Crisps "wikilink")
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Apples](Category:Apples "wikilink")

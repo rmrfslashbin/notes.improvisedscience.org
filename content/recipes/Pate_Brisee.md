@@ -1,7 +1,12 @@
++++
+title = "Pâte Brisée"
+tags = ["crust"]
++++
+
 > This is a flavorful pastry dough that is quick to make and easy to
 > roll out. The pastry can be made in a food processor, electric mixer,
 > or by hand. Just make sure the butter and water are cold and don't
-> over mix this dough or it will be tough after baking. Pate Brisee is
+> over mix this dough or it will be tough after baking. Pâte Brisée is
 > pronounced paht bree-ZAY. It is a French short crust pastry dough made
 > from a mixture of flour, a little sugar, salt, butter, and ice water.
 > It has a high ratio of fat to flour which gives the pastry its crumbly
@@ -11,7 +16,7 @@
 ## Info
 
 -   Makes two - 9 inch (23 cm) tart shells
--   <http://www.joyofbaking.com/PateBrisee.html>
+-   http://www.joyofbaking.com/PateBrisee.html
 
 ## Special Equipment
 
@@ -94,5 +99,3 @@ weights are to the top of the pan and evenly distributed over the entire
 surface. Bake crust for 20 to 25 minutes or until the crust is dry and
 lightly browned. Remove weights and cool crust on wire rack. Proceed
 with desired recipe that calls for a pre-baked shell.
-
-[Category:Crusts](Category:Crusts "wikilink")

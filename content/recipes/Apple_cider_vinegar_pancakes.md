@@ -1,5 +1,9 @@
-These pancakes add a new twist on the typical buttermilk + blueberry
-variety.
++++
+title = "Apple Cider Vinegar Pancakes"
+tags = ["breakfast", "griddle"]
++++
+
+These pancakes add a new twist on the typical buttermilk + blueberry variety.
 
 ## Special Equipment
 
@@ -36,6 +40,3 @@ variety.
 ## Grill
 
 -   Spoon batter on to pancake grill and bake until done.
-
-[Category:Breakfast](Category:Breakfast "wikilink")
-[Category:Griddle](Category:Griddle "wikilink")

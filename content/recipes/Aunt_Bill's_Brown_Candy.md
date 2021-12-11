@@ -1,6 +1,9 @@
-This is a rich, dense caramel candy which require the simultaneous
-effort of two people, a lot of sweat, a lot of elbow grease and a highly
-durable electric mixer.
++++
+title = "Aunt Bill's Brown Candy"
+tags = ["candy"]
++++
+
+This is a rich, dense caramel candy which require the simultaneous effort of two people, a lot of sweat, a lot of elbow grease and a highly durable electric mixer.
 
 ## Info
 
@@ -58,6 +61,3 @@ Recipe dictated by: Cheryl Sigler
 -   Beat on medium/high speed until mixture takes on a heavy dull
     appearance.
 -   Pour into buttered pan.
-
-[Category:Candy](Category:Candy "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")

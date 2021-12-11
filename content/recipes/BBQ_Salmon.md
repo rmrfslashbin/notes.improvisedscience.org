@@ -1,3 +1,8 @@
++++
+title = "BBQ Salmon"
+tags = ["salmon", "fish", "grilled", "bbq"]
++++
+
 Recipe modified from source:
 <http://www.cookscountry.com/recipes/4374-bbq-wood-grilled-salmon>
 
@@ -63,8 +68,3 @@ Next...
 -   Remove trays from grill.
 -   Slide metal spatula between skin and flesh of fish and transfer to
     platter.
-
-[Category:Main Dishes](Category:Main_Dishes "wikilink")
-[Category:Fish](Category:Fish "wikilink")
-[Category:Salmon](Category:Salmon "wikilink")
-[Category:Grill](Category:Grill "wikilink")
