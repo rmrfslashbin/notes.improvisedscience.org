@@ -6,3 +6,7 @@ theme = 'learn'
 home = [ "HTML", "RSS", "JSON"]
 [params]
 "description" = "A collection of notes and thoughts."
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
