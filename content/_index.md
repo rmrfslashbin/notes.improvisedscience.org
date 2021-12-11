@@ -1,3 +1,7 @@
+---
+ShowToc: false
+---
+
 # Welcome
 This site is a collection of the recipes I've made and like. Some of these recipes are original creations, and some are handed-down family favorites. Others are modifications from other sources. I've cited sources as applicable to each recipe.
 

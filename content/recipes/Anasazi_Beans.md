@@ -1,7 +1,14 @@
-+++
-title = "Anasazi Beans"
-tags = ["one-pot meals", "crock pot", "beans", "vegan"]
-+++
+---
+title: Anasazi Beans
+tags:
+    - beans
+categories: 
+    - one-pot meals
+methods:
+    - crock pot
+themes:
+    - vegan
+---
 
 ## Source
 From sister, Rachael.
