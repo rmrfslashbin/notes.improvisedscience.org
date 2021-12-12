@@ -1,17 +1,30 @@
-# Source
+---
+title: Italian Flourless Chocolate Cake
+tags:
+    - chocolate
+    - flourless
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+---
 
--   <https://cooking.nytimes.com/recipes/1018431-italian-flourless-chocolate-cake>
 
-# Preheat Oven
+## Source
+
+-   https://cooking.nytimes.com/recipes/1018431-italian-flourless-chocolate-cake
+
+## Preheat Oven
 
 -   Preheat oven to 350°F
 
-# Special Equipment
+## Special Equipment
 
 -   Stand mixer
 -   8" round cake pan
 
-# Ingredients
+## Ingredients
 
 -   100 grams (7 tablespoons) unsalted butter softened, plus more for
     pan
@@ -44,7 +57,3 @@
 -   Unmold cake, peel off parchment, then invert onto a serving dish so
     the crackly surface is on top.
 -   Generously sift **confectioners’ sugar** over the top, then serve.
-
-[Category:Cakes](Category:Cakes "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink") [Category:Roasted
-and Baked](Category:Roasted_and_Baked "wikilink")

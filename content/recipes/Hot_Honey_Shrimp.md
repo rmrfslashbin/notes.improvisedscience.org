@@ -1,6 +1,20 @@
+---
+title: Hot Honey Shrimp
+tags:
+    - spicy
+    - honey
+    - shrimp
+categories: 
+    - main
+methods:
+    - baked
+themes:
+    - seafood
+---
+
 ## Source
 
-Based on <https://cooking.nytimes.com/recipes/1018182-hot-honey-shrimp>.
+Based on https://cooking.nytimes.com/recipes/1018182-hot-honey-shrimp.
 
 ## Preheat Oven
 
@@ -45,7 +59,3 @@ Toss in shrimp to coat.
     started to curl, about **5 minutes**.
 -   Sprinkle generously with **fresh lime juice** and toss with
     **jalapeños** and **chives** or **scallions**.
-
-[Category:Honey](Category:Honey "wikilink")
-[Category:Shrimp](Category:Shrimp "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

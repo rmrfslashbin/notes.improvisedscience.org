@@ -1,6 +1,18 @@
-# Japanese Fried Chicken Thighs
+---
+title: "Karaage: Japanese Fried Chicken Thighs"
+tags:
+    - chicken
+    - thigh
+categories: 
+    - main dish
+    - side dish
+methods:
+    - fried
+themes:
+    - japanese
+---
 
-# Equipment
+## Equipment
 
 -   Rimmed baking sheet lined with parchment paper
 -   Wire rack set inside a second rimmed baking sheet lined with a
@@ -9,7 +21,7 @@
 -   Tongs
 -   Wire Spider Strainer Skimmer Ladle
 
-# Ingredients
+## Ingredients
 
 -   1 ½ tablespoons soy sauce
 -   1 tablespoon sake
@@ -22,9 +34,9 @@
 -   1 quart vegetable oil, for frying
 -   Lemon wedges
 
-# Preparation
+## Preparation
 
-## Marinade
+### Marinade
 
 -   In a **medium bowl**, combine:
     -   soy sauce
@@ -35,7 +47,7 @@
 -   Add **chicken** and toss to combine.
 -   Let sit at room temperature for **30 minutes**.
 
-## Dredge Chicken
+### Dredge Chicken
 
 -   Place cornstarch in a wide bowl.
 -   Lift **chicken** from marinade, 1 piece at a time, allowing excess
@@ -45,7 +57,7 @@
     parchment-lined sheet.
 -   Reserve marinade.
 
-## Heat Oil
+### Heat Oil
 
 -   Heat **oil** in a large **Dutch oven** over **medium-high heat** to
     **325° F**.
@@ -54,7 +66,7 @@
 -   Dip back of a spoon in reserved marinade and gently press onto dry
     spots to lightly moisten.
 
-## Fry Chicken
+### Fry Chicken
 
 -   Using tongs, add **chicken**, 1 piece at a time, to oil in a single
     layer.
@@ -64,8 +76,3 @@
 -   Using spider skimmer or slotted spoon, transfer chicken to the paper
     towel-lined rack.
 -   Serve with lemon wedges.
-
-[Category:Main Dishes](Category:Main_Dishes "wikilink")
-[Category:Chicken](Category:Chicken "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:Deep
-Fried](Category:Deep_Fried "wikilink")
