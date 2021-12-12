@@ -1,15 +1,23 @@
+---
+title: Graham Cracker Crust
+tags:
+    - graham crackers
+categories: 
+    - crust
+    - dessert
+methods:
+    - no-cook
+---
+
 Excellent graham cracker crust for pies (such as pumpkin pie). The
 toasted nuts are optional. Modified from source.
 
 ## Source
-
--   <http://www.joyofbaking.com/GrahamCrackerTartsWithCreamFilling.html>
+http://www.joyofbaking.com/GrahamCrackerTartsWithCreamFilling.html
 
 ## Notes
 
--   A little bourbon flavor often goes well with pie fillings such
-    [Pumpkin](Pumpkin_Pie "wikilink"). Add about 3 to 4 tablespoons and
-    perhaps an additional 1 to 2 graham crackers.
+-   A little bourbon flavor often goes well with pie fillings such [Pumpkin Pie]({{< ref "/recipes/pumpkin_pie" >}}). Add about 3 to 4 tablespoons and perhaps an additional 1 to 2 graham crackers.
 
 ## Ingredients
 
@@ -43,5 +51,3 @@ If using toasted nuts:
 
 -   Press mixture into 9" to 10" pie pan.
 -   Depending on use, you may opt to lightly press into a crust.
-
-[Category:Crusts](Category:Crusts "wikilink")

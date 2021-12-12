@@ -13,8 +13,7 @@ themes:
 ---
 
 ## Source
-
--   <https://cooking.nytimes.com/recipes/1018459-double-chocolate-cookies>
+https://cooking.nytimes.com/recipes/1018459-double-chocolate-cookies
 
 ## Change Log
 

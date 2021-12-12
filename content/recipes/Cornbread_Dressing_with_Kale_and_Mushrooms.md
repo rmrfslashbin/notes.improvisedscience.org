@@ -20,7 +20,7 @@ sourdough for cornbread.
 ## Source
 
 Inspired by
-<http://www.cookscountry.com/recipes/8529-sourdough-dressing-with-kale-and-mushrooms>
+http://www.cookscountry.com/recipes/8529-sourdough-dressing-with-kale-and-mushrooms
 
 ## Notes
 
@@ -38,7 +38,7 @@ Inspired by
 
 ## Ingredients
 
--   680 grams (1.5 lbs) 1.5x recipe of [Corn Bread](/recipes/Corn_bread.md)
+-   680 grams (1.5 lbs) 1.5x recipe of [Corn Bread]({{< ref "/recipes/corn_bread" >}})
 -   3 ½ tablespoons unsalted butter
 -   ½ cup extra-virgin olive oil
 -   Salt and pepper

@@ -1,9 +1,20 @@
+---
+title: Grilled Pastrami-Style Salmon
+tags:
+    - pastrami
+    - salmon
+categories: 
+    - main
+methods:
+    - grill
+---
+
 Super easy and delicious. This recipe can be varied in a number of ways
 as desired.
 
 ## Source
 
--   <http://www.myrecipes.com/recipe/grilled-pastrami-style-salmon>
+-   http://www.myrecipes.com/recipe/grilled-pastrami-style-salmon
 
 ## Ingredients
 
@@ -30,8 +41,3 @@ as desired.
 -   Place fish, skin side down, on a grill rack coated with cooking
     spray; grill 10 minutes or until fish flakes easily when tested with
     a fork.
-
-[Category:Main Dishes](Category:Main_Dishes "wikilink")
-[Category:Fish](Category:Fish "wikilink")
-[Category:Salmon](Category:Salmon "wikilink")
-[Category:Grill](Category:Grill "wikilink")

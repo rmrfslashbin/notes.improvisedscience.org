@@ -16,8 +16,7 @@ This recipe was modified to remove the kale and yield more of a stew
 type of consistency.
 
 ## Source
-
--   <http://www.epicurious.com/recipes/food/views/kale-and-white-bean-soup-106153>
+http://www.epicurious.com/recipes/food/views/kale-and-white-bean-soup-106153
 
 ## Equipment
 

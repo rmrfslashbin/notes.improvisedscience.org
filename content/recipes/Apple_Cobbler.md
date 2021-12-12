@@ -1,7 +1,7 @@
 ---
 title: Apple Cobbler
 tags:
-    - apple
+    - apples
     - family recipe
 categories: 
     - dessert
@@ -23,7 +23,7 @@ This is mom's classic apple cobbler recipe.
 ## Equipment
 
 -   9x13x2" Baking dish
--   Two recipes [Pâte Brisée](/recipes/pate_brisee)
+-   Two recipes [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}})
 
 ## Preheat Oven
 
@@ -38,7 +38,7 @@ This is mom's classic apple cobbler recipe.
 -   1 tablespoon Nutmeg
 -   1 tablespoon Allspice
 -   ½ cup Butter
--   4 Pie Crusts [Pâte Brisée](/recipes/pate_brisee)
+-   4 Pie Crusts [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}})
 
 ## Preparation
 

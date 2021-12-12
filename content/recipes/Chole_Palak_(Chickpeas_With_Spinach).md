@@ -18,8 +18,7 @@ themes:
 ---
 
 ## Source
-
--   http://www.manjulaskitchen.com/2009/07/07/chole-palak-chickpeas-with-spinach/
+http://www.manjulaskitchen.com/2009/07/07/chole-palak-chickpeas-with-spinach/
 
 ## Special Equipment
 

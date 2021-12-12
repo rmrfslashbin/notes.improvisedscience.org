@@ -1,7 +1,7 @@
 ---
 title: Apple Cranberry Crumble Pie
 tags:
-    - apple
+    - apples
     - cranberries
 categories: 
     - dessert
@@ -17,11 +17,11 @@ themes:
 A fantastic pie which is fairly easy to make; albeit somewhat
 time-consuming. My changes to the recipe yield a tarter and naturally
 flavored pie. The crumble topping can be swapped for a traditional
-crust. If so desired, make full batch of [Pâte Brisée](/recipes/pate_brisee).
+crust. If so desired, make full batch of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}).
 
 ## Source
 
--   <http://joythebaker.com/2014/11/apple-cranberry-crumble-pie/>
+-   http://joythebaker.com/2014/11/apple-cranberry-crumble-pie/
 
 ## Change Log
 
@@ -44,7 +44,7 @@ This recipe has been modified from the original source:
 
 ## Prerequisite Recipes
 
--   [Pâte Brisée](/recipes/pate_brisee)
+-   [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}})
 
 ## Preheat Oven
 
@@ -85,7 +85,7 @@ This recipe has been modified from the original source:
 
 ### Crust
 
--   Prepare half a recipe of [Pâte Brisée](/recipes/pate_brisee) (for the
+-   Prepare half a recipe of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}) (for the
     bottom crust).
 -   On a lightly floured surface, roll dough out into a 13-inch round.
 -   Gently lift the 13-inch round from the floured surface and center in

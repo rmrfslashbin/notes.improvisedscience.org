@@ -16,8 +16,7 @@ across most recipes:
 -   Brown meats in a skillet (or in the tajine if it's compatible with
     your stove top)
 -   Cook root and other hearty vegetables.
--   Add spices (like, [Moroccan
-    Seasoning](Moroccan_Seasoning "wikilink")).
+-   Add spices (like, [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}})).
 -   Layer the meats and spiced veggies into the tajine.
 -   Add cooking liquid.
 -   Cover and place into a cold oven.
@@ -121,12 +120,10 @@ With a spice mix:
 
 ### Chicken with Apricots
 
--   3 lbs skin on, bone in chicken thighs
--   3 large yellow onions
--   About one cup dried apricots
--   About one tablespoon honey, to taste (after adding spices, to round
-    out bitterness)
--   Once recipe [Moroccan Seasoning](Moroccan_Seasoning "wikilink"),
-    toasted to help mellow out the flavors
+-   3 lbs skin on, bone in chicken thighs.
+-   3 large yellow onions.
+-   About one cup dried apricots.
+-   About one tablespoon honey, to taste (after adding spices, to round out bitterness).
+-   One recipe [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}}), toasted to help mellow out the flavors.
 
 Perhaps some chickpeas, sweet potatoes, carrots, or other roots.

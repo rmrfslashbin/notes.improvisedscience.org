@@ -60,8 +60,3 @@ heat really brings the flavors together and is really worth the extra
 time.
 
 -   Serve hot or warm with challah.
-
-[Category:One-Pot Meals](Category:One-Pot_Meals "wikilink")
-[Category:Stove Top](Category:Stove_Top "wikilink")
-[Category:Fish](Category:Fish "wikilink")
-[Category:Potatoes](Category:Potatoes "wikilink")

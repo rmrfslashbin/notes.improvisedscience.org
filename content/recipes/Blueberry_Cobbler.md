@@ -18,7 +18,7 @@ themes:
 
 ## Source
 
-<https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler>
+https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler
 
 ## Change Log
 

@@ -19,7 +19,7 @@ This is Mom's famous pie.
 ## Special Equipment
 
 -   9" Deep Dish Pie Plate
--   One recipe [Pâte Brisée](/recipes/pate_brisee)
+-   One recipe [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}})
 
 ## Preheat Oven
 

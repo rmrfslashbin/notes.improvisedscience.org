@@ -11,7 +11,7 @@ methods:
 ---
 
 Recipe modified from source:
-<http://www.cookscountry.com/recipes/4374-bbq-wood-grilled-salmon>
+http://www.cookscountry.com/recipes/4374-bbq-wood-grilled-salmon
 
 ## Description
 

@@ -17,7 +17,7 @@ the final quiche.
 
 ## Source
 
--   <http://www.wholefoodsmarket.com/recipe/crustless-broccoli-and-onion-quiche>
+-   http://www.wholefoodsmarket.com/recipe/crustless-broccoli-and-onion-quiche
 
 ## Special Equipment
 
@@ -72,7 +72,3 @@ Preheat the oven to 350°F.
 
 -   Cook a few red potatoes; dice and add to the cooked onions &
     broccoli.
-
-[Category:Savoury Pies](Category:Savoury_Pies "wikilink")
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Broccoli](Category:Broccoli "wikilink")

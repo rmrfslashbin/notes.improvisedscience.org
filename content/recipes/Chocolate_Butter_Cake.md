@@ -13,7 +13,9 @@ themes:
 
 -   Deeply chocolaty, moist cake with a nice crumb.
 -   Makes two 9" rounds.
--   Goes very well with [Cherry Cream Cheese Frosting](/recipes/Cherry_Cream_Cheese_Frosting.md).
+-   Goes very well with [Cherry Cream Cheese Frosting]({{< ref "/recipes/cherry_cream_cheese_frosting" >}}).
+
+
 
 ## Source
 

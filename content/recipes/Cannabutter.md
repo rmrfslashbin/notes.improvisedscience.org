@@ -24,8 +24,7 @@ range of 150°F to 200°F tends to be difficult. Refrigerate unused
 cannabutter in an airtight container.
 
 ## Source
-
--   https://www.leafly.com/news/lifestyle/recipe-how-to-make-basic-cannabutter
+https://www.leafly.com/news/lifestyle/recipe-how-to-make-basic-cannabutter
 
 ## Special Equipment
 

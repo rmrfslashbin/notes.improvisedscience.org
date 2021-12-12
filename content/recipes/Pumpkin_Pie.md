@@ -1,3 +1,16 @@
+---
+title: Pumpkin Pie
+tags:
+    - pumpkin
+categories: 
+    - dessert
+    - pie
+methods:
+    - baked
+themes:
+    - thanksgiving
+---
+
 I finally decided to try making a pumpkin pie using a real live pumpkin
 as opposed to canned pumpkin. I picked up a nice sized pie pumpkin at
 the [Dekalb Farmer's Market](http://www.dekalbfarmersmarket.com/), found
@@ -18,7 +31,7 @@ ramekins: set in a water bath and bake at 350°F till set.
 I picked this recipe mostly because I had the ingredients on-hand. Of
 the most exotic were evaporated milk.
 
--   <http://simplyrecipes.com/recipes/suzannes_old_fashioned_pumpkin_pie/>
+- http://simplyrecipes.com/recipes/suzannes_old_fashioned_pumpkin_pie/
 
 ## Special Equipment
 
@@ -42,8 +55,8 @@ the most exotic were evaporated milk.
 
 ## Preparation
 
--   1 recipe [Pate Bris](Pate_Bris "wikilink"), [Graham Cracker
-    Crust](Graham_Cracker_Crust "wikilink") or other suitable crust.
+-   1 recipe [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}), [Graham Cracker
+    Crust]({{< ref "/recipes/graham_cracker_crust" >}}) or other suitable crust.
 
 ### Preheat Oven
 
@@ -88,8 +101,3 @@ then...
 ## Cool
 
 -   Cool on a wire rack for 2 hours.
-
-[Category:Pies](Category:Pies "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Pumpkin](Category:Pumpkin "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

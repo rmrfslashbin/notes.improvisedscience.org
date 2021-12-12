@@ -1,10 +1,22 @@
+---
+title: Grill Gazed Pork Tenderloin
+tags:
+    - pork
+    - glaze
+categories: 
+    - main
+methods:
+    - grill
+
+---
+
 ## Source
 
 This recipe was sourced from the below two recipes; combined and
 modified.
 
--   <https://www.cooksillustrated.com/recipes/7406-grilled-glazed-pork-tenderloin-roast>
--   <https://www.cooksillustrated.com/recipes/7409-sweet-and-spicy-hoisin-glaze>
+-   https://www.cooksillustrated.com/recipes/7406-grilled-glazed-pork-tenderloin-roast
+-   https://www.cooksillustrated.com/recipes/7409-sweet-and-spicy-hoisin-glaze
 
 ## Special Equipment
 
@@ -79,7 +91,3 @@ modified.
 -   Transfer roast to carving board, tent loosely with aluminum foil,
     and let rest for 10 minutes. Carefully remove twine and slice roast
     into ½-inch thick slices. Serve with remaining glaze.
-
-[Category:Main Dishes](Category:Main_Dishes "wikilink")
-[Category:Grill](Category:Grill "wikilink")
-[Category:Pork](Category:Pork "wikilink")

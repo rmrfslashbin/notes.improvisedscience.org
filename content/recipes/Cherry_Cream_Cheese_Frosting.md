@@ -2,7 +2,7 @@
 title: Cherry Cream Cheese Frosting
 tags:
     - cream cheese
-    - cherry
+    - cherries
 categories: 
     - dessert
     - frosting

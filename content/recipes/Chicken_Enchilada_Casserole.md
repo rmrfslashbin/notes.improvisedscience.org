@@ -16,7 +16,7 @@ methods:
 
 ## Source
 
-<http://www.wholefoodsmarket.com/recipe/chicken-enchilada-casserole>
+http://www.wholefoodsmarket.com/recipe/chicken-enchilada-casserole
 
 ## Equipment
 
@@ -84,7 +84,3 @@ methods:
 ### Cool
 
 Let cool 10 minutes before cutting and serving.
-
-[Category:Casseroles](Category:Casseroles "wikilink") [Category:Roasted
-and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Chicken](Category:Chicken "wikilink")

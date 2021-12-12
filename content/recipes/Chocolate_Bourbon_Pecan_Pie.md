@@ -16,7 +16,7 @@ themes:
 ## Special Equipment
 
 -   9" Pie Plate
--   One recipe [Pâte Brisée](/recipes/pate_brisee)
+-   One-half recipe [Pâte Brisée]({{< ref "/recipes/pate_brisee#ingredients-half-recipe" >}})
 -   Stand Mixer
 
 ## Preheat Oven

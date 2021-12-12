@@ -1,3 +1,21 @@
+---
+title: Morrocan Seasoning
+tags:
+    - nutmeg
+    - cumin
+    - coriander
+    - allspice
+    - ginger
+    - cinnamon
+categories: 
+    - seasonings
+methods:
+    - no-cook
+themes:
+    - morrocan
+    - vegetarian
+---
+
 This is a Moroccan inspired dry seasoning which can be used as a dry rub
 (add salt) or as Cous-Cous spice.
 
@@ -14,5 +32,3 @@ This is a Moroccan inspired dry seasoning which can be used as a dry rub
 ## Preparation
 
 -   Mix all ingredients
-
-[Category:Seasoning](Category:Seasoning "wikilink")

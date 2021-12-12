@@ -90,5 +90,3 @@ Cook's Country, April/May 2014
 -   Season with salt and pepper to taste.
 -   Spoon sauce and vegetables over chicken.
 -   Serve.
-
-[Category:Chicken](Category:Chicken "wikilink")
