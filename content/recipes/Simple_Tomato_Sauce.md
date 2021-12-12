@@ -1,12 +1,27 @@
+---
+title: Simple Tomato Sauce
+tags:
+    - tomato
+    - onion
+    - basil
+categories: 
+    - sauce
+    - Samin Nosrat
+methods:
+    - stove-
+themes:
+    - vegan
+---
+
 This is a simple tomato sauce by Samin Nosrat via NY Times.
 
-# Equipment
+## Equipment
 
 -   Medium Dutch oven
 -   Large bowl
 -   Hand/immersion blender, blender, food processor, or food mill
 
-# Ingredients
+## Ingredients
 
 -   6 tablespoons extra-virgin olive oil
 -   5 cups diced yellow onions, red onions or shallots
@@ -17,9 +32,9 @@ This is a simple tomato sauce by Samin Nosrat via NY Times.
 -   4 to 5 basil stems
 -   ¼ teaspoon red-pepper flakes
 
-# Preparation
+## Preparation
 
-## Cook Onions
+### Cook Onions
 
 -   Set a medium Dutch oven or similar pot over **medium heat**, and add
     **4 tablespoons olive oil**.
@@ -27,7 +42,7 @@ This is a simple tomato sauce by Samin Nosrat via NY Times.
 -   Reduce heat to **medium-low** and cook, stirring regularly, until
     onions are lightly golden and tender, **16 to 18 minutes.**
 
-## While the Onions Cook
+### While the Onions Cook
 
 -   In the meantime, pour the **tomatoes** into a large bowl and use
     hands to crush, if using whole tomatoes.
@@ -35,7 +50,7 @@ This is a simple tomato sauce by Samin Nosrat via NY Times.
     remaining purée off the sides.
 -   Add the water to the tomatoes in the bowl and set aside.
 
-## Add Garlic & Tomatoes
+### Add Garlic & Tomatoes
 
 -   Once onions are soft and golden, add **garlic** and cook, stirring
     until it threatens to turn golden, about **90 seconds**.
@@ -44,13 +59,13 @@ This is a simple tomato sauce by Samin Nosrat via NY Times.
 -   Add **tomatoes** and season with **salt**.
 -   Add **basil stems** and **red-pepper flakes**.
 
-## Simmer
+### Simmer
 
 -   Stirring regularly, allow sauce to come to a boil, then reduce heat
     to **low**, **cover and simmer** until sauce tastes savory and all
     raw tomato flavor is gone, about **45 minutes**.
 
-## Finish
+### Finish
 
 -   Taste and adjust seasoning with salt and add remaining 2 tablespoons
     **oil**.
@@ -58,8 +73,3 @@ This is a simple tomato sauce by Samin Nosrat via NY Times.
     then purée using a blender or food processor.
 -   Tomato sauce can be made 1 day in advance and refrigerated or frozen
     up to 3 months.
-
-[Category:Sauce](Category:Sauce "wikilink")
-[Category:Tomatoes](Category:Tomatoes "wikilink")
-[Category:Onions](Category:Onions "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")

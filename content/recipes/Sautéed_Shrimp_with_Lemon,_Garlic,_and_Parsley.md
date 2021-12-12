@@ -1,9 +1,22 @@
-This recipe has been modified slightly to include the addition of dry
-white wine and reduction of butter from 3 to 1 tablespoons.
+---
+title: Sauced Shrimp with Lemon, Garlic, and Parsley
+tags:
+    - shrimp
+    - garlic
+    - lemon
+    - parsley
+categories: 
+    - main
+methods:
+    - stove-top
+---
+
+
+This recipe has been modified slightly to include the addition of dry white wine and reduction of butter from 3 to 1 tablespoons.
 
 ## Source
 
-<http://www.epicurious.com/recipes/food/views/sauteed-shrimp-with-lemon-garlic-and-parsley-51262060>
+http://www.epicurious.com/recipes/food/views/sauteed-shrimp-with-lemon-garlic-and-parsley-51262060
 
 ## Ingredients
 
@@ -48,7 +61,3 @@ white wine and reduction of butter from 3 to 1 tablespoons.
 ## Serve
 
 Serve hot with a baguette for dipping and/or with pasta.
-
-[Category:Shrimp](Category:Shrimp "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:Main
-Dishes](Category:Main_Dishes "wikilink")

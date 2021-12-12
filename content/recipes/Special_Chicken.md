@@ -1,5 +1,20 @@
-This is a recipe which I made up; it seems to loosely follow [Chicken
-Scaloppini](Chicken_Scaloppini "wikilink") but has a few deviations.
+---
+title: Special Chicken
+tags:
+    - chicken
+    - mushrooms
+    - onions
+    - shallots
+    - capers
+    - spinach
+    - original recipe
+categories: 
+    - main
+methods:
+    - stove-top
+---
+
+This is a recipe that I made up.
 
 ## Equipment
 
@@ -24,8 +39,7 @@ Scaloppini](Chicken_Scaloppini "wikilink") but has a few deviations.
 
 ### Prep Chicken
 
--   Working with 1 breast at a time, starting on thick side, cut breasts
-    in half horizontally.
+-   Working with 1 breast at a time, starting on thick side, cut breasts in half horizontally.
 -   Pat cutlets dry with paper towels.
 -   Season with salt and pepper.
 -   Lightly dredge in flour.
@@ -33,12 +47,10 @@ Scaloppini](Chicken_Scaloppini "wikilink") but has a few deviations.
 
 ### Cook Vegetables
 
--   Heat olive oil in 14-inch cast-iron skillet over medium-high heat
-    until just smoking.
+-   Heat olive oil in 14-inch cast-iron skillet over medium-high heat until just smoking.
 -   Add mushrooms- cook until soft.
 -   Add onions and shallots- cook until soft.
--   Add bell pepper ¼ teaspoon salt and cook until liquid has evaporated
-    and vegetables begin to brown, 8 to 10 minutes.
+-   Add bell pepper ¼ teaspoon salt and cook until liquid has evaporated and vegetables begin to brown, 8 to 10 minutes.
 -   Add capers and cook until fragrant, about 1 minute.
 -   Add broth and wine and bring to boil, scraping up any browned bits.
 -   Cook until slightly thickened, about 8 minutes.
@@ -46,10 +58,8 @@ Scaloppini](Chicken_Scaloppini "wikilink") but has a few deviations.
 
 ### Cook Chicken
 
--   Heat 2 tablespoons oil in now-empty skillet over medium-high heat
-    until just smoking.
--   Add 3 cutlets and cook until golden and cooked through, about 2
-    minutes per side.
+-   Heat 2 tablespoons oil in now-empty skillet over medium-high heat until just smoking.
+-   Add 3 cutlets and cook until golden and cooked through, about 2 minutes per side.
 -   Transfer to platter and tent loosely with aluminum foil.
 -   Repeat with remaining 3 cutlets and remaining 2 tablespoons oil.
 
@@ -62,5 +72,3 @@ Scaloppini](Chicken_Scaloppini "wikilink") but has a few deviations.
 -   Pour vegetables over chicken.
 -   Simmer until ready to serve.
 -   Serve.
-
-[Category:Chicken](Category:Chicken "wikilink")

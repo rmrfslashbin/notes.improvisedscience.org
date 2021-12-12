@@ -1,5 +1,5 @@
 ---
-title: Corn Bread
+title: Cornbread
 tags:
     - cornmeal
     - buttermilk
