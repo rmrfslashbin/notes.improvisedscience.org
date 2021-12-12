@@ -1,3 +1,17 @@
+---
+title: Roasted Pumpkin Seeds
+tags:
+    - pumpkin
+    - seeds
+categories: 
+    - snack
+methods:
+    - stove-top
+    - roasted
+themes:
+    - vegan
+---
+
 Using one sugar/pie pumpkin, split in half and remove seeds. Briefly
 wash seeds in cool water, removing any strings and pulp which may still
 be attached. If roasting a sugar pumpkin, place the seeds in a bowl,
@@ -5,14 +19,14 @@ cover with water, and add a tablespoon of salt. Let the seeds sit while
 the pumpkin is roasting. Once the pumpkin has roasted, use your fingers
 to remove any additional pulp or strings which may still be present.
 
-# Instructions
+## Instructions
 
-## Preheat Oven
+### Preheat Oven
 
 -   Preheat the oven to 400°F.
 -   Adjust rack to top position.
 
-## Measure
+### Measure
 
 -   Measure the pumpkin seeds in a one cup measuring cup.
 -   Place the seeds in a medium saucepan.
@@ -20,13 +34,13 @@ to remove any additional pulp or strings which may still be present.
     tablespoon) of salt to the pan.
 -   Add more salt if you would like your seeds to be saltier.
 
-## Boil
+### Boil
 
 -   Bring the salted water and pumpkin seeds to a boil.
 -   Reduce heat and simmer for 10 minutes.
 -   Remove from heat and drain.
 
-## Roast
+### Roast
 
 -   Coat the bottom of a roasting pan or baking sheet with olive oil.
 -   Spread the seeds over the roasting pan in a single layer, and toss
@@ -35,8 +49,3 @@ to remove any additional pulp or strings which may still be present.
     size of the seeds.
 -   Keep a close eye on the seeds as they can go from golden to burnt in
     less than a minute.
-
-[category:Pumpkin](category:Pumpkin "wikilink")
-[category:Snacks](category:Snacks "wikilink")
-
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")

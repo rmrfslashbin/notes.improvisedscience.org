@@ -1,19 +1,31 @@
+---
+title: Sandwich Bread
+tags:
+    - yeast
+    - spelt
+    - rye
+categories: 
+    - bread
+methods:
+    - baked
+---
+
 This recipe takes about 8 hours of time (30 minutes of actual work-time)
 but yields a loaf very similar in texture to traditional sandwich bread.
 There's a few variations for a rye loaf and a spelt loaf.
 
-# Special Equipment
+## Special Equipment
 
 -   Stand mixer with dough hook
 -   1.5 lb loaf pan
 -   Baking stone
 
-# Ingredients
+## Ingredients
 
 The ingredients are listed as "Rye - xxx" and "Spelt - xxx". Follow
 whichever for your intended loaf.
 
-## Rye - Sponge
+### Rye - Sponge
 
 -   117 grams all-purpose flour
 -   95 grams rye flour
@@ -22,7 +34,7 @@ whichever for your intended loaf.
 -   11 grams honey
 -   355 ml (1.5 cups) warm water (35°C/95°F to 43°C/110°F)
 
-## Spelt - Sponge
+### Spelt - Sponge
 
 -   117 grams spelt
 -   95 grams all-purpose flour
@@ -31,27 +43,27 @@ whichever for your intended loaf.
 -   11 grams honey
 -   355 ml (1.5 cups) warm water (35°C/95°F to 43°C/110°F)
 
-## Rye - Mixture
+### Rye - Mixture
 
 -   315 grams all-purpose flour
 -   2 grams instant yeast
 -   14 grams caraway seeds
 -   11 grams course salt
 
-## Spelt - Mixture
+### Spelt - Mixture
 
 -   315 grams spelt
 -   2 grams instant yeast
 -   11 grams course salt
 
-## Dough
+### Dough
 
 -   15 ml olive oil
 -   Additional olive oil for bowl
 
-# Method
+## Method
 
-## Sponge and ferment
+### Sponge and ferment
 
 Time: 4.5 hours
 
@@ -66,7 +78,7 @@ Time: 4.5 hours
     ferment for **4 hours** at a warm room temp or "proof" setting in
     oven.
 
-## Kneed and first rise
+### Kneed and first rise
 
 Time: 1.75 hours
 
@@ -81,7 +93,7 @@ Time: 1.75 hours
 -   Cover with plastic wrap and let rise for **1.5 hours** at a warm
     room temp or "proof" setting in oven.
 
-## Punch down and second rise
+### Punch down and second rise
 
 Time: 1.5 hours
 
@@ -91,7 +103,7 @@ Time: 1.5 hours
 -   Re-cover and let rise for **1.5 hours** at a warm room temp or
     "proof" setting in oven.
 
-## Punch down, loaf pan, and third rise
+### Punch down, loaf pan, and third rise
 
 Time: 45 minutes
 
@@ -101,7 +113,7 @@ Time: 45 minutes
 -   Cover with plastic wrap and let rise for **45 minutes** at a warm
     room temp or "proof" setting in oven.
 
-## Pre-heat Oven
+### Pre-heat Oven
 
 -   If proofing in oven, remove loaf to countertop.
 -   Adjust oven rack to lowest position.
@@ -110,7 +122,7 @@ Time: 45 minutes
 -   While heating, slash the top f the bread loaf and continue to let
     rise until oven is heated.
 
-## Bake
+### Bake
 
 -   Uncover and place loaf on baking stone.
 -   Toss in about 1 cup of ice cubes on floor oven and immediately shut
@@ -119,8 +131,3 @@ Time: 45 minutes
 -   Bake another 15 minutes and check internal temperate of loaf. The
     loaf is done with temperature measures between 190°F/88&degC and
     200°F/93°C.
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Rye](Category:Rye "wikilink")
-[Category:Spelt](Category:Spelt "wikilink")

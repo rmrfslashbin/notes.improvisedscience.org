@@ -1,16 +1,27 @@
-The version of Oatmeal Cookies deprecates the previously published
-[Oatmeal Cookies](Oatmeal_Cookies_(Old_Recipe) "wikilink") recipe. This
-version features a softer cookie with better consistency. Like the
-previous recipe, the sugar content is minimal to allow the add ins
-(chocolate chips and cherries) to provide the majority of the sweetness.
-If omitting the add ins, the sugar content may need to be increased to
-compensate per desired taste.
+---
+title: Oatmeal Cookies
+tags:
+    - oatmeal
+    - chcoloate
+    - cherries
+    - pecans
+    - browned butter
+categories: 
+    - dessert
+    - cookies
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
-# Preheat Oven
+This recipe's sugar content is minimal to allow the add ins (chocolate chips and cherries) to provide the majority of the sweetness. If omitting the add ins, the sugar content may need to be increased to compensate per desired taste.
+
+## Preheat Oven
 
 Preheat oven to 350°F.
 
-# Equipment
+## Equipment
 
 -   Small skillet
 -   Small bowl
@@ -19,7 +30,7 @@ Preheat oven to 350°F.
 -   Two cookie sheets
 -   Wire cooling rack
 
-# Ingredients
+## Ingredients
 
 -   57 grams (4 tablespoons) unsalted butter
 -   142 grams (1 cup) all-purpose flour
@@ -36,9 +47,9 @@ Preheat oven to 350°F.
 -   ½ cup chocolate chips
 -   ½ cup crushed toasted pecans
 
-# Method
+## Method
 
-## Brown Butter
+### Brown Butter
 
 -   Place the **butter** in a **small skillet**, set over **low-medium
     heat**, allowing the butter to brown while preparing the remaining
@@ -47,7 +58,7 @@ Preheat oven to 350°F.
 -   The butter has finished browning when the sizzles and crackles stop.
 -   Remove from heat to avoid burning.
 
-## Combine Dry Ingredients
+### Combine Dry Ingredients
 
 In a small bowl, combine dry ingredients:
 
@@ -55,7 +66,7 @@ In a small bowl, combine dry ingredients:
 -   Salt
 -   Baking soda
 
-## Combine Sugars
+### Combine Sugars
 
 In a medium to a large bowl, combine:
 
@@ -68,7 +79,7 @@ In a medium to a large bowl, combine:
 Next, add the **browned butter** and beat with a rubber spatula till
 smooth and combined.
 
-## Final Combine
+### Final Combine
 
 Finally, add the remaining items, one at a time, stirring just till
 combined (don't overbeat the batter):
@@ -80,7 +91,7 @@ combined (don't overbeat the batter):
 -   Chocolate chips
 -   Pecans
 
-## Bake
+### Bake
 
 -   For each cookie, scoop about two tablespoons of the batter and place
     it on a cookie sheet.
@@ -90,7 +101,3 @@ combined (don't overbeat the batter):
 -   As the first batch of cookies bakes, prepare the second batch on the
     second cookie sheet.
 -   Alternate cookie sheets until all the cookies are baked.
-
-[Category:Cookies](Category:Cookies "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Oatmeal](Category:Oatmeal "wikilink")

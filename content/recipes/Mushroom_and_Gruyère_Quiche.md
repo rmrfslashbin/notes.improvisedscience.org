@@ -1,10 +1,23 @@
+---
+title: Mushroom and Gruyère Quiche
+tags:
+    - mushroom
+    - cheese
+    - gruyère
+categories: 
+    - main
+    - quiche
+methods:
+    - baked
+---
+
 For this recipe, substitute low-fat buttermilk in place of heavy cream
 for a lower fat yet creamy mouth-feel. Also, make your own crust. It's
 so easy...
 
 ## Source
 
--   <http://www.wholefoodsmarket.com/recipe/mushroom-and-gruy%C3%A8re-quiche>
+-   [Mushroom and Gruyère Quiche](http://www.wholefoodsmarket.com/recipe/mushroom-and-gruy%C3%A8re-quiche)
 
 ## Special Equipment
 
@@ -16,8 +29,7 @@ so easy...
 
 ## Prerequisite Recipes
 
--   Half a recipe of [Pate Bris](Pate_Bris "wikilink")
-    ([Pate_Bris#Ingredients_.28Half_Recipe.29](Pate_Bris#Ingredients_.28Half_Recipe.29 "wikilink"))
+-   Half a recipe of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}})
 
 ## Ingredients
 
@@ -81,8 +93,3 @@ so easy...
 -   Bake for 45 to 55 minutes, or until a knife inserted into the center
     of the quiche comes out clean.
 -   Serve warm or at room temperature.
-
-[Category:Savoury Pies](Category:Savoury_Pies "wikilink")
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Mushrooms](Category:Mushrooms "wikilink")
-[Category:Cheese](Category:Cheese "wikilink")

@@ -1,13 +1,27 @@
-# Equipment
+---
+title: Olive Oil Brownies
+tags:
+    - chocolate
+    - olive oil
+categories: 
+    - dessert
+    - brownies
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
+## Equipment
 
 -   8x8" baking dish
 -   Parchment paper
 
-# Preheat Oven
+## Preheat Oven
 
 Preheat oven to 350°F
 
-# Ingredients
+## Ingredients
 
 -   90 ml (6 tbsp) mild extra-virgin olive oil, plus more for greasing
     pan
@@ -22,22 +36,22 @@ Preheat oven to 350°F
 -   165 grams (¾ cup) packed dark brown sugar
 -   65 grams (⅓ cup) granulated sugar
 
-## Dutch Processed Cocoa Powder
+### Dutch Processed Cocoa Powder
 
 If Dutch Processed Cocoa Powder is not available, regular cocoa powder
 can be used. Add **1/3 teaspoon baking soda** to 25 grams / ¼ cup cocoa
 powder.
 
-# Method
+## Method
 
-## Prep
+### Prep
 
 -   Pre-heat oven to **350°F**.
 -   Grease an 8-by-8-inch square baking dish with some of the olive oil.
 -   Line pan with parchment paper, leaving a 2-inch overhang on 2 sides
     so you can pull the brownies out easily.
 
-## Combine Dry Ingredients
+### Combine Dry Ingredients
 
 In a medium bowl, whisk together:
 
@@ -45,7 +59,7 @@ In a medium bowl, whisk together:
 -   salt
 -   baking powder
 
-## Hydrate Cocoa Powder
+### Hydrate Cocoa Powder
 
 -   In a large bowl, whisk together **cocoa powder** and **boiling
     water** until smooth.
@@ -55,17 +69,12 @@ In a medium bowl, whisk together:
     -   egg
     -   vanilla
 
-## Combine
+### Combine
 
 -   Whisk in **brown sugar** and **granulated sugar**
 -   Fold in flour mixture
 
-## Bake
+### Bake
 
 Scrape into prepared pan, and bake until set and firm to the touch, **20
 to 25 minutes**.
-
-[Category:Desserts](Category:Desserts "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink") [Category:Olive
-Oil](Category:Olive_Oil "wikilink")

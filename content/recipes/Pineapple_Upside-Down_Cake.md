@@ -1,13 +1,26 @@
-This cake, thought to have first appeared in the 1920s, has had such
-names as pineapple glacé and pineapple skillet cake.
+---
+title: Pineapple Upside-Down Cake
+tags:
+    - pineapple
+    - cardamom
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+themes:
+    - up-side-down
+    - vegetarian
+---
+
+This cake, thought to have first appeared in the 1920s, has had such names as pineapple glacé and pineapple skillet cake.
 
 ## Info
 
 -   yield: Serves 8
 -   active time: 30 min
 -   total time: 1 ¼ hours
--   Source:
-    <http://www.epicurious.com/recipes/food/views/Pineapple-Upside-Down-Cake-103088>
+-   Source: http://www.epicurious.com/recipes/food/views/Pineapple-Upside-Down-Cake-103088
 
 ## Special Equipment
 
@@ -90,7 +103,3 @@ names as pineapple glacé and pineapple skillet cake.
     much, but others loved the intense flavor.
 -   Cake may be made 1 day ahead and chilled, covered. Bring to room
     temperature before serving.
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Pineapple](Category:Pineapple "wikilink")

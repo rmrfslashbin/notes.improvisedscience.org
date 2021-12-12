@@ -4,7 +4,7 @@ tags:
     - chicken
     - thigh
 categories: 
-    - main dish
+    - main
     - side dish
 methods:
     - fried

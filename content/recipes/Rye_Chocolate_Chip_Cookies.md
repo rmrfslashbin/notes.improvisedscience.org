@@ -1,17 +1,29 @@
+---
+title: Rye Chocolate Chip Cookies
+tags:
+    - rye
+    - chocolate
+    - browed butter
+    - molasses
+    - cherries
+    - milk street
+categories: 
+    - dessert
+    - cookies
+methods:
+    - baked
+---
+
 "Chocolate chip cookies for grown-ups". Toasted rye paired with browned
 butter, dark chocolate, molasses, and dried tart cherries create a
 deeply rich and addictive cookie. The entire recipe can be completed by
 hand; no need for a stand mixer.
 
-# Source
+## Source
 
--   <https://www.177milkstreet.com/recipes/rye-chocolate-chip-cookies>
+-   https://www.177milkstreet.com/recipes/rye-chocolate-chip-cookies
 
-# Photos
-
--   <https://photos.app.goo.gl/AvNmre0UD198Sbwl1>
-
-# Change Log
+## Change Log
 
 -   Swapped salted butter for unsalted and recalculated salt quantity.
 -   Added measurements in grams for dry ingredients and butter.
@@ -19,9 +31,9 @@ hand; no need for a stand mixer.
 -   Reduced chocolate chunks
 -   Swapped tart dried cherries for nuts
 
-# Notes
+## Notes
 
-## Brown Butter
+### Brown Butter
 
 To brown butter, simple place butter (cold or room temperature) in a
 7-inch non-stick skillet over medium-low heat. Once the butter melts,
@@ -30,7 +42,7 @@ solids will start to brown. Note the nutty aroma. Once the sound of
 popping and sizzling subsides, the butter will be browned. Be careful to
 not cook the butter any longer as it can burn.
 
-## Rotating cookie sheets
+### Rotating cookie sheets
 
 Begin by baking the first batch on a room temperature parchment lined
 cookie sheet. While the first batch is backing, prep the second sheet.
@@ -43,19 +55,19 @@ until all cookies are backed.
 By following this process, each batch of cookies will be baked on a room
 temperature cookie sheet and should thus require the same baking time.
 
-# Special Equipment
+## Special Equipment
 
 -   Two cookie sheets
 -   Parchment paper
 -   12" skillet (to toast rye)
 -   7" skillet (to brown butter)
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat oven to 350°
 -   Position rack to middle position
 
-# Ingredients
+## Ingredients
 
 -   142 grams (1 cup) all-purpose flour
 -   7 grams (1.128 teaspoon) salt
@@ -70,16 +82,16 @@ temperature cookie sheet and should thus require the same baking time.
     chocolate
 -   100 grams (¾ cup) dried tart cherries
 
-# Preparation
+## Preparation
 
-## Combine Dry Ingredients
+### Combine Dry Ingredients
 
 -   In a medium bowl, whisk together:
     -   All-­purpose flour
     -   Salt
     -   Baking soda
 
-## Toast Rye and Brown Butter
+### Toast Rye and Brown Butter
 
 -   In a 12-inch skillet over medium-high, toast the rye flour until
     fragrant and a shade or two darker, about 5 minutes, stirring
@@ -90,7 +102,7 @@ temperature cookie sheet and should thus require the same baking time.
     and stir until combined.
 -   Refrigerate the mixture if needed to cool to room temp.
 
-## Cream
+### Cream
 
 Once the rye mixture is cool...
 
@@ -101,13 +113,13 @@ Once the rye mixture is cool...
     -   Vanilla
 -   Slowly stir rye mixture into the creamed egg mixture
 
-## Add Dry
+### Add Dry
 
 -   Add the dry ingredients to the cream/rye mixture and stir until
     combined.
 -   Stir in the chocolate chips and dried cherries (if using).
 
-## Bake
+### Bake
 
 If the dough is too soft to manage, refrigerate about 30 to 45 minutes.
 Place dough in the refrigerator in between batches to keep cool.
@@ -119,8 +131,3 @@ Place dough in the refrigerator in between batches to keep cool.
 -   Cool on the sheet for 5 minutes, then transfer to a wire rack and
     cool for 10 minutes.
 -   Repeat with the second sheet.
-
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Cookies](Category:Cookies "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink")
-[Category:Rye](Category:Rye "wikilink")

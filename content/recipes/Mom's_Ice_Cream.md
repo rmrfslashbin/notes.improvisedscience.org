@@ -1,3 +1,16 @@
+---
+title: Mom's Ice Cream
+tags:
+    - vanilla
+categories: 
+    - dessert
+    - ice cream
+methods:
+    - no-cool
+themes:
+    - vegetarian
+---
+
 Mom's mythical ice cream; not for those on a diet or fearful of
 egg-borne bacteria.
 
@@ -28,6 +41,3 @@ egg-borne bacteria.
 ## Freeze
 
 -   Freeze ice cream per manufacturer's directions.
-
-[Category:Ice Creams](Category:Ice_Creams "wikilink")
-[Category:No-Cook](Category:No-Cook "wikilink")

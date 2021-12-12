@@ -1,4 +1,16 @@
-Title says it all...
+---
+title: Sauerkraut, Onions, and Mushrooms
+tags:
+    - sauerkraut
+    - onions
+    - mushrooms
+categories: 
+    - main
+methods:
+    - stove-top
+---
+
+The title says it all. This recipe pairs well with [Potato Dumplings]({{< ref "/recipes/potato_dumplings" >}})
 
 ## Ingredients
 
@@ -27,16 +39,3 @@ Title says it all...
 ## Serve
 
 You may serve as is, or compliment with as side dish.
-
-### Other Uses
-
--   With one recipe [Turkey Meatballs](Turkey_Meatballs "wikilink"),
-    hand roll and place the raw turkey meatballs atop the sauerkraut;
-    cover and cook.
-
-[Category:Mushrooms](Category:Mushrooms "wikilink")
-[Category:Sauerkraut](Category:Sauerkraut "wikilink")
-[Category:Onions](Category:Onions "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink") [Category:One-Pot
-Meals](Category:One-Pot_Meals "wikilink") [Category:Side
-Dishes](Category:Side_Dishes "wikilink")

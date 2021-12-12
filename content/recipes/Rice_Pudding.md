@@ -1,6 +1,32 @@
+---
+title: Rice Pudding
+tags:
+    - rice
+    - cinnammon
+    - raisins
+categories: 
+    - dessert
+    - pudding
+methods:
+    - stove-top
+themes:
+    - vegan
+---
+
 ## Source
 
 <http://allrecipes.com/recipe/24059/creamy-rice-pudding/>
+
+## Change Log
+
+-   Added lavender
+-   Dropped butter
+-   In place of vanilla, use vanilla infused bourbon
+-   Increased vanilla
+-   Added cardamon pods
+-   Added cinnamon sticks
+-   Added preference for short-grain rice
+
 
 ## Ingredients
 
@@ -8,7 +34,7 @@
 -   ¾ cup uncooked short-grain white rice
 -   ¼ teaspoon dried lavender (optional)
 -   3 cinnamon sticks
--   2 cups milk, divided (preferably whole)
+-   2 cups oat milk, divided (preferably whole)
 -   1/3 cup white sugar
 -   ¼ teaspoon salt
 -   1 egg, beaten
@@ -56,15 +82,3 @@ Remove from heat and stir in vanilla and/or bourbon.
 -   Serve warm; if reheated, stir in enough milk to correct consistency.
 -   Optionally, add grated nutmeg, cinnamon, or other warm spice.
 
-## Change Log
-
--   Added lavender
--   Dropped butter
--   In place of vanilla, use vanilla infused bourbon
--   Increased vanilla
--   Added cardamon pods
--   Added cinnamon sticks
--   Added preference for short-grain rice
-
-[Category:Puddings, Creams, and
-Custards](Category:Puddings,_Creams,_and_Custards "wikilink")

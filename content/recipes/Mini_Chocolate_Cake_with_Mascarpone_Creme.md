@@ -1,3 +1,18 @@
+---
+title: Mini Chocolate Cake with Mascarpone Creme
+tags:
+    - chocolate
+    - mascarpone
+categories: 
+    - dessert
+    - cake
+methods:
+    - baked
+themes:
+    - vegetarian
+    - individual servings
+---
+
 This cake is a composite of a few different recipes, modified to yield a
 small, two serving cake. A variety of fruits or berries can be used to
 top the mascarpone creme filling.
@@ -106,8 +121,3 @@ Construct cake at least **30 minutes** prior to serving.
     its form.
 -   Serve or refrigerate until ready to serve.
 -   If desired, dust with confectioner's sugar.
-
-[Category:Cakes](Category:Cakes "wikilink")
-[Category:Chocolate](Category:Chocolate "wikilink")
-[Category:Cheese](Category:Cheese "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")

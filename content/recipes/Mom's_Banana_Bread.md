@@ -1,10 +1,20 @@
+---
+title: Mom's Banana Bread
+tags:
+    - banana
+categories: 
+    - dessert
+    - quick-bread
+methods:
+    - baked
+themes:
+    - vegetarian
+---
+
+## Mom's original recipe!
 This is a flexible recipe which can exchange mashed bananas for pureed
 pumpkin. One may find it useful to reduce the sugar to 1 cup or less.
 Applesauce could be substituted for vegetable oil.
-
-## Source
-
--   Cheryl Sigler
 
 ## Special Equipment
 
@@ -36,5 +46,3 @@ Applesauce could be substituted for vegetable oil.
     clean.
 -   Let cool about 30 minutes.
 -   Turn out onto cooling rack.
-
-[Category:Desserts](Category:Desserts "wikilink")

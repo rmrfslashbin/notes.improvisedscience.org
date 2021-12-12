@@ -1,3 +1,12 @@
+---
+title: Potato Dumplings
+tags:
+    - potatos
+categories: 
+    - dumplings
+methods:
+    - stove-top
+---
 ## Ingredients
 
 -   2 cups grated boiled potatoes
@@ -33,7 +42,3 @@ the dumplings.
 
 Boil for 15 or 20 minutes. Remove from water and cool. When cool slice
 into sections ½ inch thick.
-
-[Category:Dumplings](Category:Dumplings "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Potatoes](Category:Potatoes "wikilink")

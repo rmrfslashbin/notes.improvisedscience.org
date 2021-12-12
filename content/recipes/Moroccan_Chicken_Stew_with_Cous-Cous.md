@@ -1,7 +1,21 @@
+---
+title: Morrocan Chicken Stew with Cous-Cous
+tags:
+    - chicken
+    - apricot
+    - potato
+    - cous-cous
+categories: 
+    - stew
+methods:
+    - stove-top
+themes:
+    - morrocan
+---
+
 This recipe is perfect for a cold winter night. The warm spices of south
 France and Spain combine to flavor this slow cooking dish. If you don't
-have any spices from a Provençal market, my [Moroccan
-Seasoning](Moroccan_Seasoning "wikilink") recipe is a very solid
+have any spices from a Provençal market, my [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}}) recipe is a very solid
 stand-in.
 
 This recipe contains no definite quantities; use it as a basic map and
@@ -19,7 +33,7 @@ improvise (as I did) to create your own version of this delicious dish.
 -   Onion
 -   Peppers
 -   Potatoes
--   [Moroccan Seasoning](Moroccan_Seasoning "wikilink")
+-   [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}})
 -   Salt to taste
 -   Chicken (or other) stock
 -   Cous-Cous
@@ -31,7 +45,7 @@ improvise (as I did) to create your own version of this delicious dish.
 -   Add chicken thighs.
 -   Add apricots.
 -   Fill with enough stock and/or water to cover.
--   Add [Moroccan Seasoning](Moroccan_Seasoning "wikilink").
+-   Add [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}}).
 -   Simmer for two or so hours, till chicken is cooked and vegetables
     are soft.
 
@@ -41,8 +55,7 @@ Additions of salt, seasoning, and sugar should be done in moderation and
 slowly. Add, stir, taste, let simmer, taste again... add more of
 whatever as needed. Repeat.
 
--   Add salt and/or additional [Moroccan
-    Seasoning](Moroccan_Seasoning "wikilink") as needed.
+-   Add salt and/or additional [Moroccan Seasoning]({{< ref "/recipes/moroccan_seasoning" >}}) as needed.
 -   Add 1 to 2 tablespoons brown sugar (to taste) to temper the
     bitterness.
 
@@ -62,8 +75,3 @@ For each serving:
 -   Add some cous-cous to a bowl.
 -   Top with chicken and vegetables.
 -   Add a desired amount of broth.
-
-[Category:One-Pot Meals](Category:One-Pot_Meals "wikilink")
-[Category:Stove Top](Category:Stove_Top "wikilink")
-[Category:Chicken](Category:Chicken "wikilink")
-[Category:Cous-Cous](Category:Cous-Cous "wikilink")

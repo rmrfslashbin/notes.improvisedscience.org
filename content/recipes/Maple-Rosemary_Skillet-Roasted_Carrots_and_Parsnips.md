@@ -1,6 +1,18 @@
-## Serving Size
-
--   Serves 6 to 8
+---
+title: Maple-Rosemary Skillet
+tags:
+    - maple
+    - carrots
+    - parsnips
+    - rosemary
+categories: 
+    - side dish
+methods:
+    - stove-top
+themes:
+    - thanksgiving
+    - vegan
+---
 
 ## Notes
 
@@ -32,10 +44,3 @@
     liquid has evaporated, 12 to 14 minutes.
 5.  Stir in rosemary and season with salt and pepper.
 6.  Serve.
-
-[Category:Side Dishes](Category:Side_Dishes "wikilink")
-[Category:Veggies](Category:Veggies "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Carrots](Category:Carrots "wikilink")
-[Category:Parsnips](Category:Parsnips "wikilink")
-[Category:Thanksgiving](Category:Thanksgiving "wikilink")

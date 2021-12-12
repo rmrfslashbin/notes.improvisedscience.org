@@ -1,19 +1,30 @@
+---
+title: Rye Bread
+tags:
+    - rye
+    - yeast
+    - caraway seeds
+categories: 
+    - bread
+methods:
+    - baked
+---
+
 A delicious 1-loaf rye bread that is simple enough to kneed by hand.
 
-# Source
+## Source
+http://www.thecrepesofwrath.com/2017/01/30/beginners-rye-bread/
 
-<http://www.thecrepesofwrath.com/2017/01/30/beginners-rye-bread/>
-
-# Change Log
+## Change Log
 
 -   Reduced salt
 -   Swapped molasses for honey
 
-# Equipment
+## Equipment
 
 -   One 4-1/2 x 8-1/2 inch loaf pan.
 
-# Ingredients
+## Ingredients
 
 -   7 grams (2¼ teaspoons) active dry yeast
 -   1 cup + 2 tablespoons warm water (about 110-115° F)
@@ -25,9 +36,9 @@ A delicious 1-loaf rye bread that is simple enough to kneed by hand.
 -   160 grams (1¼ cup) rye flour
 -   1 egg white, for brushing
 
-# Instructions
+## Instructions
 
-## Yeast
+### Yeast
 
 -   In a large bowl, sprinkle **yeast** over ¼ cup of **warm water**.
 -   Add in **½ tablespoon molasses** and whisk until the yeast
@@ -43,7 +54,7 @@ After 5 minutes...
     -   Caraway seeds
     -   Salt
 
-## Combine with flours and first rise
+### Combine with flours and first rise
 
 -   Gradually add in **rye** and **all-purpose** flours, one cup at a
     time, until the dough comes away from the sides of the bowl and
@@ -53,7 +64,7 @@ After 5 minutes...
 -   Cover tightly with plastic wrap, and set in a warm place to rise for
     about **1 hour**, or until **doubled in size**.
 
-## Prepare loaf pan and second rise
+### Prepare loaf pan and second rise
 
 -   Butter a 4-1/2 x 8-1/2 inch loaf pan and set aside.
 -   When the dough has risen, **punch it down** and on a lightly floured
@@ -68,7 +79,7 @@ After 5 minutes...
 -   Let stand for **45 minutes to 1 hour**, until the dough touches the
     plastic wrap.
 
-## Bake
+### Bake
 
 -   Preheat oven to **450° F**.
 -   Once heated to 450° F, reduce temperature to **400° F**.
@@ -77,10 +88,3 @@ After 5 minutes...
     the top is golden brown.
 -   Turn out bread onto a cooling rack.
 -   Let cool a least **30 minutes** before slicing.
-
-<https://media.improvisedscience.org/IMG_20181020_123852_2-320w.png>
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Caraway](Category:Caraway "wikilink")
-[Category:Rye](Category:Rye "wikilink")

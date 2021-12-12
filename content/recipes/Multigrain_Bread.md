@@ -1,3 +1,15 @@
+---
+title: Multigrain Bread
+tags:
+    - whole-grain
+    - wheat
+    - yeast
+categories: 
+    - bread
+methods:
+    - baked
+---
+
 This recipe has been tested and tweaked over time. Most of the
 modifications (so far) are to simplify the process.
 
@@ -191,6 +203,3 @@ If baking as a boule:
     counter. Proceed with recipe as directed.
 -   So far, **Saf Instant Yeast** yields the best results
     (http://a.co/9xa0L9L)
-
-[Category:Breads](Category:Breads "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
