@@ -1,22 +1,34 @@
-# Source
+---
+title: Lemon Pudding Cake
+tags:
+    - lemon
+categories: 
+    - dessert
+    - pudding-cake
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
--   <https://cooking.nytimes.com/recipes/12363-lemon-pudding-cake>
+## Source
+https://cooking.nytimes.com/recipes/12363-lemon-pudding-cake
 
-# Change Log
+## Change Log
 
 -   Cut sugar back to 170 grams
 
-# Preheat Oven
+## Preheat Oven
 
 -   Preheat oven to 350° F
 
-# Equipment
+## Equipment
 
 -   8" cake pan- square or round.
 -   Large roasting pan.
 -   Stand mixer.
 
-# Ingredients
+## Ingredients
 
 -   4 large eggs, separated
 -   1 teaspoon finely grated lemon zest
@@ -27,7 +39,7 @@
 -   ½ teaspoon kosher salt
 -   1 ½ cups whole milk
 
-# Preparation
+## Preparation
 
 -   Place a large roasting pan on a rack in the center of the oven. Fill
     the pan halfway with water. With the pan inside, heat the oven to
@@ -49,7 +61,3 @@
 -   Pour batter into the buttered dish.
 -   Place the dish in the pan of water in the oven.
 -   Bake until the cake is set, about 45 minutes.
-
-[Category:Cakes](Category:Cakes "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Lemons](Category:Lemons "wikilink")

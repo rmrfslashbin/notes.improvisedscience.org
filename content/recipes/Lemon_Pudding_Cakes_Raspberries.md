@@ -1,9 +1,24 @@
+---
+title: Lemon Pudding Cakes with Raspberries
+tags:
+    - lemon
+    - raspberries
+categories: 
+    - dessert
+    - pudding-cake
+methods:
+    - baked
+themes:
+    - vegetarian
+    - individual servings
+---
+
 These tart and lightly sweet desserts are easy to make, delicious, and
 are ready to go in just a few hours.
 
 ## Source
 
-<https://cooking.nytimes.com/recipes/1022010-lemon-pudding-cakes-with-sugared-raspberries>
+https://cooking.nytimes.com/recipes/1022010-lemon-pudding-cakes-with-sugared-raspberries
 
 ## Change Log
 
@@ -99,9 +114,3 @@ While the pudding are cooling:
 -   Taste berries; add more sugar if needed.
 -   Spoon berries over puddings.
 -   Serve
-
-[Category:Puddings, Creams, and
-Custards](Category:Puddings,_Creams,_and_Custards "wikilink")
-[Category:Roasted and Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Lemons](Category:Lemons "wikilink")
-[Category:Raspberries](Category:Raspberries "wikilink")

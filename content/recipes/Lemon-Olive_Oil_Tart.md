@@ -1,9 +1,18 @@
-# Notes
+---
+title: Lemon-Olive Oil Tart
+tags:
+    - lemon
+    - olive oil
+categories: 
+    - dessert
+    - tart
+methods:
+    - baked
+themes:
+    - vegetarian
+---
 
--   Eggs: I used three eggs + 1 additional yolk and the outcome was
-    fine.
-
-# Special Equipment
+## Special Equipment
 
 -   Fine-mesh strainer
 -   9" Tart pan
@@ -12,13 +21,13 @@
 -   Medium saucepan
 -   Wire cooling rack
 
-# Preheat Oven
+## Preheat Oven
 
 Preheat oven to 350°F
 
-# Ingredients
+## Ingredients
 
-## Crust
+### Crust
 
 -   215 grams all-purpose flour
 -   65 grams sugar
@@ -26,20 +35,20 @@ Preheat oven to 350°F
 -   120 ml extra-virgin olive oil
 -   30 ml (2 tbsp) water
 
-## Filling
+### Filling
 
 -   200 grams sugar
 -   15 grams all-purpose flour
 -   1 gram table salt
--   3 large eggs plus 3 large yolks
+-   3 large eggs plus 1 large yolks
 -   15 ml grated lemon zest
 -   120 ml lemon juice (about three lemons)
 -   60 ml extra-virgin olive oil
 -   Clip on candy thermometer or instant-read thermometer
 
-# Method
+## Method
 
-## Crust
+### Crust
 
 -   Adjust oven rack to **middle position** and preheat oven to
     **350°F**.
@@ -58,7 +67,7 @@ Preheat oven to 350°F
     25 minutes**, **rotating half-way** through baking.
 -   Remove from oven.
 
-## Filling
+### Filling
 
 **10 minutes before crust is finished baking**...
 
@@ -72,7 +81,7 @@ Preheat oven to 350°F
     corners of the saucepan until mixture registers **160°F**, about **5
     to 8 minutes**.
 
-## Combine, Strain, and Bake
+### Combine, Strain, and Bake
 
 -   Off heat, whisk in **olive oil** until incorporated.
 -   Strain curd though a fine-mesh strainer set over a bowl.
@@ -80,14 +89,10 @@ Preheat oven to 350°F
 -   Bake until filling is set and barely jiggles when pan is shaken,
     about **8 to 12 minutes**.
 
-## Cool
+### Cool
 
 -   Remove tart from oven and cool on a wire rack at least **2 hours**.
 -   Move tart to refrigerator and chill until firm, about **1 hour**.
 -   Remove outer tart-pan ring.
 -   Slide a spatula between crust and tart pan bottom and carefully
     slide tart onto a serving platter.
-
-[Category:Tarts](Category:Tarts "wikilink") [Category:Roasted and
-Baked](Category:Roasted_and_Baked "wikilink")
-[Category:Lemons](Category:Lemons "wikilink")

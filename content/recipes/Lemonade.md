@@ -1,3 +1,16 @@
+---
+title: Lemonade
+tags:
+    - lemon
+categories: 
+    - drinks
+methods:
+    - stove-top
+themes:
+    - summer
+    - boozy
+---
+
 Simple lemonade. Serve with a shot of vodka (chili pepper vodka is
 great!), tequila, or rum.
 
@@ -26,5 +39,3 @@ great!), tequila, or rum.
 
 -   Combine simple syrup, lemon juice, and remaining 7 cups cold water.
 -   Chill until ready to serve.
-
-[Category:Drinks](Category:Drinks "wikilink")

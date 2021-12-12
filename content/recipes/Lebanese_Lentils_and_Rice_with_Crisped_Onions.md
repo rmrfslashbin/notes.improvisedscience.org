@@ -1,15 +1,30 @@
-# Source
+---
+title: Lebanese Lentils and Rice with Crisped Onions
+tags:
+    - lentils
+    - rice
+    - onions
+categories: 
+    - side dish
+methods:
+    - stove-top
+themes:
+    - lebanese
+    - vegan
+---
+
+## Source
 
 Milk Street, May 2019
 
-# Special Equipment
+## Special Equipment
 
 -   Large dutch oven
 -   12" skillet
 -   A paper-towel-lined plate
 -   Kitchen towel
 
-# Ingredients
+## Ingredients
 
 -   5 cups water
 -   4 cloves garlic, smashed and peeled
@@ -25,9 +40,9 @@ Milk Street, May 2019
 -   2 medium yellow onions, halved and thinly sliced
 -   1 bunch scallions, thinly sliced
 
-# Preparation
+## Preparation
 
-## Water and Spices
+### Water and Spices
 
 -   In a large Dutch oven over **medium-high**, combine:
     -   5 cups water
@@ -38,20 +53,20 @@ Milk Street, May 2019
     -   salt
     -   pepper
 
-## Add Lentils
+### Add Lentils
 
 -   Bring to a boil, then add **lentils**.
 -   Reduce heat to low. Cover and cook, stirring occasionally and
     adjusting heat to maintain a **simmer** until lentils are softened
     but still quite firm at the center- about **10 minutes**.
 
-## Add Rice
+### Add Rice
 
 -   Stir in rice, return to a **simmer**.
 -   Cover, reduce heat to **medium-low** and cook until the liquid is
     absorbed and the lentils and rice are tender- about **25 minutes**.
 
-## Meanwhile, cook onions
+### Meanwhile, cook onions
 
 -   In a 12" skillet, heat **oil** until shimmering.
 -   Add **onions** and cook, stirring occasionally at first and then
@@ -61,7 +76,7 @@ Milk Street, May 2019
     plate, spread thin and evenly.
 -   Sprinkle with **¼ teaspoon salt** and set aside.
 
-## Finish
+### Finish
 
 -   Once the lentils and rice are tender, remove from heat, uncover, lay
     a kitchen towel over the pot, and place the cover over the towel for
@@ -73,10 +88,3 @@ Milk Street, May 2019
 -   Transfer to a serving bowl.
 -   Top with the **onions** and remaining **scallions**.
 -   Serve.
-
-[Category:Side Dishes](Category:Side_Dishes "wikilink")
-[Category:Vegan](Category:Vegan "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
-[Category:Lentils](Category:Lentils "wikilink")
-[Category:Rice](Category:Rice "wikilink")
-[Category:Onions](Category:Onions "wikilink")

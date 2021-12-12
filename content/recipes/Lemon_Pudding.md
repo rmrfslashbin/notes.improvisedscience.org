@@ -1,4 +1,21 @@
-# Ingredients
+---
+title: Lemon Pudding
+tags:
+    - lemon
+    - oat milk
+categories: 
+    - dessert
+    - pudding
+methods:
+    - stove-top
+themes:
+    - vegetarian
+    - individual servings
+---
+
+This reciepe calls for oat milk, but most other "milk" can be used.
+
+## Ingredients
 
 -   3/4 cup sugar
 -   1/4 cup cornstarch
@@ -9,7 +26,7 @@
 -   1/2 cup fresh lemon juice
 -   2 tablespoons unsalted butter, room temperature
 
-# Method
+## Method
 
 -   In a medium saucepan, whisk together **cornstarch** and **sugar.**
 -   Add **milk** and whisk till smooth.
@@ -23,9 +40,3 @@
 -   Let cool to **room temperature**.
 -   Chill, loosely covered, for **two hours**.
 -   Serve chilled.
-
-[Category:Puddings, Creams, and
-Custards](Category:Puddings,_Creams,_and_Custards "wikilink")
-[Category:Lemons](Category:Lemons "wikilink") [Category:Oat
-Milk](Category:Oat_Milk "wikilink") [Category:Stove
-Top](Category:Stove_Top "wikilink")
