@@ -1,5 +1,6 @@
 ---
 ShowToc: false
+searchHidden: true
 ---
 # Resources
 

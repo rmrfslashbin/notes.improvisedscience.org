@@ -8,7 +8,7 @@ categories:
     - sauce
     - Samin Nosrat
 methods:
-    - stove-
+    - stove-top
 themes:
     - vegan
 ---
