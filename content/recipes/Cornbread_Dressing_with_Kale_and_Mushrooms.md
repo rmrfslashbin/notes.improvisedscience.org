@@ -38,7 +38,7 @@ http://www.cookscountry.com/recipes/8529-sourdough-dressing-with-kale-and-mushro
 
 ## Ingredients
 
--   680 grams (1.5 lbs) 1.5x recipe of [Corn Bread]({{< ref "/recipes/corn_bread" >}})
+-   680 grams (1.5 lbs) 1.5x recipe of [Corn Bread]({{< ref "/recipes/cornbread" >}})
 -   3 ½ tablespoons unsalted butter
 -   ½ cup extra-virgin olive oil
 -   Salt and pepper

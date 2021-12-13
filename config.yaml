@@ -46,3 +46,8 @@ menu:
       name: themes
       url: /themes/
       weight: 50
+deployment:
+  targets:
+    name: aws
+    url: "s3://is-static-web-hosting?prefix=/notes.improvisedscience.org/&region=us-east-1"
+    #cloudFrontDistributionID: E36EOOO7TJC3G5

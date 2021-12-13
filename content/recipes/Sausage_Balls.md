@@ -4,7 +4,7 @@ categories:
     - appatizer
     - side dish
 methods:
-    - bakes
+    - baked
 themes:  
     - vegetarian
 ---

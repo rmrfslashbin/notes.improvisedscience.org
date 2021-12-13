@@ -7,5 +7,10 @@ run:
 
 build:
 	@echo "Building..."
+	rm -rf public
 	hugo
 	@echo "Done."
+
+deploy: build
+	@echo "Deploying..."
+	hugo deploy
