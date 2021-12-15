@@ -1,5 +1,6 @@
 ---
 title: Slow Cooker Lentil Soup
+date: 2021-12-15T12:35:00-05:00
 tags:
     - lentils
     - onions

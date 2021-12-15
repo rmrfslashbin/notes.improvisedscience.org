@@ -1,5 +1,6 @@
 ---
 title: Potato Dumplings
+date: 2018-07-14T00:02:18-05:00
 tags:
     - potatos
 categories: 

@@ -1,5 +1,6 @@
 ---
 title: Mushroom and Gruyère Quiche
+date: 2014-11-30T23:36:37-05:00
 tags:
     - mushroom
     - cheese

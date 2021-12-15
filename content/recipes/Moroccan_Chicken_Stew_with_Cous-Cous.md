@@ -1,5 +1,6 @@
 ---
 title: Morrocan Chicken Stew with Cous-Cous
+date: 2015-09-28T14:42:55-05:00
 tags:
     - chicken
     - apricot

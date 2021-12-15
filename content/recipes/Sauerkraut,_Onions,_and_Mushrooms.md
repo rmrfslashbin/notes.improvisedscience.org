@@ -1,5 +1,6 @@
 ---
 title: Sauerkraut, Onions, and Mushrooms
+date: 2015-01-04T19:09:42-05:00
 tags:
     - sauerkraut
     - onions

@@ -1,5 +1,6 @@
 ---
 title: Spanish Shrimp and Chickpea Stew
+date: 2020-05-06T15:46:24-05:00
 tags:
     - shrimp
     - chickpea

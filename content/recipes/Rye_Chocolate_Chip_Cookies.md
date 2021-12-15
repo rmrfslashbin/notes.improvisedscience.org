@@ -1,5 +1,6 @@
 ---
 title: Rye Chocolate Chip Cookies
+date: 2018-05-28T17:11:34-05:00
 tags:
     - rye
     - chocolate

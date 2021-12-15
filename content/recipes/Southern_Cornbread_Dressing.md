@@ -1,5 +1,6 @@
 ---
 title: Southern Cornbread Dressing
+date: 2018-11-30T13:14:27-05:00
 tags:
     - cornbread
 categories: 

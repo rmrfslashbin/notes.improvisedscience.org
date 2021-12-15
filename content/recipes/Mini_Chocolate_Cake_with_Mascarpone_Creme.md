@@ -1,5 +1,6 @@
 ---
 title: Mini Chocolate Cake with Mascarpone Creme
+date: 2018-07-24T18:19:31-05:00
 tags:
     - chocolate
     - mascarpone

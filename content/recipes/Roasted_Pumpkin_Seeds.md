@@ -1,5 +1,6 @@
 ---
 title: Roasted Pumpkin Seeds
+date: 2020-10-10T17:29:22-05:00
 tags:
     - pumpkin
     - seeds

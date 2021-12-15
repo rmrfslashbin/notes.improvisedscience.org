@@ -1,5 +1,6 @@
 ---
 title: Special Chicken
+date: 2018-01-31T17:11:05-05:00
 tags:
     - chicken
     - mushrooms

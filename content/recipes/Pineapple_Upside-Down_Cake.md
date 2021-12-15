@@ -1,5 +1,6 @@
 ---
 title: Pineapple Upside-Down Cake
+date: 2014-11-30T23:18:45-05:00
 tags:
     - pineapple
     - cardamom

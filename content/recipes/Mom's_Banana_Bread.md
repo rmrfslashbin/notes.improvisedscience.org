@@ -1,5 +1,6 @@
 ---
 title: Mom's Banana Bread
+date: 2016-04-06T03:08:17-05:00
 tags:
     - banana
 categories: 

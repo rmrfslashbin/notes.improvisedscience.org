@@ -1,5 +1,6 @@
 ---
 title: "Karaage: Japanese Fried Chicken Thighs"
+date: 2019-08-21T19:44:56-05:00
 tags:
     - chicken
     - thigh

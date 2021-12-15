@@ -1,5 +1,6 @@
 ---
 title: Indian Spiced Tomato and Egg Casserole
+date: 2019-12-09T14:20:47-05:00
 tags:
     - eggs
     - sweet potatos

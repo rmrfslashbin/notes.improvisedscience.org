@@ -1,5 +1,6 @@
 ---
 title: Thick and Chewy Chocolate Chip Cookies
+date: 2017-06-09T19:20:52-05:00
 tags:
     - chocolate
 categories: 

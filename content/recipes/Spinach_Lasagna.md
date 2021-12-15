@@ -1,5 +1,6 @@
 ---
 title: Spinach Lasagna
+date: 2021-03-15T21:14:21-05:00
 tags:
     - spinach
     - veggies

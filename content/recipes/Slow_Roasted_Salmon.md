@@ -1,5 +1,6 @@
 ---
 title: Slow Roasted Salmon
+date: 2020-09-05T00:12:29-05:00
 tags:
     - salmon
     - dill

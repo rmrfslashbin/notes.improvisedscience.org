@@ -1,5 +1,6 @@
 ---
 title: Lebanese Lentils and Rice with Crisped Onions
+date: 2019-03-03T17:40:15-05:00
 tags:
     - lentils
     - rice

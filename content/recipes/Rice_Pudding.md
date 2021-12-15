@@ -1,5 +1,6 @@
 ---
 title: Rice Pudding
+date: 2017-03-13T16:43:19-05:00
 tags:
     - rice
     - cinnammon

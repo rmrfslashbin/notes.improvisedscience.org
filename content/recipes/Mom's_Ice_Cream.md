@@ -1,5 +1,6 @@
 ---
 title: Mom's Ice Cream
+date: 2014-11-26T02:57:28-05:00
 tags:
     - vanilla
 categories: 

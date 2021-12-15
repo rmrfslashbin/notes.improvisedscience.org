@@ -1,5 +1,6 @@
 ---
 title: Sauced Shrimp with Lemon, Garlic, and Parsley
+date: 2015-03-01T17:52:45-05:00
 tags:
     - shrimp
     - garlic
