@@ -1,4 +1,4 @@
-make run --dry-run --keep-going --print-directory
+make run --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/rmrfslashbin/src/github.com/rmrfslashbin/notes.improvisedscience.org'
 echo "Running..."
 hugo server

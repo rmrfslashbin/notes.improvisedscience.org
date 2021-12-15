@@ -12,6 +12,8 @@ categories:
 methods:
     - crock pot
     - slow cooker
+themes:
+    - vegan
 ---
 
 ## Special Equipment

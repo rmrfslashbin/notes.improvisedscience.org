@@ -10,8 +10,9 @@ methods:
     - new
     - recipe
 themes:
-    - new
-    - recipe
+    - vegetarian
+    - vegan
+    - thanksgiving
 draft: true
 ---
 
