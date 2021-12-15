@@ -1,5 +1,6 @@
 ---
 title: Aunt Goldie's Quick Rise Biscuits
+date: 2016-05-08T18:01:03-05:00
 tags:
     - yeast
     - family recipe

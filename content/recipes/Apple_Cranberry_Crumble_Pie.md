@@ -1,5 +1,6 @@
 ---
 title: Apple Cranberry Crumble Pie
+date: 2018-11-30T12:33:20-05:00
 tags:
     - apples
     - cranberries

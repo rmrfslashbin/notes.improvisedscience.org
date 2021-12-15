@@ -1,5 +1,6 @@
 ---
 title: Cherry Pineapple Dump Cake
+date: 2014-11-30T23:18:00-05:00
 tags:
     - cherries
     - pineapple

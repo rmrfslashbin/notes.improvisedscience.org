@@ -1,5 +1,6 @@
 ---
 title: Chicken Enchilada Casserole
+date: 2014-11-30T23:17:26-05:00
 tags:
     - chicken
     - enchelada

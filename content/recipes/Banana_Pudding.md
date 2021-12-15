@@ -1,5 +1,6 @@
 ---
 title: Banana Pudding
+date: 2019-06-06T12:37:31-05:00
 tags:
     - banana
 categories: 

@@ -1,5 +1,6 @@
 ---
 title: Cannabutter
+date: 2019-02-24T14:54:51-05:00
 categories: 
     - edibles
     - cannabis

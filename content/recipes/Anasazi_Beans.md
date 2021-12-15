@@ -1,5 +1,6 @@
 ---
 title: Anasazi Beans
+date: 2020-06-28T13:00:23-05:00
 tags:
     - beans
     - family recipe

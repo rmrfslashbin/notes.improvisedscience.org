@@ -1,5 +1,6 @@
 ---
 title: Ethiopian Style Chickpea Stew
+date: 2015-09-26T16:47:34-05:00
 tags:
     - chickpeas
 categories:

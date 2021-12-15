@@ -1,5 +1,6 @@
 ---
 title: Cranberry Cherry Pie
+date: 2018-11-30T12:34:03-05:00
 tags:
     - cranberries
     - cherries

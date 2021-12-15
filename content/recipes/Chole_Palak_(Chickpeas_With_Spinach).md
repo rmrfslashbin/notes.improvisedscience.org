@@ -1,5 +1,6 @@
 ---
 title: Chole Palak (Chickpeas With Spinach)
+date: 2020-03-28T18:51:38-05:00
 tags:
     - chickpeas
     - spinach

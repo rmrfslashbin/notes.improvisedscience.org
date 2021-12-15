@@ -1,5 +1,6 @@
 ---
 title: Cardamom Strawberries
+date: 2021-08-02T16:08:37-05:00
 tags:
     - strawberries
     - cardamom

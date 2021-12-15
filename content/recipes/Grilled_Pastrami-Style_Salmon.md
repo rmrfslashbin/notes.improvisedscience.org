@@ -1,5 +1,6 @@
 ---
 title: Grilled Pastrami-Style Salmon
+date: 2019-03-02T21:52:17-05:00
 tags:
     - pastrami
     - salmon

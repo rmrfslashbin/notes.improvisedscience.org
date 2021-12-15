@@ -1,5 +1,6 @@
 ---
 title: Grill Gazed Pork Tenderloin
+date: 2014-11-26T03:07:59-05:00
 tags:
     - pork
     - glaze

@@ -1,5 +1,6 @@
 ---
 title: Chili and Garlic Shrimp
+date: 2020-11-27T12:43:11-05:00
 tags:
     - shrimp
     - garlic

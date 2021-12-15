@@ -1,5 +1,6 @@
 ---
 title: Crustless Broccoli and Onion Quiche
+date: 2014-11-30T23:35:53-05:00
 tags:
     - broccoli
     - onion

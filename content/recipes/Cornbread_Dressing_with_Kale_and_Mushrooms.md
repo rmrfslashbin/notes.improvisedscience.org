@@ -1,5 +1,6 @@
 ---
 title: Cornbread Dressing with Kale and Mushrooms
+date: 2018-11-30T12:33:43-05:00
 tags:
     - cornmeal
     - buttermilk

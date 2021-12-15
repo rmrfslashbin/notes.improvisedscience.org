@@ -1,5 +1,6 @@
 ---
 title: Egg Curry
+date: 2020-03-27T16:59:36-05:00
 tags:
     - curry
 categories:

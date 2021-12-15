@@ -1,5 +1,6 @@
 ---
 title: Chicken Scaloppini
+date: 2014-06-11T01:39:24-05:00
 tags:
     - chicken
     - wine

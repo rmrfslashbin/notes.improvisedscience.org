@@ -1,5 +1,6 @@
 ---
 title: Cherry Cream Cheese Frosting
+date: 2014-11-26T02:53:26-05:00
 tags:
     - cream cheese
     - cherries

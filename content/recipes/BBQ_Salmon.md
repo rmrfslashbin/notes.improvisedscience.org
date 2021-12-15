@@ -1,5 +1,6 @@
 ---
 title: BBQ Salmon
+date: 2017-10-19T13:14:05-05:00
 tags:
     - bbq
     - salmon

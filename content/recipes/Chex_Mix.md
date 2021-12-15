@@ -1,5 +1,6 @@
 ---
 title: Chex Mix
+date: 2014-11-26T03:09:27-05:00
 tags:
     - classic
     - chex

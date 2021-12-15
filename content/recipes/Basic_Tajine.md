@@ -1,5 +1,6 @@
 ---
 title: Basic Tajine
+date: 2017-11-13T16:36:07-05:00
 categories: 
     - main
 methods:

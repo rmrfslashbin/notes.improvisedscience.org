@@ -1,5 +1,6 @@
 ---
 title: Apple Cider Vinegar Pancakes
+date: 2014-11-26T02:50:37-05:00
 tags:
     - apple cider
 categories: 

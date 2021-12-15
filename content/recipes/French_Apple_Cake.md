@@ -1,5 +1,6 @@
 ---
 title: French Apple Cake
+date: 2017-12-26T22:32:43-05:00
 tags:
     - apples
     - brandy

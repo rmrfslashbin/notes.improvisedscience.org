@@ -1,5 +1,6 @@
 ---
 title: Cheesecake
+date: 2014-11-26T02:54:10-05:00
 tags:
     - cream cheese
     - original recipe

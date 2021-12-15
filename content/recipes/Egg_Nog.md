@@ -1,5 +1,6 @@
 ---
 title: Egg Nog
+date: 2014-11-26T02:59:47-05:00
 tags:
     - bourbon
     - rum

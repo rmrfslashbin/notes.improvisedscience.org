@@ -1,5 +1,6 @@
 ---
 title: Bean Burgers
+date: 2014-11-30T23:27:05-05:00
 tags:
     - beans
 categories: 

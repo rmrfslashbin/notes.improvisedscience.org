@@ -1,5 +1,6 @@
 ---
 title: Bean and Sausage Soup
+date: 2015-03-01T18:05:27-05:00
 tags:
     - beans
     - sausage
