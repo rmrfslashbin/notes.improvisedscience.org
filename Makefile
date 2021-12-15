@@ -1,16 +1,19 @@
 default_goal: run
 
-run:
+install-test:
+	test -f themes/papermod/README.md
+
+run: install-test
 	@echo "Running..."
 	hugo server
 	@echo "Done."
 
-build:
+build: install-test
 	@echo "Building..."
 	rm -rf public
 	hugo
 	@echo "Done."
 
-deploy: build
+deploy: install-test build
 	@echo "Deploying..."
 	hugo deploy
