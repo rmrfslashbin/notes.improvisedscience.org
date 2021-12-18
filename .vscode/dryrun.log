@@ -1,5 +1,6 @@
 make run --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/rmrfslashbin/src/github.com/rmrfslashbin/notes.improvisedscience.org'
+test -f themes/papermod/README.md
 echo "Running..."
 hugo server
 echo "Done."

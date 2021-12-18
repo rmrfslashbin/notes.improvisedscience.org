@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Fri Dec 17 17:10:43 2021
+# Make data base, printed on Sat Dec 18 12:32:27 2021
 
 # Variables
 
@@ -44,7 +44,7 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 INFOPATH = /opt/homebrew/share/info:
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T/vscode-ipc-b38f1ebc-3e77-4cf4-8030-0ae5a5601278.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T/vscode-ipc-56911e7a-059a-4924-b116-53ad3a536096.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -80,7 +80,7 @@ HOME = /Users/rmrfslashbin
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/rmrfslashbin/Library/Application Support/Code/CachedData/fe719cd3e5825bf14e14182fddeb88ee8daf044f
+VSCODE_CODE_CACHE_PATH = /Users/rmrfslashbin/Library/Application Support/Code/CachedData/899d46d82c4c95423fb7e10e68eba52050e30ba3
 # environment
 LOGNAME = rmrfslashbin
 # environment
@@ -118,7 +118,7 @@ TMPDIR = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/rmrfslashbin/Library/Application Support/Code/1.63.1-main.sock
+VSCODE_IPC_HOOK = /Users/rmrfslashbin/Library/Application Support/Code/1.63.2-main.sock
 # makefile
 MAKEFLAGS = Rrqp
 # environment
@@ -126,7 +126,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.1598574.1598580
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.1848631.1848637
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -160,7 +160,7 @@ FZF_DEFAULT_OPTS = --ansi
 # environment
 LANG = C
 # environment
-VSCODE_PID = 10968
+VSCODE_PID = 16006
 # variable set hash-table stats:
 # Load=75/1024=7%, Rehash=0, Collisions=2/98=2%
 
@@ -170,9 +170,9 @@ VSCODE_PID = 10968
 
 # Directories
 
-# . (device 16777229, inode 1359590): 17 files, no impossibilities.
+# . (device 16777229, inode 1359590): 18 files, no impossibilities.
 
-# 17 files, no impossibilities in 1 directories.
+# 18 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -198,17 +198,17 @@ all:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2021-12-12 18:48:59
+#  Last modified 2021-12-17 17:28:12
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
-build:
+build: install-test
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 9):
+#  commands to execute (from `Makefile', line 12):
 	@echo "Building..."
 	rm -rf public
 	hugo
@@ -226,27 +226,35 @@ default_goal: run
 #  Modification time never checked.
 #  File has not been updated.
 
-run:
+run: install-test
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 4):
+#  commands to execute (from `Makefile', line 7):
 	@echo "Running..."
 	hugo server
 	@echo "Done."
 	
 
-deploy: build
+deploy: install-test build
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 15):
+#  commands to execute (from `Makefile', line 18):
 	@echo "Deploying..."
 	hugo deploy
 	
 
+install-test:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 4):
+	test -f themes/papermod/README.md
+	
+
 # files hash-table stats:
-# Load=8/1024=1%, Rehash=0, Collisions=0/22=0%
+# Load=9/1024=1%, Rehash=0, Collisions=0/26=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -258,7 +266,7 @@ deploy: build
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Fri Dec 17 17:10:43 2021
+# Finished Make data base on Sat Dec 18 12:32:27 2021
 
  
 make: *** No rule to make target `all'.  Stop.
