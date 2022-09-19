@@ -25,7 +25,7 @@ This recipe makes four rolls.
 - Thermometer.
 
 ## Ingredients
-- 1/4 cup oat milk (or ohter milk)
+- 1/4 cup oat milk (or other milk)
 - 13 grams (2 teaspoons) honey
 - 3 grams (3/4 teaspoon) yeast
 - 2 large egg yolks
