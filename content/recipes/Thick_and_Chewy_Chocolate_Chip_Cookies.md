@@ -11,7 +11,7 @@ methods:
 themes:
     - vegetarian
 ---
-The go-to recipe for chocolate chip cookies.
+The go-to recipe for chocolate chip cookies. Browning (rather than simply melting) the butter add an extra dimension and is completely optional.
 
 ## Special Equipment
 
@@ -34,7 +34,7 @@ The go-to recipe for chocolate chip cookies.
 -   302 grams All-purpose flour (2 cups plus 2 tablespoons)
 -   ½ teaspoon baking soda
 -   3/4 teaspoon salt
--   170 grams (12 tablespoons) unsalted butter, melted and cooled
+-   170 grams (12 tablespoons) unsalted butter, melted (or browned) and cooled
 -   198 grams (1 cup packed) light brown sugar
 -   100 grams (1/2 cup) granulated sugar
 -   1 large egg plus 1 large yolk
@@ -74,4 +74,5 @@ Add egg and Yolk; add vanilla, beat until combined.
 
 ## Notes
 
-If you have only one cookie sheet, let the cookie sheet cool to room temperature before placing dough on fresh parchment. Placing the dough on a hot sheet will skew the cooking time.
+- If you have only one cookie sheet, let the cookie sheet cool to room temperature before placing dough on fresh parchment. Placing the dough on a hot sheet will skew the cooking time.
+- To brown the butter, place the butter in a small skillet. Heat over med/low heat- you'll hear "crackles" as the butter browns. Once the crackles stop, the butter is browned. Little to no stiring is required- just give the skillet a shake now and then to encourage even melting.
