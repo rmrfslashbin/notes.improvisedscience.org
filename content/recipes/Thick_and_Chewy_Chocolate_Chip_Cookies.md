@@ -11,7 +11,7 @@ methods:
 themes:
     - vegetarian
 ---
-The go-to recipe for chocolate chip cookies. Browning (rather than simply melting) the butter add an extra dimension and is completely optional.
+The go-to recipe for chocolate chip cookies. Browning (rather than simply melting) the butter adds an extra dimension and is completely optional.
 
 ## Special Equipment
 
@@ -55,7 +55,7 @@ Combine and set aside:
 
 Using stand mixer with paddle, cream together until smooth (about 2 minutes)
 
--   Melted butter
+-   Melted/browned butter
 -   Brown sugar
 -   Granulated sugar
 
