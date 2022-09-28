@@ -68,8 +68,8 @@ then...
 
 ### Roast Pumpkin
 
--   With a small-medium sugar pumpkin, cut out the stem and scrape out
-    the insides, discard (save the seeds for roasting later).
+-   With a small-medium sugar pumpkin, cut out the stem and scrape out and discard
+    the fibrous strands. Save the seeds and roast them later.
 -   Cut the pumpkin in half and lay cut side down on a rimmed baking
     sheet lined with silpat or aluminum foil.
 -   Fill with ¼" water.
