@@ -35,7 +35,7 @@ methods:
 -   20 grams (2 tablespoons) potato or corn starch
 -   40 grams (3 ½ tablespoons) extra or superfine sugar
 
-=Preparation-
+ ## Preparation
 
 -   Heat oven to **350° F**.
 -   Butter an **8-inch cake pan**. Line bottom with parchment.
