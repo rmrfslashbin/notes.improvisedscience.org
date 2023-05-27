@@ -40,6 +40,7 @@ This recipe comes from [Popote et Potager](https://www.youtube.com/@popoteetpota
   - 4 mashed
   - 1 whole, sliced length-wise
 - 2 large eggs
+- 200 grams all-purpose flour
 - 1 packet (7 grams) active dry yeast
 - 100 grams dark chocolate (70%), finely chopped
 
