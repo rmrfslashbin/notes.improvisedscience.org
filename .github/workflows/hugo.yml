@@ -37,7 +37,7 @@ jobs:
         env:
           HUGO_VERSION: ${{ vars.HUGO_VERSION }}
         with:
-          hugo-version: $HUGO_VERSION
+          hugo-version: '$HUGO_VERSION'
           
       - name: Build with Hugo
         env:
