@@ -26,8 +26,6 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: ${{ vars.HUGO_VERSION }}
     steps:  
       - name: Checkout
         uses: actions/checkout@v3
@@ -36,6 +34,8 @@ jobs:
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
+        env:
+          HUGO_VERSION: ${{ vars.HUGO_VERSION }}
         with:
           hugo-version: $HUGO_VERSION
           
