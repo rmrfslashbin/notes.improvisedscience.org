@@ -34,10 +34,8 @@ jobs:
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
-        env:
-          HUGO_VERSION: ${{ vars.HUGO_VERSION }}
         with:
-          hugo-version: '$HUGO_VERSION'
+          hugo-version: ${{ vars.HUGO_VERSION }}
           
       - name: Build with Hugo
         env:
