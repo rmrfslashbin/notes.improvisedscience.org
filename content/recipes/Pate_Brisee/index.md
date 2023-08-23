@@ -13,7 +13,7 @@ This is a very simple pie crust recipe that comes together quickly. The crust is
 
 This crust is so easy to make, there's no excuse to use store-bought crusts!
 
-![Crust](img/pate_brisee.png "Vide of crust in a pie pan")
+![Crust](img/pate_brisee.png "Photo of crust in a pie pan")
 
 ## Notes
 - This recipe requries cold ingredients and a cold work surface.
