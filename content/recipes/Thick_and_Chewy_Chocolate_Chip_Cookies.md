@@ -25,21 +25,23 @@ The go-to recipe for chocolate chip cookies. Browning (rather than simply meltin
 
 ## Pre-heat Oven
 
--   Preheat oven to 350° F
+-   Preheat oven to 325℉
 -   Adjust oven rack to lower-middle position
 -   Line 2 baking sheets with parchment paper
 
 ## Ingredients
 
--   302 grams All-purpose flour (2 cups plus 2 tablespoons)
--   ½ teaspoon baking soda
--   3/4 teaspoon salt
--   170 grams (12 tablespoons) unsalted butter, melted (or browned) and cooled
--   198 grams (1 cup packed) light brown sugar
--   100 grams (1/2 cup) granulated sugar
--   1 large egg plus 1 large yolk
--   2 teaspoons vanilla extract
--   255 grams (1 ½ cups) semisweet chocolate chips
+- 270 grams (2 ¼ cups) All-purpose flour
+- 1 teaspoon baking soda
+- 1 tablespoon cornstarch
+- ½ teaspoon salt
+- 170 grams (12 tablespoons) unsalted butter, melted (or browned) and cooled
+- 128 grams (¾ cup packed) light brown sugar
+- 100 grams (½ cup) granulated sugar
+- 2 tablespoons honey or golden syrup
+- 1 large egg plus 1 large yolk
+- 2 teaspoons vanilla extract
+- 170 grams (1 cups) semisweet chocolate chips
 
 ## Preparation
 
@@ -47,17 +49,19 @@ The go-to recipe for chocolate chip cookies. Browning (rather than simply meltin
 
 Combine and set aside:
 
--   Flour
--   Baking soda
--   Salt
+- Flour
+- Baking soda
+- Cornstarch
+- Salt
 
 ### Cream butter & sugar
 
 Using stand mixer with paddle, cream together until smooth (about 2 minutes)
 
--   Melted/browned butter
--   Brown sugar
--   Granulated sugar
+- Melted/browned butter
+- Brown sugar
+- Granulated sugar
+- Honey or golden syrup
 
 Add egg and Yolk; add vanilla, beat until combined.
 
@@ -69,7 +73,7 @@ Add egg and Yolk; add vanilla, beat until combined.
 ## Bake
 
 -   Working with 2 tablespoons dough at a time, roll into balls and space them 2 inches apart on prepared sheets. 
--   Bake cookies, 1 sheet at a time, until edges are set and beginning to brown but centers are still soft and puffy, 15 to 20 minutes, rotating sheet halfway through baking. 
+-   Bake cookies, 1 sheet at a time, until edges are set and beginning to brown but centers are still soft and puffy, 10 to 12 minutes, rotating sheet halfway through baking. 
 -   Let cookies cool on sheets for 10 minutes before serving.
 
 ## Notes
