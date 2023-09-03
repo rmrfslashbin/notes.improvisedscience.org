@@ -24,7 +24,7 @@ themes:
 - 85 grams (3 ounces) unsweetened chocolate
 - 113 grams (8 tablespoons / 1 stick) unsalted butter, more for greasing pan
 - 100 grams (½ cup) granulated sugar
-- 100 grams (½ cup) dark brown sugar
+- 100 grams (½ cup, packed) dark brown sugar
 - 2 eggs
 - 64 grams (½ cup) all-purpose flour
 - Pinch salt
