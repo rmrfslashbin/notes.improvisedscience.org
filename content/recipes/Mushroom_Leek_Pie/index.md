@@ -40,7 +40,7 @@ This savory pie is a simple, rustic dish that is perfect as a side dish or a mai
 - 3 to 4 Thyme sprigs
 - 2 large eggs
 - 80 ml (1/3 cup) oat or other milk
-- 145 grams (or 5 oz) finely grated parmesan cheese
+- 145 grams (5 oz) finely grated parmesan cheese
 - 1 pie shell from [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}} "Pâte Brisée")
 
 
@@ -69,12 +69,12 @@ To the empty skillet, add:
 Add olive oil and cook over medium heat until onions caramelize, about 30 minutes. Discard rosemary and thyme. Add mushrooms to onion/leek mixture and cook another 15 minutes over low heat. Pour onion/leek/mushroom mixture into large bowl and let cook till room temperature. 
 
 ### Prepare Pie Crust
-While mixture cools, prepare one 9” pie plate. Roll out dough (1/2 of recipe) to fit a 9” pie pan. Place dough in pie pan and situate as needed. If using glass or ceramic pie pan, bind bake crust and cool.
+While mixture cools, prepare one 9” pie pan. Roll out dough (1/2 of recipe) to fit a 9” pie pan. Place dough in pie pan and situate as needed. If using glass or ceramic pie pan, bind bake crust and cool.
 
 ### Combine and bake
 - Preheat oven to 175℃ (350℉).
 - To the onion/leek/mushroom mixture, add eggs, milk, and cheese; stir to incorporate. 
 - Pour mixture over prepared pie crust.
-- Bake at 175℃ (350℉) for about 40 minutes until top is lightly browned. Let cool. Serve with balsamic vinegar and fresh herbs.
+- Bake 35 to 40 minutes until top is lightly browned. Let cool. Serve with balsamic vinegar and fresh herbs.
 
 ![Pie](img/quarter_pie.png "Photo of quarter pie with knife")

@@ -31,7 +31,7 @@ This crust is so easy to make, there's no excuse to use store-bought crusts!
 ## Ingredients
 - 120 ml (½ cup) vodka
 - 120 ml (½ cup) water
-- 340 grams (3 sticks) cold unsalted butter, cut into cubes (½ to 1 cm / ¼ to ½ inch)
+- 340 grams (3 sticks) cold unsalted butter, cut into cubes (½ inch)
 - 485 grams (3 ¾ cup) all purpose flour
 - Pinch of salt
 - 30 ml (⅛ cup) sugar, if making a sweet pie
