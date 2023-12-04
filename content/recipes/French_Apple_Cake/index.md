@@ -33,15 +33,14 @@ Milk Street
 ## Ingredients
 
 -   113 grams unsalted butter
--   4 grams salt
+-   7 grams of salt, divided into 3 grams and 4 grams
 -   ¼ teaspoon ground allspice
--   680 grams (1 ½ pounds) Granny Smith apples, peeled, cored and cut
-    into ¼-inch slices
--   454 grams (1 pound) Braeburn or Golden Delicious apples, peeled,
-    cored and cut into ¼-inch slices
--   149 grams (12 tablespoons) white sugar, divided into: 2 tablespoons,
-    9 tablespoons, and 1 tablespoon
--   3 grams salt
+-   680 grams (1 ½ pounds) Granny Smith apples, peeled, cored and cut into ¼-inch slices
+-   454 grams (1 pound) Braeburn or Golden Delicious apples, peeled, cored and cut into ¼-inch slices
+-   149 grams (12 tablespoons) white sugar, divided into: 
+    -  25 grams (2 tablespoons)
+    -  113 grams (9 tablespoons)
+    -  12 grams (1 tablespoon)
 -   2 tablespoons brandy or Calvados
 -   95 grams all-purpose flour
 -   1 teaspoon baking powder
@@ -57,29 +56,24 @@ Milk Street
 ### Melt Butter
 
 -   Add **butter** and **4 grams salt** to a 12" non-stick skillet
--   Cook on **medium-high heat**, swirling the skilled frequently until
-    the milk solids are golden brown; about 5 to 7 minutes.
--   Pour butter into a small heat-proof bowl, without scraping the
-    skillet; leaving excess butter for the next step.
+-   Cook on **medium-high heat**, swirling the skilled frequently until the milk solids are golden brown; about 5 to 7 minutes.
+-   Pour butter into a small heat-proof bowl, without scraping the skillet; leaving excess butter for the next step.
 -   Add **allspice** to butter and stir. Set aside.
 
 ### Apples
 
 -   Add all of the **apples** to the still-hot skillet.
--   Add the **2 tablespoons sugar** and **3 grams of salt**.
--   Cook over **medium-high** heat, stirring occasionally, until apples
-    are starting to brown and liquid has evaporated; about 15 minutes.
+-   Add the **25 grams (2 tbsp) sugar** and **3 grams of salt**.
+-   Cook over **medium-high** heat, stirring occasionally, until apples are starting to brown and liquid has evaporated; about 15 minutes.
 -   Add **brandy** and cook till evaporated; about 30 seconds.
--   Transfer cooked apples to a large plate, spread into a single layer,
-    and refrigerate till cool; about 30 minutes.
+-   Transfer cooked apples to a large plate, spread into a single layer, and refrigerate till cool; about 30 minutes.
 
 ### Cake Batter
 
 Once the apples are cool...
 
 -   In a small bowl, whisk together **flour** and **baking power**.
--   In a large bowl, whisk together **eggs**, **vanilla**, and **9
-    tablespoons sugar**.
+-   In a large bowl, whisk together **eggs**, **vanilla**, and **113 grams (9 tbsp) sugar**.
 -   Into the eggs/sugar, gradually whisk in the browned butter.
 -   Using a rubber spatula, stir in flour mixture.
 -   Add cooled apples; fold until well combined.
@@ -88,7 +82,7 @@ Once the apples are cool...
 
 -   Pour batter into the prepared pan.
 -   Spread into an even layer.
--   Sprinkle remaining 1 tablespoon sugar over top of batter.
+-   Sprinkle remaining 12 grams (1 tbsp) sugar over top of batter.
 
 ## Bake
 

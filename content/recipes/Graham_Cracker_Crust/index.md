@@ -10,8 +10,7 @@ methods:
     - no-cook
 ---
 
-Excellent graham cracker crust for pies (such as pumpkin pie). The
-toasted nuts are optional. Modified from source.
+Excellent graham cracker crust for pies (such as pumpkin pie). The toasted nuts are optional. Modified from source.
 
 ## Source
 http://www.joyofbaking.com/GrahamCrackerTartsWithCreamFilling.html
@@ -25,7 +24,7 @@ http://www.joyofbaking.com/GrahamCrackerTartsWithCreamFilling.html
 -   80 grams (5 to 6 tablespoons) unsalted butter, melted
 -   125 grams (1 ¼ cups) graham crackers
 -   30 grams (2 tablespoons) granulated white sugar
--   ¼ cup toasted nuts (pecans, walnuts)
+-   40 grams (¼ cup) toasted nuts (pecans, walnuts)
 
 ## Method
 

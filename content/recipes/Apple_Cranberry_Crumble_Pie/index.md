@@ -15,10 +15,7 @@ themes:
     - vegetarian
 ---
 
-A fantastic pie which is fairly easy to make; albeit somewhat
-time-consuming. My changes to the recipe yield a tarter and naturally
-flavored pie. The crumble topping can be swapped for a traditional
-crust. If so desired, make full batch of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}).
+A fantastic pie which is fairly easy to make; albeit somewhat time-consuming. My changes to the recipe yield a tarter and naturally flavored pie. The crumble topping can be swapped for a traditional crust. If so desired, make full batch of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}) and include the spices from the crumble with the apple maceration.
 
 ## Source
 
@@ -65,7 +62,7 @@ This recipe has been modified from the original source:
 -   ¼ teaspoon nutmeg, preferably fresh grated
 -   ¼ teaspoon salt
 -   30 grams (2 Tablespoons) unsalted butter
--   2 tablespoons good Bourbon
+-   2 tablespoons Bourbon
 -   1 Tablespoon plus 1 teaspoon cornstarch
 -   1 heaping cup fresh cranberries
 
@@ -86,8 +83,7 @@ This recipe has been modified from the original source:
 
 ### Crust
 
--   Prepare half a recipe of [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}) (for the
-    bottom crust).
+-   Prepare the [Pâte Brisée]({{< ref "/recipes/pate_brisee" >}}).
 -   On a lightly floured surface, roll dough out into a 13-inch round.
 -   Gently lift the 13-inch round from the floured surface and center in
     a deep 9-inch round pie dish.
@@ -105,6 +101,7 @@ This recipe has been modified from the original source:
     -   Cinnamon
     -   Nutmeg
     -   Salt
+    -   (if omitting the crumble topping, add the cinnamon, nutmed, ginger, and cloves from the crumble ingredients)
 -   Place the apples in a fine mesh strainer set over the large bowl.
 -   Allow the apples to
     [macerate](http://en.wikipedia.org/wiki/Maceration_%28food%29) at
