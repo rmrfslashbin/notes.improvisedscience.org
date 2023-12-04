@@ -1,5 +1,5 @@
 ---
-title: Mom's Sugar Cookkies with Butter Cream Icing
+title: Mom's Sugar Cookies with Butter Cream Icing
 date: 2023-12-04T11:00:00Z
 tags:
     - family recipie
