@@ -16,7 +16,7 @@ The go-to recipe for chocolate chip cookies. Browning (rather than simply meltin
 
 ## Special Equipment
 
--   Stand mixer
+-   Stand mixer (optional, a strong arm will suffice)
 -   Two cookie sheets (one will suffice)
 -   Parchment paper
 
@@ -32,17 +32,17 @@ The go-to recipe for chocolate chip cookies. Browning (rather than simply meltin
 
 ## Ingredients
 
+- 170 grams (12 tablespoons) unsalted butter, melted (or browned) and cooled
 - 270 grams (2 ¼ cups) All-purpose flour
 - 1 teaspoon baking soda
 - 1 tablespoon cornstarch
 - ½ teaspoon salt
-- 170 grams (12 tablespoons) unsalted butter, melted (or browned) and cooled
-- 128 grams (¾ cup packed) light brown sugar
+- 170 grams (1 cups) semisweet chocolate chips
+- 128 grams (¾ cup packed) dark brown sugar
 - 100 grams (½ cup) granulated sugar
 - 2 tablespoons honey or golden syrup
 - 1 large egg plus 1 large yolk
 - 2 teaspoons vanilla extract
-- 170 grams (1 cups) semisweet chocolate chips
 
 ## Preparation
 
@@ -54,6 +54,7 @@ Combine and set aside:
 - Baking soda
 - Cornstarch
 - Salt
+- Chocolate Chips
 
 ### Cream butter & sugar
 
@@ -68,8 +69,7 @@ Add egg and Yolk; add vanilla, beat until combined.
 
 ### Combine wet and dry
 
--   Reduce stand mixer speed to low and add flour mixture in 3 additions until just combined, scraping down bowl as needed. 
--   Stir in chocolate chips by hand.
+-   Reduce stand mixer speed to low and add flour/chocolate mixture in 3 additions until just combined, scraping down bowl as needed. 
 
 ## Bake
 
