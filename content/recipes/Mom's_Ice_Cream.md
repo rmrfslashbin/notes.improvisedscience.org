@@ -7,7 +7,7 @@ categories:
     - dessert
     - ice cream
 methods:
-    - no-cool
+    - no-cook
 themes:
     - vegetarian
 ---
