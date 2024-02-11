@@ -20,7 +20,7 @@ themes:
 
 **Yield:** 4 servings
 
-## INGREDIENTS
+## Ingredients
 
 - 1 large bunch (or 2 small bunches) broccoli rabe or kale, thick stems separated from the leaves
 - **¼ cup** (60 ml) olive oil, plus more for drizzling
@@ -36,7 +36,7 @@ themes:
 - **2 ounces** (56 grams) feta or other salty cheese, such as queso fresco or pecorino, crumbled (optional)
 - Fried or medium-boiled eggs, for serving (optional)
 
-## PREPARATION
+## Preparation
 
 **Step 1**  
 Tear broccoli rabe or kale leaves into bite-size pieces and set aside. Chop the stems into about **¼-inch** pieces; set aside.
