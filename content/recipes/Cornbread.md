@@ -47,8 +47,6 @@ https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
 
 ## Preparation
 
--   Heat oven to '''375°F'''.
-
 ### Brown Butter
 
 -   On the stovetop, in an 11- or 12-inch cast iron skillet, melt the

@@ -25,7 +25,7 @@ methods:
 - 33 grams granulated sugar
 - 33 grams brown sugar
 - 30 grams unsweetened cocoa powder
-- 2 tablespoons cornstarch
+- 20 grams cornstarch
 - 1/8 teaspoon fine sea salt
 - 115 grams bittersweet chocolate, chopped
 - 1 teaspoon vanilla extract
