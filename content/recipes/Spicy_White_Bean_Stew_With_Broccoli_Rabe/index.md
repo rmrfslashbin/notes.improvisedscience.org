@@ -30,7 +30,7 @@ themes:
 - **2 to 3 tablespoons** (30-45 grams) harissa or tomato paste
 - Red-pepper flakes (Aleppo peppers work well)
 - 3 (15-ounce) cans large beans, such as pinto, navy, cannellini, butter or great Northern, drained and rinsed
-- **4 cups** (960 ml) vegetable
+- **4 cups** (960 ml) vegetable broth
 - 1 preserved lemon, thinly sliced, or 1 lemon, halved, for squeezing
 - **1 cup** (about 60 grams) parsley or cilantro, leaves and tender stems
 - **2 ounces** (56 grams) feta or other salty cheese, such as queso fresco or pecorino, crumbled (optional)
