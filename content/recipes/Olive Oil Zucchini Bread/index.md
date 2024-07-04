@@ -28,7 +28,7 @@ themes:
 
 - Butter, for the pan
 - 185g grated zucchini (1½ cups)
-- 140g light brown sugar (⅔ cup)
+- 105g light brown sugar (½ cup)
 - 80ml olive oil (⅓ cup) (or other oil such as safflower or canola)
 - 80ml plain Greek yogurt (⅓ cup)
 - 2 large eggs
