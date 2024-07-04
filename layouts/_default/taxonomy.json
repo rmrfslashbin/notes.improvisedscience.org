@@ -1,0 +1,6 @@
+{{- $taxonomies := slice -}}
+{{- range .Data.Terms.Alphabetical -}}
+  {{- $taxonomy := dict "name" .Page.Title "count" .Count "url" .Page.Permalink -}}
+  {{- $taxonomies = $taxonomies | append $taxonomy -}}
+{{- end -}}
+{{ dict "taxonomies" $taxonomies | jsonify }}

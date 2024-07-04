@@ -1,0 +1,6 @@
+{{- $terms := slice -}}
+{{- range .Data.Pages -}}
+  {{- $term := dict "name" .Title "url" .Permalink -}}
+  {{- $terms = $terms | append $term -}}
+{{- end -}}
+{{ dict "terms" $terms | jsonify }}

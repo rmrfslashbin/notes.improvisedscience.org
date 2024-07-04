@@ -8,6 +8,14 @@ outputs:
     - HTML
     - RSS
     - JSON
+  taxonomy:
+    - HTML
+    - RSS
+    - JSON
+  term:
+    - HTML
+    - RSS
+    - JSON
 taxonomies:
   category: categories
   tag: tags
