@@ -41,7 +41,7 @@ https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
 -   180 grams (1 ½ cups) yellow cornmeal, fine or medium-coarse grind
 -   65 grams (½ cup) whole wheat flour
 -   60 grams (½ cup) all-purpose flour
--   18 grams (1 &frac2;) tablespoons baking powder
+-   18 grams (1 ½) tablespoons baking powder
 -   9 grams (1 ½) teaspoons salt
 -   5 grams (½ teaspoon) baking soda
 
