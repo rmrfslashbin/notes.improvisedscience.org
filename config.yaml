@@ -16,6 +16,10 @@ outputs:
     - HTML
     - RSS
     - JSON
+  section:
+    - HTML
+    - RSS
+    - JSON
 taxonomies:
   category: categories
   tag: tags
