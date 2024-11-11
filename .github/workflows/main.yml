@@ -1,19 +1,73 @@
 name: Discord Notification
 on:
-  # Trigger on all events
+  # Repository activity events
   push:
   pull_request:
-    types: [opened, closed, reopened, assigned, unassigned, synchronized]
+    types: [opened, closed, reopened, assigned, unassigned, review_requested, review_request_removed, ready_for_review, converted_to_draft, edited, synchronized]
+  pull_request_review:
+    types: [submitted, edited, dismissed]
+  pull_request_review_comment:
+    types: [created, edited, deleted]
   issues:
-    types: [opened, closed, reopened, assigned, unassigned]
+    types: [opened, edited, deleted, transferred, pinned, unpinned, closed, reopened, assigned, unassigned, labeled, unlabeled, locked, unlocked, milestoned, demilestoned]
   issue_comment:
-    types: [created]
+    types: [created, edited, deleted]
+  
+  # Security events
+  security_advisory:
+    types: [published, updated, withdrawn]
+  dependabot_alert:
+    types: [created, dismissed, fixed, reintroduced]
+  code_scanning_alert:
+    types: [created, reopened, reopened_by_user, closed_by_user, fixed, appeared_in_branch]
+  secret_scanning_alert:
+    types: [created, resolved, reopened]
+    
+  # Repository management
+  repository_vulnerability_alert:
+    types: [create, dismiss, resolve]
+  workflow_run:
+    types: [completed, requested]
+  deployment_status:
+    types: [created, updated]
+  deployment:
+    types: [created, updated]
+  discussion:
+    types: [created, edited, deleted, transferred, pinned, unpinned, labeled, unlabeled, locked, unlocked, answered, unanswered, category_changed]
+  discussion_comment:
+    types: [created, edited, deleted]
+  
+  # Repository changes
   watch:
     types: [started]
   fork:
-  workflow_dispatch:  # Allow manual triggering
+  create:  # Branch or tag creation
+  delete:  # Branch or tag deletion
   release:
-    types: [published]
+    types: [published, edited, deleted, prereleased, released, created]
+  package:
+    types: [published, updated]
+  page_build:
+  project:
+    types: [created, updated, closed, reopened, deleted]
+  project_card:
+    types: [created, updated, moved, converted, deleted]
+  project_column:
+    types: [created, updated, moved, deleted]
+  public:  # Repository made public
+  
+  # Team and member events
+  member:
+    types: [added, updated, removed]
+  membership:
+    types: [added, updated, removed]
+  organization:
+    types: [member_added, member_removed, renamed]
+  team:
+    types: [created, deleted, edited, added_to_repository, removed_from_repository]
+  
+  # Manual trigger
+  workflow_dispatch:
 
 jobs:
   discord_notification:
@@ -26,18 +80,50 @@ jobs:
         id: details
         run: |
           echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
-          if [ "${{ github.event_name }}" = "push" ]; then
+          
+          # Security Events
+          if [ "${{ github.event_name }}" = "security_advisory" ]; then
+            echo "TITLE=🚨 Security Advisory" >> $GITHUB_ENV
+            echo "DESC=Security advisory ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "dependabot_alert" ]; then
+            echo "TITLE=⚠️ Dependabot Alert" >> $GITHUB_ENV
+            echo "DESC=Dependency vulnerability ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "code_scanning_alert" ]; then
+            echo "TITLE=🔍 Code Scanning Alert" >> $GITHUB_ENV
+            echo "DESC=Code scanning issue ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "secret_scanning_alert" ]; then
+            echo "TITLE=🔒 Secret Scanning Alert" >> $GITHUB_ENV
+            echo "DESC=Secret detected and ${{ github.event.action }}" >> $GITHUB_ENV
+          
+          # Workflow and Deployment Events
+          elif [ "${{ github.event_name }}" = "workflow_run" ]; then
+            echo "TITLE=⚡ Workflow Status" >> $GITHUB_ENV
+            echo "DESC=Workflow '${{ github.event.workflow_run.name }}' ${{ github.event.action }} with status: ${{ github.event.workflow_run.conclusion }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "deployment_status" ]; then
+            echo "TITLE=🚀 Deployment Update" >> $GITHUB_ENV
+            echo "DESC=Deployment ${{ github.event.deployment_status.state }}" >> $GITHUB_ENV
+          
+          # Repository Events
+          elif [ "${{ github.event_name }}" = "push" ]; then
             echo "TITLE=🔨 New Push" >> $GITHUB_ENV
             echo "DESC=New commits pushed by ${{ github.actor }}" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "pull_request" ]; then
             echo "TITLE=🔄 Pull Request" >> $GITHUB_ENV
             echo "DESC=PR #${{ github.event.number }} ${{ github.event.action }} by ${{ github.event.pull_request.user.login }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "pull_request_review" ]; then
+            echo "TITLE=👀 PR Review" >> $GITHUB_ENV
+            echo "DESC=Review ${{ github.event.action }} on PR #${{ github.event.pull_request.number }}" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "issues" ]; then
             echo "TITLE=📝 Issue Update" >> $GITHUB_ENV
             echo "DESC=Issue #${{ github.event.issue.number }} ${{ github.event.action }} by ${{ github.event.issue.user.login }}" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "issue_comment" ]; then
             echo "TITLE=💬 New Comment" >> $GITHUB_ENV
             echo "DESC=New comment on #${{ github.event.issue.number }} by ${{ github.event.comment.user.login }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "discussion" ]; then
+            echo "TITLE=💡 Discussion" >> $GITHUB_ENV
+            echo "DESC=Discussion ${{ github.event.action }} by ${{ github.event.sender.login }}" >> $GITHUB_ENV
+          
+          # Repository Management
           elif [ "${{ github.event_name }}" = "watch" ]; then
             echo "TITLE=⭐ New Star" >> $GITHUB_ENV
             echo "DESC=${{ github.actor }} starred the repository" >> $GITHUB_ENV
@@ -46,10 +132,23 @@ jobs:
             echo "DESC=${{ github.actor }} forked the repository" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "release" ]; then
             echo "TITLE=📦 New Release" >> $GITHUB_ENV
-            echo "DESC=Version ${{ github.event.release.tag_name }} has been released" >> $GITHUB_ENV
+            echo "DESC=Version ${{ github.event.release.tag_name }} has been ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "project" ]; then
+            echo "TITLE=📋 Project Update" >> $GITHUB_ENV
+            echo "DESC=Project ${{ github.event.action }}" >> $GITHUB_ENV
+          
+          # Team and Member Events
+          elif [ "${{ github.event_name }}" = "member" ] || [ "${{ github.event_name }}" = "membership" ]; then
+            echo "TITLE=👥 Member Update" >> $GITHUB_ENV
+            echo "DESC=Member ${{ github.event.member.login }} ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "team" ]; then
+            echo "TITLE=🤝 Team Update" >> $GITHUB_ENV
+            echo "DESC=Team ${{ github.event.action }}" >> $GITHUB_ENV
+          
+          # Default case
           else
             echo "TITLE=📢 Repository Update" >> $GITHUB_ENV
-            echo "DESC=New activity in the repository" >> $GITHUB_ENV
+            echo "DESC=${{ github.event_name }} event triggered by ${{ github.actor }}" >> $GITHUB_ENV
           fi
 
       - name: Send Discord Notification
@@ -72,6 +171,11 @@ jobs:
               {
                 "name": "Event",
                 "value": "${{ env.EVENT_TYPE }}",
+                "inline": true
+              },
+              {
+                "name": "Triggered By",
+                "value": "[${{ github.actor }}](https://github.com/${{ github.actor }})",
                 "inline": true
               }
             ]
