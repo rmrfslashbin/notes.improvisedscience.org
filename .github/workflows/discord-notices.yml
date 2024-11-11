@@ -1,65 +1,14 @@
 name: Discord Notification
 on:
-  # Repository activity events
   push:
+    branches: [main, master]  # Limit to main branches
   pull_request:
-    types: [opened, closed, reopened, assigned, unassigned, review_requested, review_request_removed, ready_for_review, converted_to_draft, edited, synchronized]
-  pull_request_review:
-    types: [submitted, edited, dismissed]
-  pull_request_review_comment:
-    types: [created, edited, deleted]
+    types: [opened, closed, reopened]
   issues:
-    types: [opened, edited, deleted, transferred, pinned, unpinned, closed, reopened, assigned, unassigned, labeled, unlabeled, locked, unlocked, milestoned, demilestoned]
-  issue_comment:
-    types: [created, edited, deleted]
-  
-  # Status and security monitoring
-  workflow_dispatch:  # For manual triggers
-  workflow_run:
-    types: [completed, requested] # To monitor other workflows
-  repository_dispatch: # For custom webhook events
-  check_run:
-    types: [created, completed, rerequested, requested_action]
-  check_suite:
-    types: [completed]
-  status: # Commit status updates
-  
-  # Repository changes
-  watch:
-    types: [started]
-  fork:
-  create:  # Branch or tag creation
-  delete:  # Branch or tag deletion
+    types: [opened, closed, reopened]
   release:
-    types: [published, edited, deleted, prereleased, released, created]
-  registry_package:
-    types: [published, updated]
-  page_build:
-  project:
-    types: [created, updated, closed, reopened, deleted]
-  project_card:
-    types: [created, updated, moved, converted, deleted]
-  project_column:
-    types: [created, updated, moved, deleted]
-  public:  # Repository made public
-  
-  # Discussion events
-  discussion:
-    types: [created, edited, deleted, transferred, pinned, unpinned, labeled, unlabeled, locked, unlocked, answered, unanswered, category_changed]
-  discussion_comment:
-    types: [created, edited, deleted]
-  
-  # Deployment events
-  deployment_status:
-  deployment:
-  
-  # Member events
-  member:
-    types: [added, edited, removed]
-  
-  # Repository management
-  repository:
-    types: [created, deleted, archived, unarchived, edited, renamed, transferred]
+    types: [published]
+  workflow_dispatch:  # For manual triggers
 
 jobs:
   discord_notification:
@@ -71,84 +20,38 @@ jobs:
       - name: Set event details
         id: details
         run: |
-          echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
+          echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_OUTPUT
           
-          # Status Events
-          if [ "${{ github.event_name }}" = "check_run" ]; then
-            echo "TITLE=🔍 Check Run Update" >> $GITHUB_ENV
-            echo "DESC=Check run '${{ github.event.check_run.name }}' ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "check_suite" ]; then
-            echo "TITLE=📋 Check Suite Complete" >> $GITHUB_ENV
-            echo "DESC=Check suite ${{ github.event.check_suite.conclusion }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "status" ]; then
-            echo "TITLE=📊 Status Update" >> $GITHUB_ENV
-            echo "DESC=Status: ${{ github.event.state }}" >> $GITHUB_ENV
-          
-          # Workflow and Deployment Events
-          elif [ "${{ github.event_name }}" = "workflow_run" ]; then
-            echo "TITLE=⚡ Workflow Status" >> $GITHUB_ENV
-            echo "DESC=Workflow '${{ github.event.workflow_run.name }}' ${{ github.event.action }} with status: ${{ github.event.workflow_run.conclusion }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "deployment_status" ]; then
-            echo "TITLE=🚀 Deployment Update" >> $GITHUB_ENV
-            echo "DESC=Deployment ${{ github.event.deployment_status.state }}" >> $GITHUB_ENV
-          
-          # Repository Events
-          elif [ "${{ github.event_name }}" = "push" ]; then
-            echo "TITLE=🔨 New Push" >> $GITHUB_ENV
-            echo "DESC=New commits pushed by ${{ github.actor }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "pull_request" ]; then
-            echo "TITLE=🔄 Pull Request" >> $GITHUB_ENV
-            echo "DESC=PR #${{ github.event.number }} ${{ github.event.action }} by ${{ github.event.pull_request.user.login }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "pull_request_review" ]; then
-            echo "TITLE=👀 PR Review" >> $GITHUB_ENV
-            echo "DESC=Review ${{ github.event.action }} on PR #${{ github.event.pull_request.number }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "issues" ]; then
-            echo "TITLE=📝 Issue Update" >> $GITHUB_ENV
-            echo "DESC=Issue #${{ github.event.issue.number }} ${{ github.event.action }} by ${{ github.event.issue.user.login }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "issue_comment" ]; then
-            echo "TITLE=💬 New Comment" >> $GITHUB_ENV
-            echo "DESC=New comment on #${{ github.event.issue.number }} by ${{ github.event.comment.user.login }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "discussion" ]; then
-            echo "TITLE=💡 Discussion" >> $GITHUB_ENV
-            echo "DESC=Discussion ${{ github.event.action }} by ${{ github.event.sender.login }}" >> $GITHUB_ENV
-          
-          # Repository Management
-          elif [ "${{ github.event_name }}" = "watch" ]; then
-            echo "TITLE=⭐ New Star" >> $GITHUB_ENV
-            echo "DESC=${{ github.actor }} starred the repository" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "fork" ]; then
-            echo "TITLE=🍴 New Fork" >> $GITHUB_ENV
-            echo "DESC=${{ github.actor }} forked the repository" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "release" ]; then
-            echo "TITLE=📦 New Release" >> $GITHUB_ENV
-            echo "DESC=Version ${{ github.event.release.tag_name }} has been ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "registry_package" ]; then
-            echo "TITLE=📨 Package Update" >> $GITHUB_ENV
-            echo "DESC=Package ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "project" ]; then
-            echo "TITLE=📋 Project Update" >> $GITHUB_ENV
-            echo "DESC=Project ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "repository" ]; then
-            echo "TITLE=📚 Repository Update" >> $GITHUB_ENV
-            echo "DESC=Repository ${{ github.event.action }}" >> $GITHUB_ENV
-          
-          # Member Events
-          elif [ "${{ github.event_name }}" = "member" ]; then
-            echo "TITLE=👥 Member Update" >> $GITHUB_ENV
-            echo "DESC=Member ${{ github.event.member.login }} ${{ github.event.action }}" >> $GITHUB_ENV
-          
-          # Default case
-          else
-            echo "TITLE=📢 Repository Update" >> $GITHUB_ENV
-            echo "DESC=${{ github.event_name }} event triggered by ${{ github.actor }}" >> $GITHUB_ENV
-          fi
+          case "${{ github.event_name }}" in
+            push)
+              echo "TITLE=🔨 New Push to ${{ github.ref_name }}" >> $GITHUB_OUTPUT
+              echo "DESC=New commits pushed by ${{ github.actor }}" >> $GITHUB_OUTPUT
+              ;;
+            pull_request)
+              echo "TITLE=🔄 Pull Request ${{ github.event.action }}" >> $GITHUB_OUTPUT
+              echo "DESC=PR #${{ github.event.number }} ${{ github.event.action }} by ${{ github.event.pull_request.user.login }}" >> $GITHUB_OUTPUT
+              ;;
+            issues)
+              echo "TITLE=📝 Issue ${{ github.event.action }}" >> $GITHUB_OUTPUT
+              echo "DESC=Issue #${{ github.event.issue.number }} ${{ github.event.action }} by ${{ github.event.issue.user.login }}" >> $GITHUB_OUTPUT
+              ;;
+            release)
+              echo "TITLE=📦 New Release" >> $GITHUB_OUTPUT
+              echo "DESC=Version ${{ github.event.release.tag_name }} has been published" >> $GITHUB_OUTPUT
+              ;;
+            *)
+              echo "TITLE=📢 Repository Update" >> $GITHUB_OUTPUT
+              echo "DESC=${{ github.event_name }} event triggered by ${{ github.actor }}" >> $GITHUB_OUTPUT
+              ;;
+          esac
 
       - name: Send Discord Notification
         uses: sarisia/actions-status-discord@v1
+        if: success()  # Only send notification if previous steps succeeded
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          title: ${{ env.TITLE }}
-          description: ${{ env.DESC }}
+          title: ${{ steps.details.outputs.TITLE }}
+          description: ${{ steps.details.outputs.DESC }}
           color: 0x0099ff
           username: GitHub Bot
           avatar_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
@@ -162,7 +65,7 @@ jobs:
               },
               {
                 "name": "Event",
-                "value": "${{ env.EVENT_TYPE }}",
+                "value": "${{ steps.details.outputs.EVENT_TYPE }}",
                 "inline": true
               },
               {
@@ -171,3 +74,9 @@ jobs:
                 "inline": true
               }
             ]
+
+      - name: Handle Errors
+        if: failure()
+        run: |
+          echo "Workflow failed. Please check the logs for more information."
+          # You could add additional error handling or notifications here
