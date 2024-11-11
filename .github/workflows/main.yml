@@ -1,0 +1,78 @@
+name: Discord Notification
+on:
+  # Trigger on all events
+  push:
+  pull_request:
+    types: [opened, closed, reopened, assigned, unassigned, synchronized]
+  issues:
+    types: [opened, closed, reopened, assigned, unassigned]
+  issue_comment:
+    types: [created]
+  watch:
+    types: [started]
+  fork:
+  star:
+  release:
+    types: [published]
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set event details
+        id: details
+        run: |
+          echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "TITLE=🔨 New Push" >> $GITHUB_ENV
+            echo "DESC=New commits pushed by ${{ github.actor }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "TITLE=🔄 Pull Request" >> $GITHUB_ENV
+            echo "DESC=PR #${{ github.event.number }} ${{ github.event.action }} by ${{ github.event.pull_request.user.login }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "issues" ]; then
+            echo "TITLE=📝 Issue Update" >> $GITHUB_ENV
+            echo "DESC=Issue #${{ github.event.issue.number }} ${{ github.event.action }} by ${{ github.event.issue.user.login }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "issue_comment" ]; then
+            echo "TITLE=💬 New Comment" >> $GITHUB_ENV
+            echo "DESC=New comment on #${{ github.event.issue.number }} by ${{ github.event.comment.user.login }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "watch" ]; then
+            echo "TITLE=⭐ New Star" >> $GITHUB_ENV
+            echo "DESC=${{ github.actor }} starred the repository" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "fork" ]; then
+            echo "TITLE=🍴 New Fork" >> $GITHUB_ENV
+            echo "DESC=${{ github.actor }} forked the repository" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "release" ]; then
+            echo "TITLE=📦 New Release" >> $GITHUB_ENV
+            echo "DESC=Version ${{ github.event.release.tag_name }} has been released" >> $GITHUB_ENV
+          else
+            echo "TITLE=📢 Repository Update" >> $GITHUB_ENV
+            echo "DESC=New activity in the repository" >> $GITHUB_ENV
+          fi
+
+      - name: Send Discord Notification
+        uses: sarisia/actions-status-discord@v1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          title: ${{ env.TITLE }}
+          description: ${{ env.DESC }}
+          color: 0x0099ff
+          username: GitHub Bot
+          avatar_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+          noprefix: true
+          fields: |
+            [
+              {
+                "name": "Repository",
+                "value": "[${{ github.repository }}](https://github.com/${{ github.repository }})",
+                "inline": true
+              },
+              {
+                "name": "Event",
+                "value": "${{ env.EVENT_TYPE }}",
+                "inline": true
+              }
+            ]
