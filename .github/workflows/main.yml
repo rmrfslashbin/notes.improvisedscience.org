@@ -45,7 +45,7 @@ on:
   delete:  # Branch or tag deletion
   release:
     types: [published, edited, deleted, prereleased, released, created]
-  package:
+  registry_package:
     types: [published, updated]
   page_build:
   project:
@@ -102,6 +102,9 @@ jobs:
           elif [ "${{ github.event_name }}" = "deployment_status" ]; then
             echo "TITLE=🚀 Deployment Update" >> $GITHUB_ENV
             echo "DESC=Deployment ${{ github.event.deployment_status.state }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "registry_package" ]; then
+            echo "TITLE=📨 Package Update" >> $GITHUB_ENV
+            echo "DESC=Package ${{ github.event.action }}" >> $GITHUB_ENV
           
           # Repository Events
           elif [ "${{ github.event_name }}" = "push" ]; then
