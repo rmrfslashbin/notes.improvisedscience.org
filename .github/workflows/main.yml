@@ -13,11 +13,16 @@ on:
   issue_comment:
     types: [created, edited, deleted]
   
-  # Security events
+  # Status and security monitoring
   workflow_dispatch:  # For manual triggers
   workflow_run:
     types: [completed, requested] # To monitor other workflows
   repository_dispatch: # For custom webhook events
+  check_run:
+    types: [created, completed, rerequested, requested_action]
+  check_suite:
+    types: [completed]
+  status: # Commit status updates
   
   # Repository changes
   watch:
@@ -48,13 +53,6 @@ on:
   deployment_status:
   deployment:
   
-  # Status events
-  status: # Commit status updates
-  check_run:
-    types: [created, completed, rerequested, requested_action]
-  check_suite:
-    types: [completed]
-
   # Team and member events
   member:
     types: [added, edited, removed]
@@ -64,8 +62,6 @@ on:
   # Repository management
   repository:
     types: [created, deleted, archived, unarchived, edited, renamed, transferred]
-  repository_vulnerability_alert:
-    types: [create, dismiss, resolve]
 
 jobs:
   discord_notification:
@@ -97,9 +93,6 @@ jobs:
           elif [ "${{ github.event_name }}" = "deployment_status" ]; then
             echo "TITLE=🚀 Deployment Update" >> $GITHUB_ENV
             echo "DESC=Deployment ${{ github.event.deployment_status.state }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "repository_vulnerability_alert" ]; then
-            echo "TITLE=⚠️ Security Alert" >> $GITHUB_ENV
-            echo "DESC=Security vulnerability alert ${{ github.event.action }}" >> $GITHUB_ENV
           
           # Repository Events
           elif [ "${{ github.event_name }}" = "push" ]; then
