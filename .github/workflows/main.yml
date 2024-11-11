@@ -14,28 +14,10 @@ on:
     types: [created, edited, deleted]
   
   # Security events
-  security_advisory:
-    types: [published, updated, withdrawn]
-  dependabot_alert:
-    types: [created, dismissed, fixed, reintroduced]
-  code_scanning_alert:
-    types: [created, reopened, reopened_by_user, closed_by_user, fixed, appeared_in_branch]
-  secret_scanning_alert:
-    types: [created, resolved, reopened]
-    
-  # Repository management
-  repository_vulnerability_alert:
-    types: [create, dismiss, resolve]
+  workflow_dispatch:  # For manual triggers
   workflow_run:
-    types: [completed, requested]
-  deployment_status:
-    types: [created, updated]
-  deployment:
-    types: [created, updated]
-  discussion:
-    types: [created, edited, deleted, transferred, pinned, unpinned, labeled, unlabeled, locked, unlocked, answered, unanswered, category_changed]
-  discussion_comment:
-    types: [created, edited, deleted]
+    types: [completed, requested] # To monitor other workflows
+  repository_dispatch: # For custom webhook events
   
   # Repository changes
   watch:
@@ -56,18 +38,34 @@ on:
     types: [created, updated, moved, deleted]
   public:  # Repository made public
   
+  # Discussion events
+  discussion:
+    types: [created, edited, deleted, transferred, pinned, unpinned, labeled, unlabeled, locked, unlocked, answered, unanswered, category_changed]
+  discussion_comment:
+    types: [created, edited, deleted]
+  
+  # Deployment events
+  deployment_status:
+  deployment:
+  
+  # Status events
+  status: # Commit status updates
+  check_run:
+    types: [created, completed, rerequested, requested_action]
+  check_suite:
+    types: [completed]
+
   # Team and member events
   member:
-    types: [added, updated, removed]
-  membership:
-    types: [added, updated, removed]
-  organization:
-    types: [member_added, member_removed, renamed]
+    types: [added, edited, removed]
   team:
     types: [created, deleted, edited, added_to_repository, removed_from_repository]
   
-  # Manual trigger
-  workflow_dispatch:
+  # Repository management
+  repository:
+    types: [created, deleted, archived, unarchived, edited, renamed, transferred]
+  repository_vulnerability_alert:
+    types: [create, dismiss, resolve]
 
 jobs:
   discord_notification:
@@ -81,19 +79,16 @@ jobs:
         run: |
           echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
           
-          # Security Events
-          if [ "${{ github.event_name }}" = "security_advisory" ]; then
-            echo "TITLE=🚨 Security Advisory" >> $GITHUB_ENV
-            echo "DESC=Security advisory ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "dependabot_alert" ]; then
-            echo "TITLE=⚠️ Dependabot Alert" >> $GITHUB_ENV
-            echo "DESC=Dependency vulnerability ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "code_scanning_alert" ]; then
-            echo "TITLE=🔍 Code Scanning Alert" >> $GITHUB_ENV
-            echo "DESC=Code scanning issue ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "secret_scanning_alert" ]; then
-            echo "TITLE=🔒 Secret Scanning Alert" >> $GITHUB_ENV
-            echo "DESC=Secret detected and ${{ github.event.action }}" >> $GITHUB_ENV
+          # Status Events
+          if [ "${{ github.event_name }}" = "check_run" ]; then
+            echo "TITLE=🔍 Check Run Update" >> $GITHUB_ENV
+            echo "DESC=Check run '${{ github.event.check_run.name }}' ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "check_suite" ]; then
+            echo "TITLE=📋 Check Suite Complete" >> $GITHUB_ENV
+            echo "DESC=Check suite ${{ github.event.check_suite.conclusion }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "status" ]; then
+            echo "TITLE=📊 Status Update" >> $GITHUB_ENV
+            echo "DESC=Status: ${{ github.event.state }}" >> $GITHUB_ENV
           
           # Workflow and Deployment Events
           elif [ "${{ github.event_name }}" = "workflow_run" ]; then
@@ -102,9 +97,9 @@ jobs:
           elif [ "${{ github.event_name }}" = "deployment_status" ]; then
             echo "TITLE=🚀 Deployment Update" >> $GITHUB_ENV
             echo "DESC=Deployment ${{ github.event.deployment_status.state }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "registry_package" ]; then
-            echo "TITLE=📨 Package Update" >> $GITHUB_ENV
-            echo "DESC=Package ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "repository_vulnerability_alert" ]; then
+            echo "TITLE=⚠️ Security Alert" >> $GITHUB_ENV
+            echo "DESC=Security vulnerability alert ${{ github.event.action }}" >> $GITHUB_ENV
           
           # Repository Events
           elif [ "${{ github.event_name }}" = "push" ]; then
@@ -136,12 +131,18 @@ jobs:
           elif [ "${{ github.event_name }}" = "release" ]; then
             echo "TITLE=📦 New Release" >> $GITHUB_ENV
             echo "DESC=Version ${{ github.event.release.tag_name }} has been ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "registry_package" ]; then
+            echo "TITLE=📨 Package Update" >> $GITHUB_ENV
+            echo "DESC=Package ${{ github.event.action }}" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "project" ]; then
             echo "TITLE=📋 Project Update" >> $GITHUB_ENV
             echo "DESC=Project ${{ github.event.action }}" >> $GITHUB_ENV
+          elif [ "${{ github.event_name }}" = "repository" ]; then
+            echo "TITLE=📚 Repository Update" >> $GITHUB_ENV
+            echo "DESC=Repository ${{ github.event.action }}" >> $GITHUB_ENV
           
           # Team and Member Events
-          elif [ "${{ github.event_name }}" = "member" ] || [ "${{ github.event_name }}" = "membership" ]; then
+          elif [ "${{ github.event_name }}" = "member" ]; then
             echo "TITLE=👥 Member Update" >> $GITHUB_ENV
             echo "DESC=Member ${{ github.event.member.login }} ${{ github.event.action }}" >> $GITHUB_ENV
           elif [ "${{ github.event_name }}" = "team" ]; then
