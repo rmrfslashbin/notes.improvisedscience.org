@@ -53,11 +53,9 @@ on:
   deployment_status:
   deployment:
   
-  # Team and member events
+  # Member events
   member:
     types: [added, edited, removed]
-  team:
-    types: [created, deleted, edited, added_to_repository, removed_from_repository]
   
   # Repository management
   repository:
@@ -134,13 +132,10 @@ jobs:
             echo "TITLE=📚 Repository Update" >> $GITHUB_ENV
             echo "DESC=Repository ${{ github.event.action }}" >> $GITHUB_ENV
           
-          # Team and Member Events
+          # Member Events
           elif [ "${{ github.event_name }}" = "member" ]; then
             echo "TITLE=👥 Member Update" >> $GITHUB_ENV
             echo "DESC=Member ${{ github.event.member.login }} ${{ github.event.action }}" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" = "team" ]; then
-            echo "TITLE=🤝 Team Update" >> $GITHUB_ENV
-            echo "DESC=Team ${{ github.event.action }}" >> $GITHUB_ENV
           
           # Default case
           else
