@@ -44,8 +44,8 @@ Preheat oven to 350°F.
 -   1 teaspoon vanilla extract
 -   1 large egg plus 1 large yolk
 -   255 grams (3 cups) old-fashioned rolled oats
--   ½ cup dried tart cherries
--   ½ cup chocolate chips
+-   75 grams (½ cup) dried tart cherries
+-   25 grams (½ cup) chocolate chips
 -   ½ cup crushed toasted pecans
 
 ## Method
