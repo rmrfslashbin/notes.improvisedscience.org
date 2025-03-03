@@ -1,0 +1,2 @@
+{{- $page := dict "title" .Title "url" .Permalink "raw" .RawContent "frontMatter" .Params -}}
+{{- $page | jsonify -}}

@@ -8,6 +8,9 @@ outputs:
     - HTML
     - RSS
     - JSON
+  page:
+    - HTML
+    - JSON
   taxonomy:
     - HTML
     - RSS
@@ -58,8 +61,9 @@ menu:
       name: themes
       url: /themes/
       weight: 50
-deployment:
-  targets:
-    name: aws
-    url: "s3://is-static-web-hosting?prefix=/notes.improvisedscience.org/&region=us-east-1"
-    cloudFrontDistributionID: E1YRTMBAIVJ37E
+outputFormats:
+  JSON:
+    mediaType: application/json
+    baseName: index
+    isPlainText: true
+
