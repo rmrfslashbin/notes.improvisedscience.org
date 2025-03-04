@@ -23,6 +23,9 @@ outputs:
     - HTML
     - RSS
     - JSON
+  taxonomies:
+    - HTML
+    - Taxonomies
 taxonomies:
   category: categories
   tag: tags
@@ -66,4 +69,11 @@ outputFormats:
     mediaType: application/json
     baseName: index
     isPlainText: true
+  Taxonomies:
+    mediaType: "application/json"
+    baseName: "index"
+    isPlainText: true
+    notAlternative: true
 
+
+  

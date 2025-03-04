@@ -1,0 +1,7 @@
+{{- $taxonomies := slice -}}
+{{- range $taxonomyName, $taxonomy := .Site.Taxonomies -}}
+  {{- $taxonomies = $taxonomies | append $taxonomyName -}}
+{{- end -}}
+{
+  "taxonomies": {{ $taxonomies | jsonify }}
+}
