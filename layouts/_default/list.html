@@ -63,6 +63,16 @@
   </section>
   {{- end }}
   {{- if not (.Param "hideMeta") }}
+  <!-- Add tags display here -->
+    {{- if .Params.tags }}
+    <div class="entry-tags">
+      {{ range $index, $tag := .Params.tags }}
+        {{- if gt $index 0 }}, {{ end -}}
+        <a href="{{ $.Site.BaseURL }}tags/{{ $tag | urlize }}">{{ $tag }}</a>
+      {{- end }}
+    </div>
+    {{- end }}
+    <!-- End of tags display -->
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
   </footer>
