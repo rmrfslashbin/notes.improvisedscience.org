@@ -1,0 +1,13 @@
+{{- if site.Params.analytics.google.SiteVerificationTag -}}
+{{- /* Google Analytics */ -}}
+{{- if site.GoogleAnalytics -}}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.GoogleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.GoogleAnalytics }}');
+</script>
+{{- end -}}
+{{- end -}}
