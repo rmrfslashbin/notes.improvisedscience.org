@@ -1,0 +1,15 @@
+name = "notes-improvisedscience-org"
+
+[build]
+command = "hugo --minify"
+cwd = ""
+
+[build.environment_variables]
+HUGO_VERSION = "0.148.1"
+HUGO_EXTENDED = "true"
+
+[env.production]
+route = "notes.improvisedscience.org/*"
+
+[env.production.build]
+command = "hugo --minify --baseURL https://notes.improvisedscience.org/"
