@@ -1,15 +1,16 @@
 name = "notes-improvisedscience-org"
 
 [build]
-command = "hugo --minify"
+command = "hugo -b https://notes.improvisedscience.org/"
 cwd = ""
 
 [build.environment_variables]
 HUGO_VERSION = "0.148.1"
-HUGO_EXTENDED = "true"
 
 [env.production]
-route = "notes.improvisedscience.org/*"
-
 [env.production.build]
-command = "hugo --minify --baseURL https://notes.improvisedscience.org/"
+command = "hugo -b https://notes.improvisedscience.org/"
+
+[env.preview]
+[env.preview.build]
+command = "hugo -b $CF_PAGES_URL"
