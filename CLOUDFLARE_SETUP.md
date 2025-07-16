@@ -1,25 +1,27 @@
 # Cloudflare Pages Configuration
 
-This project uses a combination of repository-based configuration (`wrangler.toml`) and Cloudflare Pages web UI settings.
+This project uses Cloudflare Pages web UI configuration only. A `wrangler.toml` file is **not recommended** for static site builds like Hugo, as it's primarily designed for Pages Functions.
 
-## Repository Configuration (wrangler.toml)
+## Why No wrangler.toml?
 
-The following settings are managed via the `wrangler.toml` file in this repository:
+- Cloudflare Pages `wrangler.toml` is designed for **Functions configuration** (bindings, KV, D1, etc.)
+- Build commands and environment variables work best through the **web UI**
+- Static site generators like Hugo don't need the complexity of `wrangler.toml`
 
-- **Build command**: `hugo -b https://notes.improvisedscience.org/`
-- **Environment variables**: `HUGO_VERSION = "0.148.1"`
-- **Environment-specific builds**: Different commands for production vs preview
-
-## Manual Web UI Configuration Required
+## Required Web UI Configuration
 
 The following settings must be configured manually in the Cloudflare Pages dashboard:
 
 ### Build Configuration
+- **Build command**: `hugo --minify -b https://notes.improvisedscience.org/`
 - **Build output**: `public`
 - **Root directory**: (leave empty)
 - **Build comments**: Enabled
 - **Build cache**: Disabled
 - **Build system version**: Version 2
+
+### Environment Variables
+- **HUGO_VERSION**: `0.148.1`
 
 ### Branch Control
 - **Production branch**: `main`
