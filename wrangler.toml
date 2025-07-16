@@ -1,8 +1,10 @@
 name = "notes-improvisedscience-org"
 
+# Pages configuration
+pages_build_output_dir = "public"
+
 [build]
 command = "hugo --minify -b https://notes.improvisedscience.org/"
-cwd = ""
 
 [build.environment_variables]
 HUGO_VERSION = "0.148.1"
