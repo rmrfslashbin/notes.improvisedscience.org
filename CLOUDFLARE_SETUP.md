@@ -46,14 +46,14 @@ The following settings must be configured manually in the Cloudflare Pages dashb
 
 2. **Configure Manual Settings**: Set the manual settings listed above in the Cloudflare Pages dashboard
 
-3. **Deploy**: Cloudflare Pages will automatically use the `wrangler.toml` configuration for builds
+3. **Deploy**: Cloudflare Pages will automatically build using the web UI configuration
 
 ## Notes
 
-- The `wrangler.toml` file overrides equivalent settings in the web UI
-- Environment variables in the web UI are supplemented by those in `wrangler.toml`
-- If you need to change build settings, prefer updating `wrangler.toml` for version control
-- Some advanced features (deploy hooks, notifications, bindings) can only be configured via the web UI
+- All build configuration is managed through the Cloudflare Pages web UI
+- Changes to build settings should be made in the dashboard
+- Configuration is tied to the specific Pages project, not version-controlled
+- Advanced features (deploy hooks, notifications, bindings) are configured via the web UI
 
 ## Troubleshooting
 
