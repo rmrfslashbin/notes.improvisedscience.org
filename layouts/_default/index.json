@@ -1,6 +1,7 @@
 {{- $pages := slice -}}
-{{- range .Site.Pages -}}
-  {{- $page := dict "title" .Title "url" .Permalink "raw" .RawContent "frontMatter" .Params -}}
-  {{- $pages = $pages | append $page -}}
+{{- range .Site.RegularPages -}}
+  {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+  {{- $pages = $pages | append (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+  {{- end }}
 {{- end -}}
-{{- dict "pages" $pages | jsonify -}}
+{{- $pages | jsonify -}}
