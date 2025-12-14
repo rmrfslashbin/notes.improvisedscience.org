@@ -73,3 +73,8 @@ Thumbs.db
 # Misc
 .cache/
 .temp/
+
+# MCP
+.mcp.json
+.claude/*
+!.claude/commands/
