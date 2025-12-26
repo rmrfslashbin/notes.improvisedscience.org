@@ -1,9 +1,9 @@
 ---
 title: "Turkish Lentil Salad with Sweet Peppers and Herbs"
 description: "Vibrant Turkish-inspired lentil salad with roasted red peppers, fresh herbs, and tangy pomegranate molasses. Served warm or chilled."
-date: 2025-12-14T00:00:00-00:00
-lastmod: 2025-12-14T00:00:00-00:00
-publishdate: 2025-12-14T00:00:00-00:00
+date: 2025-12-26T16:53:34-05:00
+lastmod: 2025-12-26T16:53:34-05:00
+publishdate: 2025-12-26T16:53:34-05:00
 draft: false
 weight: 10
 prep_time: "15 minutes"
