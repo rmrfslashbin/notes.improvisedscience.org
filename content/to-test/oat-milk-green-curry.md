@@ -17,8 +17,8 @@ This green curry takes a creative approach by using oat milk instead of coconut 
 - 2 tablespoons neutral oil (vegetable or canola)
 - 3-4 tablespoons Thai green curry paste (start with 3)
 - 2 tablespoons natural peanut butter
-- 2 cups (480ml) oat milk
-- 1 cup (240ml) vegetable stock
+- 1.5 cups (360ml) oat milk
+- 1/2 cup (120ml) vegetable stock
 - 2-3 cloves garlic, minced
 - 1 tablespoon fresh ginger, minced
 
@@ -68,6 +68,8 @@ This green curry takes a creative approach by using oat milk instead of coconut 
 - **Kecap manis advantage**: If you have Indonesian sweet soy sauce (kecap manis), use it instead of plain sugar. It adds both sweetness and umami depth, creating a Thai-Indonesian fusion that's fantastic. This is the preferred method.
 
 - **Don't overcook the oat milk**: Keep the heat at a gentle simmer. Aggressive boiling can cause oat milk to separate or become grainy.
+
+- **Consistency adjustment**: The recipe uses 2 cups total liquid for a thick, coating curry. If you prefer a thinner, brothier curry, add more stock 1/4 cup at a time until you reach your desired consistency. Mushrooms will also release liquid as they cook.
 
 - **Curry paste strength**: Green curry paste varies wildly between brands. Start with 3 tablespoons and add more to taste. Thai brands like Maesri or Mae Ploy tend to be more potent than Western supermarket versions.
 
