@@ -1,9 +1,9 @@
 ---
 title: "Oat Milk Green Curry with Chickpeas & Vegetables"
 description: "Lighter dairy-free Thai green curry using oat milk and peanut butter. Aromatic curry leaves add depth to chickpeas, mushrooms, and vegetables."
-date: 2025-12-26T16:53:34-05:00
-lastmod: 2025-12-26T16:53:34-05:00
-publishdate: 2025-12-26T16:53:34-05:00
+date: 2026-01-17T21:41:03-05:00
+lastmod: 2026-01-17T21:41:03-05:00
+publishdate: 2026-01-17T21:41:03-05:00
 draft: false
 weight: 10
 prep_time: "15 minutes"
