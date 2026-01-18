@@ -1,9 +1,9 @@
 ---
 title: "Indonesian-Style Stir-Fried Red Chili Tofu with Peanuts"
 description: "Crispy tofu stir-fried with Indonesian red chili paste, peanuts, and kecap manis. A vegan take on Jakarta's kering tempeh."
-date: 2026-01-17T21:41:03-05:00
-lastmod: 2026-01-17T21:41:03-05:00
-publishdate: 2026-01-17T21:41:03-05:00
+date: 2025-12-26T16:53:34-05:00
+lastmod: 2025-12-26T16:53:34-05:00
+publishdate: 2025-12-26T16:53:34-05:00
 draft: false
 weight: 10
 prep_time: "1 hour 20 minutes (includes 1 hour pressing)"
