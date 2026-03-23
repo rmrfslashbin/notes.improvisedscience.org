@@ -1,22 +1,27 @@
 ---
 title: "Chapatis"
-date: 2025-04-08
+date: 2025-04-08T00:00:00-05:00
 draft: false
-tags: ["Indian", "Bread", "Flatbread", "Side Dish", "Vegetarian", "Vegan", "Dairy-Free"]
 description: "Classic Indian flatbread, perfect for scooping up curries and dals. Makes 16."
-servings: "16 chapatis (4 people)"
-# dietary: ["DF", "VE"]
+categories: ["Bread"]
+tags: ["Indian", "Bread", "Flatbread", "Vegetarian", "Vegan", "Dairy-Free"]
+methods: ["Stove-Top"]
+themes: ["Vegan", "Indian"]
+prep_time: "15 minutes"
+cook_time: "40 minutes"
+total_time: "55 minutes"
+servings: 4
 ---
 **Makes 16 (enough for 4 people)**
 
-### Ingredients
-- 3¼ cups chapati flour, or 1¾ cups whole-wheat and 1¾ cups all-purpose white flour (plus extra to dust)
+## Ingredients
+- 780ml (3¼ cups) chapati flour, or 420ml (1¾ cups) whole-wheat and 420ml (1¾ cups) all-purpose white flour (plus extra to dust)
 - ½ teaspoon salt
 - canola oil
-- 1 cup plus 2 tablespoons hot water
+- 270ml (1 cup plus 2 tablespoons) hot water
 
-### Instructions
-1. Put the flour into a bowl, add the salt, and mix together. Make a well in the middle, add 3 tablespoons of oil, and mix, using your fingers, until it resembles fine breadcrumbs. Pour in 1 cup of the water, then add the rest little by little—you may not need it all—until you can knead the mixture into a soft and pliable dough, which will take 6 to 8 minutes.
+## Instructions
+1. Put the flour into a bowl, add the salt, and mix together. Make a well in the middle, add 3 tablespoons of oil, and mix, using your fingers, until it resembles fine breadcrumbs. Pour in 240ml (1 cup) of the water, then add the rest little by little—you may not need it all—until you can knead the mixture into a soft and pliable dough, which will take 6 to 8 minutes.
 
 2. Lightly rub the dough with oil (so it won't dry out) and put to one side while you get your rolling station ready. You will need a floured board or clean surface, ideally on one side of the stove top. You'll also need a rolling pin, a bowl of flour in which to dip the balls of dough, a spatula (or chapati press), a frying pan, and a plate for your cooked chapatis.
 

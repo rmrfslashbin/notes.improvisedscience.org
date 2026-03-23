@@ -1,9 +1,15 @@
 ---
 title: "Gochujang Pasta with Kimchi & Mushrooms"
-date: 2026-01-17
+date: 2026-01-17T00:00:00-05:00
 draft: false
-tags: ["Fusion", "Korean", "Italian", "Pasta", "Kimchi", "Mushrooms", "Vegan", "Vegetarian", "Quick", "Weeknight"]
 description: "Korean-Italian fusion pasta with spicy gochujang, funky kimchi, and mushrooms. Creamy, umami-rich sauce with sesame oil instead of butter."
+categories: ["Main"]
+tags: ["Fusion", "Korean", "Italian", "Pasta", "Kimchi", "Mushrooms", "Vegan", "Vegetarian", "Quick", "Weeknight"]
+methods: ["Stove-Top"]
+themes: ["Vegan", "Korean", "Fusion"]
+prep_time: "10 minutes"
+cook_time: "20 minutes"
+total_time: "30 minutes"
 servings: 4
 ---
 
@@ -11,14 +17,14 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 
 **Serves 4**
 
-### Ingredients
+## Ingredients
 
-#### Pasta
-- 12 oz pasta (spaghetti, bucatini, or fettuccine work well)
+### Pasta
+- 340g (12oz) pasta (spaghetti, bucatini, or fettuccine work well)
 - Salt for pasta water
-- 1.5 cups reserved pasta cooking water
+- 360ml (1½ cups) reserved pasta cooking water
 
-#### Sauce Base (Sesame Oil Method)
+### Sauce Base (Sesame Oil Method)
 - 2 tablespoons neutral oil (vegetable or canola)
 - 1 tablespoon toasted sesame oil
 - 3 tablespoons gochujang (Korean chili paste)
@@ -28,21 +34,21 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 - 2 cloves garlic, minced
 - 1 tablespoon fresh ginger, minced
 
-#### Vegetables
-- 8 oz white mushrooms, sliced
-- 1 cup kimchi, roughly chopped (plus extra juice if available)
+### Vegetables
+- 225g (8oz) white mushrooms, sliced
+- 240ml (1 cup) kimchi, roughly chopped (plus extra juice if available)
 - 4 scallions, white and light green parts chopped, dark green parts sliced for garnish (keep separate)
 
-#### To Serve
+### To Serve
 - Reserved scallion greens
 - Toasted sesame seeds
 - Extra gochujang or chili flakes
 - Crispy fried shallots or garlic (optional)
 - Nori strips (optional, for umami)
 
-### Instructions
+## Instructions
 
-1. **Cook the pasta**: Bring a large pot of well-salted water to a boil. Cook pasta according to package directions until al dente. Reserve 1.5 cups pasta cooking water before draining. Do not rinse the pasta.
+1. **Cook the pasta**: Bring a large pot of well-salted water to a boil. Cook pasta according to package directions until al dente. Reserve 360ml (1½ cups) pasta cooking water before draining. Do not rinse the pasta.
 
 2. **Cook the mushrooms**: While pasta cooks, heat 2 tablespoons neutral oil in a large skillet or wok over medium-high heat. Add sliced mushrooms and cook, stirring occasionally, until browned and their liquid has evaporated, 5-7 minutes. Season with a pinch of salt.
 
@@ -50,7 +56,7 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 
 4. **Add gochujang and kimchi**: Add gochujang, soy sauce, rice vinegar, and sugar to the pan. Stir to combine and cook for 1 minute until the gochujang is fragrant and slightly darkened. Add chopped kimchi and scallion whites/light greens. Stir-fry for 1-2 minutes until kimchi is heated through.
 
-5. **Emulsify the sauce**: Reduce heat to medium. Add 1 cup of the reserved pasta water to the pan. Stir vigorously to emulsify the gochujang and oils into a creamy sauce. Let it simmer and reduce slightly for 2-3 minutes. The sauce should be glossy and coat the back of a spoon.
+5. **Emulsify the sauce**: Reduce heat to medium. Add 240ml (1 cup) of the reserved pasta water to the pan. Stir vigorously to emulsify the gochujang and oils into a creamy sauce. Let it simmer and reduce slightly for 2-3 minutes. The sauce should be glossy and coat the back of a spoon.
 
 6. **Toss the pasta**: Add the drained pasta to the sauce. Toss continuously, adding more pasta water a little at a time if needed, until the pasta is well coated and the sauce clings to each strand. The starch from the pasta water will help create a silky, emulsified sauce.
 
@@ -63,7 +69,7 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 
    Transfer to serving bowls. Garnish with sliced scallion greens, toasted sesame seeds, and any optional toppings. Serve immediately.
 
-### Notes
+## Notes
 
 - **Why sesame oil instead of butter**: Toasted sesame oil adds a nutty, aromatic richness that complements Korean flavors better than butter. The neutral oil provides body and helps emulsify the sauce. Together they create a creamy, glossy sauce without dairy.
 
@@ -85,7 +91,7 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 
 - **Cheese option**: Top with grated Parmesan or pecorino if you want fusion comfort (no longer vegan). The salty, nutty cheese works surprisingly well with Korean flavors.
 
-### Variations
+## Variations
 
 - **Protein additions**: Add pan-fried tofu cubes, crispy chickpeas, or (for non-vegan) a fried egg on top, thinly sliced pork belly, or shrimp.
 
@@ -97,6 +103,6 @@ This Korean-Italian fusion pasta is a weeknight game-changer: spicy gochujang, f
 
 - **Noodle swap**: Use fresh ramen noodles, udon, or rice noodles instead of pasta for a more Asian-leaning dish.
 
-### Storage
+## Storage
 
 Best served immediately while the pasta is hot and the sauce is freshly emulsified. Leftovers can be stored in an airtight container in the refrigerator for up to 2 days, but the pasta will absorb the sauce and become less creamy. Reheat gently in a skillet with a splash of water or stock to loosen the sauce. Add a drizzle of sesame oil to refresh. Not recommended for freezing.

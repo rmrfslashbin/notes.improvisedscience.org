@@ -1,9 +1,15 @@
 ---
 title: "Chinese Hot & Sour Lentil Soup"
-date: 2026-01-17
+date: 2026-01-17T00:00:00-05:00
 draft: false
-tags: ["Chinese", "Soup", "Lentils", "Mushrooms", "Vegan-Option", "Vegetarian", "Quick", "Comfort Food", "One-Pot"]
 description: "Quick Chinese-inspired hot and sour soup with green lentils, mushrooms, and silky egg ribbons. Tangy, warming, and deeply satisfying."
+categories: ["Main"]
+tags: ["Chinese", "Soup", "Lentils", "Mushrooms", "Vegan Adaptable", "Vegetarian", "Quick", "Comfort Food", "One-Pot"]
+methods: ["Stove-Top"]
+themes: ["Vegetarian", "Chinese"]
+prep_time: "15 minutes"
+cook_time: "35 minutes"
+total_time: "50 minutes"
 servings: 4
 ---
 
@@ -11,16 +17,16 @@ This Chinese-inspired hot and sour soup uses tender green lentils instead of tra
 
 **Serves 4**
 
-### Ingredients
+## Ingredients
 
-#### For the Lentils
-- 3/4 cup dried green lentils
-- 3 cups water or vegetable stock
-- 1/2 teaspoon salt
+### For the Lentils
+- 180ml (¾ cup) dried green lentils
+- 720ml (3 cups) water or vegetable stock
+- ½ teaspoon salt
 
-#### For the Soup
-- 6 cups vegetable stock
-- 8 oz white mushrooms, thinly sliced
+### For the Soup
+- 1.4L (6 cups) vegetable stock
+- 225g (8oz) white mushrooms, thinly sliced
 - 2 tablespoons soy sauce
 - 1 tablespoon dark soy sauce (optional, for color)
 - 3 tablespoons rice vinegar (or Chinese black vinegar)
@@ -29,24 +35,24 @@ This Chinese-inspired hot and sour soup uses tender green lentils instead of tra
 - 1 teaspoon sesame oil
 - 3 tablespoons cornstarch mixed with 3 tablespoons water (slurry)
 - 2 eggs, beaten
-- Optional: 6 oz firm tofu, cut into matchsticks
-- Optional: 1/2 cup bamboo shoots, julienned (traditional)
+- Optional: 168g (6oz) firm tofu, cut into matchsticks
+- Optional: 120ml (½ cup) bamboo shoots, julienned (traditional)
 
-#### Aromatics
+### Aromatics
 - 3 cloves garlic, minced
 - 1 tablespoon fresh ginger, minced
 - 4 scallions, white and light green parts chopped, dark green parts sliced for garnish (keep separate)
 
-#### To Serve
+### To Serve
 - Reserved scallion greens
 - Extra white pepper
 - Extra rice vinegar
 - Chili oil or chili flakes (optional)
 - Cilantro leaves (optional)
 
-### Instructions
+## Instructions
 
-1. **Cook the lentils**: Rinse lentils and combine with water (or stock) and 1/2 teaspoon salt in a medium saucepan. Bring to a boil, then reduce to medium-low and simmer for 20-25 minutes until tender but still hold their shape. Drain and set aside.
+1. **Cook the lentils**: Rinse lentils and combine with water (or stock) and ½ teaspoon salt in a medium saucepan. Bring to a boil, then reduce to medium-low and simmer for 20-25 minutes until tender but still hold their shape. Drain and set aside.
 
 2. **Build the broth**: While lentils cook, heat 1 tablespoon neutral oil in a large pot over medium heat. Add garlic, ginger, and scallion whites/light greens. Sauté for 1 minute until fragrant.
 
@@ -66,7 +72,7 @@ This Chinese-inspired hot and sour soup uses tender green lentils instead of tra
 
 8. **Serve**: Ladle into bowls and garnish with sliced scallion greens, a sprinkle of white pepper, and cilantro if using. Serve with extra vinegar and chili oil on the side for customization.
 
-### Notes
+## Notes
 
 - **White pepper is essential**: This is the "hot" in hot and sour soup. White pepper has a sharp, pungent heat that's different from black pepper. Find it in the spice aisle or Asian markets. If you don't have it, use black pepper, but the flavor profile won't be quite right.
 
@@ -86,11 +92,11 @@ This Chinese-inspired hot and sour soup uses tender green lentils instead of tra
 
 - **Adjust thickness**: For a thinner soup, use less cornstarch (2 tablespoons instead of 3). For thicker, more stew-like, use 4 tablespoons.
 
-### Variations
+## Variations
 
 - **Traditional additions**: Add julienned wood ear mushrooms (soaked if dried), lily buds, or bamboo shoots for authentic texture.
 
-- **With pork or chicken**: Add 4 oz thinly sliced pork or chicken in step 3, simmering until cooked through (no longer vegetarian).
+- **With pork or chicken**: Add 113g (4oz) thinly sliced pork or chicken in step 3, simmering until cooked through (no longer vegetarian).
 
 - **Spicier version**: Add 1-2 teaspoons chili oil or a few drops of Chinese chili crisp with the seasonings.
 
@@ -98,6 +104,6 @@ This Chinese-inspired hot and sour soup uses tender green lentils instead of tra
 
 - **Richer broth**: Use chicken stock instead of vegetable stock (no longer vegan).
 
-### Storage
+## Storage
 
 Store in an airtight container in the refrigerator for up to 3 days. Note that the egg ribbons will break down slightly and the soup will thicken as it sits (lentils and cornstarch continue absorbing liquid). Reheat gently on the stovetop, adding stock or water to thin as needed. Add a splash of fresh vinegar when reheating to brighten the flavors. Not recommended for freezing, as the texture of the egg ribbons and cornstarch-thickened broth don't freeze well.

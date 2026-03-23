@@ -28,13 +28,13 @@ This vibrant Turkish salad traditionally features nubby mung beans paired with r
 ## Ingredients
 
 ### For the Lentils
-- 1 cup (200g) lentils du Puy (French green lentils), rinsed and drained
-- 5 cups (1.2L) water
+- 200g (7oz) lentils du Puy (French green lentils), rinsed and drained
+- 1.2L (5 cups) water
 - 1 teaspoon (6g) kosher salt
 - 1/2 teaspoon ground black pepper
 
 ### For the Dressing
-- 1/4 cup (60ml) extra-virgin olive oil
+- 60ml (¼ cup) extra-virgin olive oil
 - 1 tablespoon (15ml) pomegranate molasses
 - 1 tablespoon (15ml) fresh lemon juice
 - 1 teaspoon Aleppo pepper (or substitute: 1 teaspoon sweet paprika plus 1/4 teaspoon cayenne)
@@ -46,9 +46,9 @@ This vibrant Turkish salad traditionally features nubby mung beans paired with r
 ### For the Salad
 - 1/2 small red onion, thinly sliced
 - 1 Fresno chili, stemmed, seeded, and thinly sliced
-- 1/2 cup (75g) drained roasted red peppers, chopped into 1/2-inch pieces
-- 1/2 cup (15g) lightly packed fresh mint, roughly chopped
-- 1/2 cup (15g) lightly packed fresh dill, roughly chopped
+- 75g (3oz) drained roasted red peppers, chopped into 1/2-inch pieces
+- 15g (1oz) lightly packed fresh mint, roughly chopped
+- 15g (1oz) lightly packed fresh dill, roughly chopped
 
 ## Instructions
 
@@ -70,7 +70,7 @@ This vibrant Turkish salad traditionally features nubby mung beans paired with r
 ## Notes
 
 - **Traditional ingredient**: This Turkish salad traditionally uses dried mung beans, which have a nubby texture. Mung beans can be hard to find in the US, so this recipe substitutes French lentils du Puy, which cook up with a similar firm texture.
-- **Using mung beans**: If you find dried mung beans and want to make the traditional version, use 1 cup mung beans and extend cooking time to about 30 minutes.
+- **Using mung beans**: If you find dried mung beans and want to make the traditional version, use 200g (1 cup) mung beans and extend cooking time to about 30 minutes.
 - **Dress while warm**: Add the dressing to hot lentils immediately after draining. Warm lentils absorb seasonings much better than cooled ones.
 - **Cool before adding herbs**: Wait until lentils are fully cooled before adding onion, chili, peppers, and herbs. This keeps these ingredients fresh and prevents wilting.
 - **Pomegranate molasses**: Find this tart, concentrated syrup in Middle Eastern markets or specialty stores. No direct substitute captures its unique flavor.
@@ -80,7 +80,7 @@ This vibrant Turkish salad traditionally features nubby mung beans paired with r
 
 ## Variations
 
-- **Grain addition**: Add 1 cup cooked bulgur or farro for a heartier dish.
+- **Grain addition**: Add 240ml (1 cup) cooked bulgur or farro for a heartier dish.
 - **Protein boost**: Top with crumbled feta cheese or dollops of Greek yogurt (no longer vegan).
 - **Heat adjustment**: Reduce or omit Fresno chili for milder heat. Add extra cayenne for more spice.
 

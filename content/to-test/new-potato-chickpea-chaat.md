@@ -1,12 +1,16 @@
 ---
 title: "New Potato + Chickpea Chaat (Aloo Chana Chaat)"
-date: 2025-04-08
+date: 2025-04-08T00:00:00-05:00
 draft: false
-tags: ["Indian", "Street Food", "Chaat", "Potatoes", "Chickpeas", "Snack", "Appetizer", "Vegetarian", "Gluten-Free"]
 description: "A popular Indian street food snack featuring crispy new potatoes, chickpeas, tangy date-tamarind chutney, yogurt, and crunchy sev."
+categories: ["Snack"]
+tags: ["Indian", "Street Food", "Chaat", "Potatoes", "Chickpeas", "Snack", "Appetizer", "Vegetarian", "Gluten-Free"]
+methods: ["Stove-Top"]
+themes: ["Vegetarian", "Indian"]
+prep_time: "15 minutes"
+cook_time: "25 minutes"
+total_time: "40 minutes"
 servings: 4
-notes: "Tamarind paste strength varies; adjust to taste. Uses sev (chickpea noodles)."
-# dietary: ["GF"] # Contains yogurt, so not DF/VE
 ---
 The flavors in this incredibly popular Indian street-side snack will dance in your mouth. Buttery potatoes wrap around the chickpeas in an open embrace. They're followed by a flourish of shallots, a smouldering slick of date and tamarind chutney, and the crunch of sev. Beats a bag of potato chips any day. Although tamarind and sev (chickpea noodles) might seem hard to find, they are nearly always available in the Asian section of big supermarkets. Look for thin or "nylon" sev—but if you can't find any, a little Bombay mix works a treat.
 
@@ -14,12 +18,12 @@ The flavors in this incredibly popular Indian street-side snack will dance in yo
 
 **Serves 4**
 
-### Ingredients
-- ½ cup dates, pitted
+## Ingredients
+- 120ml (½ cup) dates, pitted
 - 3 teaspoons tamarind paste
 - salt
 - 2 tablespoons plain Greek yogurt
-- 1½ pounds baby potatoes
+- 680g (1½ lbs) baby potatoes
 - 2 tablespoons unsalted butter
 - 1 teaspoon cumin seeds, roughly ground
 - ⅓ teaspoon ground black pepper
@@ -28,11 +32,11 @@ The flavors in this incredibly popular Indian street-side snack will dance in yo
 - 1 x 14-ounce can of chickpeas, drained
 - 1 banana shallot or other large shallot, finely diced
 - juice of 1 lemon
-- ⅔ cup cilantro, finely chopped
+- 160ml (⅔ cup) cilantro, finely chopped
 - a handful of thin sev (chickpea noodles)
 
-### Instructions
-1. Prepare the date and tamarind chutney first. Blend the dates together with the tamarind paste, a pinch of salt, and ½ cup of water, then leave to one side.
+## Instructions
+1. Prepare the date and tamarind chutney first. Blend the dates together with the tamarind paste, a pinch of salt, and 120ml (½ cup) of water, then leave to one side.
 
 2. Mix the yogurt with a couple of tablespoons of water until you can drizzle it using a spoon, then leave to one side.
 

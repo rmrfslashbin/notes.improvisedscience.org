@@ -1,11 +1,16 @@
 ---
 title: "Eggplant and Pea Curry (Baingan Matar Masala)"
-date: 2025-04-08
+date: 2025-04-08T00:00:00-05:00
 draft: false
-tags: ["Indian", "Curry", "Main Course", "Vegetarian", "Vegan", "Gluten-Free", "Dairy-Free", "Eggplant", "Peas"]
 description: "A comforting and classic Indian curry featuring tender eggplant and sweet peas in a spiced tomato-onion gravy."
+categories: ["Main"]
+tags: ["Indian", "Curry", "Vegetarian", "Vegan", "Gluten-Free", "Dairy-Free", "Eggplant", "Peas", "Main Course"]
+methods: ["Stove-Top"]
+themes: ["Vegan", "Indian"]
+prep_time: "15 minutes"
+cook_time: "30 minutes"
+total_time: "45 minutes"
 servings: 4
-# dietary: ["GF", "DF", "VE"]
 ---
 When I got back from my honeymoon, I spoke to my grandma.  
 "Are you happily married?" she asked.  
@@ -16,7 +21,7 @@ When I got back from my honeymoon, I spoke to my grandma.
 
 **Serves 4 as a main course**
 
-### Ingredients
+## Ingredients
 - 5 tablespoons canola oil
 - 1 teaspoon cumin seeds
 - 2 large onions, finely chopped
@@ -27,10 +32,10 @@ When I got back from my honeymoon, I spoke to my grandma.
 - 1¼ teaspoons ground red chile
 - ½ teaspoon ground turmeric
 - 1 teaspoon sugar
-- 4 medium eggplants (2¼ pounds), chopped into 1½-inch cubes
-- ½ cup peas (fresh or defrosted)
+- 4 medium eggplants (1.02kg / 2¼ lbs), chopped into 1½-inch cubes
+- 120ml (½ cup) peas (fresh or defrosted)
 
-### Instructions
+## Instructions
 1. Put the oil into a wide-bottomed lidded pan over medium heat. Once hot, add the cumin seeds, stir for 30 seconds, then add the onions.
 
 2. Cook for around 10 minutes, until the onions are soft and translucent but not brown, then add the garlic and stir-fry for a couple of minutes. Add the chopped tomatoes and tomato paste, and cover with a lid. Leave to cook for 5 minutes, then add the salt, ground red chile, turmeric, and sugar.

@@ -1,9 +1,15 @@
 ---
 title: "Korean Doenjang Jjigae with White Beans"
-date: 2026-01-17
+date: 2026-01-17T00:00:00-05:00
 draft: false
-tags: ["Korean", "Soup", "Stew", "White Beans", "Mushrooms", "Vegan", "Vegetarian", "Main Course", "One-Pot", "Comfort Food"]
 description: "Hearty Korean fermented soybean paste stew with white kidney beans, mushrooms, and vegetables. Deeply savory, warming, and umami-rich."
+categories: ["Main"]
+tags: ["Korean", "Soup", "Stew", "White Beans", "Mushrooms", "Vegan", "Vegetarian", "Main Course", "One-Pot", "Comfort Food"]
+methods: ["Stove-Top"]
+themes: ["Vegan", "Korean"]
+prep_time: "15 minutes"
+cook_time: "25 minutes"
+total_time: "40 minutes"
 servings: 4
 ---
 
@@ -11,42 +17,42 @@ This Korean doenjang jjigae (된장찌개) is a hearty, soul-warming stew built 
 
 **Serves 4 as a main course**
 
-### Ingredients
+## Ingredients
 
-#### Stew Base
-- 5 cups vegetable stock
+### Stew Base
+- 1.2L (5 cups) vegetable stock
 - 3 tablespoons doenjang (Korean fermented soybean paste)
 - 1 tablespoon gochugaru (Korean chili flakes) OR 1 tablespoon Aleppo pepper or Thai red chili flakes
 - 1 tablespoon soy sauce
 - 1 teaspoon sugar (optional, to balance)
 - 1 teaspoon sesame oil
 
-#### Aromatics
+### Aromatics
 - 6 cloves garlic, minced
 - 1 tablespoon fresh ginger, minced
 - 4 scallions, white and light green parts chopped, dark green parts sliced for garnish (keep separate)
 - 1 small onion, sliced
 
-#### Vegetables and Protein
-- 2 cans (800g total) white kidney beans, drained and rinsed
-- 8 oz white mushrooms, quartered or thickly sliced
+### Vegetables and Protein
+- 2 cans (800g / 28oz total) white kidney beans, drained and rinsed
+- 225g (8oz) white mushrooms, quartered or thickly sliced
 - 2 medium carrots, sliced into coins
 - 2-3 stalks bok choy, stems chopped, leaves separated
-- Optional: 1/2 cup kimchi, roughly chopped (adds extra funk and spice)
-- Optional: 8 oz firm tofu, cubed (for traditional texture alongside beans)
+- Optional: 120ml (½ cup) kimchi, roughly chopped (adds extra funk and spice)
+- Optional: 225g (8oz) firm tofu, cubed (for traditional texture alongside beans)
 
-#### To Serve
+### To Serve
 - Steamed white or brown rice
 - Kimchi (if not added to stew)
 - Reserved scallion greens
 - Extra sesame oil for drizzling
 - Extra gochugaru or chili flakes
 
-### Instructions
+## Instructions
 
 1. **Bloom the aromatics**: Heat 1 tablespoon neutral oil (or sesame oil) in a large pot or Dutch oven over medium heat. Add garlic, ginger, scallion whites/light greens, and sliced onion. Sauté for 2-3 minutes until fragrant and softened.
 
-2. **Build the broth**: Add vegetable stock to the pot. In a small bowl, mix doenjang with about 1/2 cup of the hot stock to dissolve it (this prevents lumps). Pour the dissolved doenjang back into the pot along with gochugaru (or substitute), soy sauce, sugar if using, and sesame oil. Stir well and bring to a boil.
+2. **Build the broth**: Add vegetable stock to the pot. In a small bowl, mix doenjang with about 120ml (½ cup) of the hot stock to dissolve it (this prevents lumps). Pour the dissolved doenjang back into the pot along with gochugaru (or substitute), soy sauce, sugar if using, and sesame oil. Stir well and bring to a boil.
 
 3. **Add sturdy ingredients**: Once boiling, reduce heat to medium and add white kidney beans, mushrooms, and carrots. Simmer for 10 minutes until carrots are tender and mushrooms have released their liquid. The flavors should begin to meld.
 
@@ -60,7 +66,7 @@ This Korean doenjang jjigae (된장찌개) is a hearty, soul-warming stew built 
 
 6. **Serve**: Ladle into bowls over steamed rice. Garnish with sliced scallion greens, a drizzle of sesame oil, and a sprinkle of gochugaru. Serve with kimchi on the side.
 
-### Notes
+## Notes
 
 - **Doenjang is key**: This fermented soybean paste is the soul of jjigae. It's deeply savory, funky, and complex—similar to miso but earthier and more robust. Find it at Korean or Asian grocery stores. Brands like Chung Jung One or Sempio are widely available.
 
@@ -78,9 +84,9 @@ This Korean doenjang jjigae (된장찌개) is a hearty, soul-warming stew built 
 
 - **Make it richer**: Add a beaten egg in the last minute for egg ribbons, or crack a whole egg on top and let it poach in the hot stew.
 
-### Variations
+## Variations
 
-- **Traditional with tofu**: Replace or reduce beans and add 12-16 oz cubed firm or soft tofu.
+- **Traditional with tofu**: Replace or reduce beans and add 340-450g (12-16oz) cubed firm or soft tofu.
 
 - **With zucchini**: Add 1 sliced zucchini with the carrots—very traditional in jjigae.
 
@@ -90,6 +96,6 @@ This Korean doenjang jjigae (된장찌개) is a hearty, soul-warming stew built 
 
 - **Potato addition**: Add 1-2 cubed potatoes with the carrots for extra heartiness.
 
-### Storage
+## Storage
 
 Store in an airtight container in the refrigerator for up to 5 days. The flavors deepen significantly overnight—leftovers are often better than the first serving. Reheat gently on the stovetop, adding stock or water to adjust consistency. The beans will continue absorbing liquid. Freezes well for up to 3 months. Thaw overnight in refrigerator before reheating.

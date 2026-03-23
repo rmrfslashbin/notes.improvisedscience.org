@@ -1,9 +1,15 @@
 ---
 title: "Sichuan Mapo Lentils"
-date: 2026-01-17
+date: 2026-01-17T00:00:00-05:00
 draft: false
-tags: ["Chinese", "Sichuan", "Lentils", "Spicy", "Vegan", "Vegetarian", "Main Course", "Numbing", "Dairy-Free"]
 description: "Vegan take on classic mapo tofu using green lentils with doubanjiang, Sichuan peppercorns, and chili oil. Intensely numbing and spicy."
+categories: ["Main"]
+tags: ["Chinese", "Sichuan", "Lentils", "Spicy", "Vegan", "Vegetarian", "Main Course", "Numbing", "Dairy-Free"]
+methods: ["Stove-Top"]
+themes: ["Vegan", "Chinese"]
+prep_time: "15 minutes"
+cook_time: "40 minutes"
+total_time: "55 minutes"
 servings: 4
 ---
 
@@ -11,39 +17,39 @@ This vegan interpretation of the Sichuan classic mapo tofu uses tender green len
 
 **Serves 4 as a main course**
 
-### Ingredients
+## Ingredients
 
-#### For the Lentils
-- 1 cup (200g) dried green lentils (French lentils du Puy work well)
-- 3 cups water or vegetable stock
-- 1/2 teaspoon kosher salt
+### For the Lentils
+- 200g (7oz) dried green lentils (French lentils du Puy work well)
+- 720ml (3 cups) water or vegetable stock
+- ½ teaspoon kosher salt
 
-#### For the Sichuan Peppercorn Mixture
+### For the Sichuan Peppercorn Mixture
 - 2 tablespoons whole Sichuan peppercorns
 - 3 tablespoons neutral oil
 
-#### For the Aromatics and Sauce
+### For the Aromatics and Sauce
 - 3 tablespoons neutral oil
 - 3 tablespoons doubanjiang (fermented broad bean chili paste)
 - 2 tablespoons chili oil (with sediment) OR 1 tablespoon neutral oil + 1 tablespoon chili flakes
 - 4 cloves garlic, minced
 - 2 tablespoons fresh ginger, minced
 - 4 scallions, white and light green parts minced, dark green parts sliced for garnish (keep separate)
-- 1 cup vegetable stock
+- 240ml (1 cup) vegetable stock
 - 2 tablespoons soy sauce
 - 1 tablespoon Chinese black vinegar or rice vinegar
 - 1 teaspoon sugar
 - 1 tablespoon cornstarch mixed with 2 tablespoons water (slurry)
 
-#### To Serve
+### To Serve
 - Steamed white rice or brown rice
 - Reserved scallion greens
 - Cilantro leaves (optional)
 - Extra chili oil
 
-### Instructions
+## Instructions
 
-1. **Cook the lentils**: Rinse lentils and combine with water (or stock) and 1/2 teaspoon salt in a medium saucepan. Bring to a boil, then reduce to medium-low and simmer for 20-25 minutes until tender but still hold their shape. Drain and set aside.
+1. **Cook the lentils**: Rinse lentils and combine with water (or stock) and ½ teaspoon salt in a medium saucepan. Bring to a boil, then reduce to medium-low and simmer for 20-25 minutes until tender but still hold their shape. Drain and set aside.
 
 2. **Toast Sichuan peppercorns**: While lentils cook, toast peppercorns in a dry skillet over medium heat, shaking frequently, until fragrant and lightly smoking, 2-3 minutes. Transfer to a plate to cool.
 
@@ -65,7 +71,7 @@ This vegan interpretation of the Sichuan classic mapo tofu uses tender green len
 
 11. **Serve**: Transfer to a serving dish. Drizzle with more peppercorn oil, sprinkle with remaining peppercorn powder, garnish with scallion greens and cilantro. Serve over steamed rice with extra chili oil.
 
-### Notes
+## Notes
 
 - **Má là explained**: Sichuan cuisine is famous for má là—"numbing-spicy." The má (numbing) comes from Sichuan peppercorns, the là (spicy) from chili peppers. Both work together for the signature flavor.
 
@@ -81,8 +87,8 @@ This vegan interpretation of the Sichuan classic mapo tofu uses tender green len
 
 - **Black vinegar**: Chinese black vinegar (Chinkiang) adds mellow, slightly sweet acidity. Substitute: rice vinegar + tiny splash of balsamic.
 
-- **With tofu**: Add 8 oz cubed silken tofu in the last 2 minutes for traditional mapo texture alongside lentils.
+- **With tofu**: Add 225g (8oz) cubed silken tofu in the last 2 minutes for traditional mapo texture alongside lentils.
 
-### Storage
+## Storage
 
 Store in refrigerator for up to 4 days. Flavors deepen after a day. Reheat gently, adding stock if needed. Numbing sensation fades over time—add fresh ground peppercorns when serving leftovers. Freezes well for up to 2 months.

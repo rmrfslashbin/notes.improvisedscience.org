@@ -34,15 +34,15 @@ Adapted from Milk Street, inspired by Indonesian street food.
 ## Ingredients
 
 ### For the Tofu
-- 14 to 16 ounces (400-450g) firm or extra-firm tofu, drained
-- 1/4 cup (30g) cornstarch
+- 400-450g (14-16oz) firm or extra-firm tofu, drained
+- 30g (1oz / ¼ cup) cornstarch
 - 1/2 teaspoon ground turmeric
 - Kosher salt and ground black pepper
-- 1/3 cup (80ml) neutral oil (vegetable or canola)
+- 80ml (⅓ cup) neutral oil (vegetable or canola)
 
 ### For the Red Chili Paste
-- 1/4 cup (60ml) coconut milk
-- 1/4 cup (50g) packed light brown sugar
+- 60ml (¼ cup) coconut milk
+- 50g (2oz / ¼ cup) packed light brown sugar
 - 3 medium garlic cloves, smashed and peeled
 - 2 stalks lemongrass, trimmed to bottom 6 inches, dry outer leaves discarded, chopped
 - 3 Fresno chilies, stemmed, seeded, and roughly chopped
@@ -52,7 +52,7 @@ Adapted from Milk Street, inspired by Indonesian street food.
 - 1/4 teaspoon ground black pepper
 
 ### For the Stir-Fry
-- 1/2 cup (70g) roasted peanuts
+- 70g (2.5oz / ½ cup) roasted peanuts
 - 1 medium shallot, sliced into thin rings
 - 2 Fresno chilies, sliced into thin rings
 - 2 tablespoons (30ml) fresh lime juice, plus lime wedges for serving
@@ -94,7 +94,7 @@ Adapted from Milk Street, inspired by Indonesian street food.
 
 - **Traditional tempeh version**: Substitute 8 ounces tempeh for the tofu. Cut into 1/2-inch cubes and skip the pressing step. Fry as directed.
 - **Cashew substitute**: Use roasted cashews instead of peanuts for a milder, creamier result.
-- **Vegetable additions**: Add 1 cup green beans or snap peas with the peanuts for extra vegetables.
+- **Vegetable additions**: Add 240ml (1 cup) green beans or snap peas with the peanuts for extra vegetables.
 - **Serve over rice**: This pairs beautifully with steamed jasmine rice or coconut rice.
 
 ## Storage

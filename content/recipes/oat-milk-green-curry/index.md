@@ -35,12 +35,12 @@ This green curry takes a creative approach by using oat milk instead of coconut 
 - 2 to 3 cloves garlic, minced
 - 1 tablespoon (15g) fresh ginger, minced
 - 2 tablespoons (32g) natural peanut butter
-- 1.5 cups (360ml) oat milk
-- 1/2 cup (120ml) vegetable stock
+- 360ml (1½ cups) oat milk
+- 120ml (½ cup) vegetable stock
 
 ### For the Vegetables
 - 1 can (400g/14oz) chickpeas, drained and rinsed
-- 8 oz (225g) white mushrooms, quartered
+- 225g (8oz) white mushrooms, quartered
 - 2 medium carrots, sliced into coins or matchsticks
 - 2 to 3 stalks bok choy, stems chopped, leaves separated
 
@@ -100,7 +100,7 @@ This green curry takes a creative approach by using oat milk instead of coconut 
 
 - **Don't overcook the oat milk**: Keep heat at a gentle simmer. Aggressive boiling can cause oat milk to separate or become grainy.
 
-- **Consistency adjustment**: The recipe uses 2 cups total liquid for a thick, coating curry. For a thinner, brothier curry, add more stock 1/4 cup at a time. Remember that mushrooms release additional liquid as they cook.
+- **Consistency adjustment**: The recipe uses 2 cups total liquid for a thick, coating curry. For a thinner, brothier curry, add more stock 60ml (¼ cup) at a time. Remember that mushrooms release additional liquid as they cook.
 
 - **Curry paste strength**: Green curry paste varies wildly between brands. Start with 3 tablespoons and add more to taste. Thai brands like Maesri or Mae Ploy tend to be more potent than Western supermarket versions.
 

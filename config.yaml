@@ -32,6 +32,9 @@ taxonomies:
   method: methods
   theme: themes
 params:
+  author:
+    name: ""
+    email: ""
   description: "Recipes!"
   ShowToc: true
   fuseOpts:

@@ -1,11 +1,16 @@
 ---
 title: "Akoori"
-date: 2025-04-08
+date: 2025-04-08T00:00:00-05:00
 draft: false
-tags: ["Parsi", "Indian", "Eggs", "Breakfast", "Scrambled Eggs", "Vegetarian", "Gluten-Free"]
 description: "Akoori is the Parsi way of doing scrambled eggs. This dish has been a Sunday-morning family favorite for years."
+categories: ["Breakfast"]
+tags: ["Parsi", "Indian", "Eggs", "Scrambled Eggs", "Breakfast", "Vegetarian", "Gluten-Free"]
+methods: ["Stove-Top"]
+themes: ["Vegetarian", "Indian"]
+prep_time: "10 minutes"
+cook_time: "20 minutes"
+total_time: "30 minutes"
 servings: 4
-# dietary: ["GF"] # Optional: Can represent dietary info this way or just via tags
 ---
 
 Everyone has their own way of doing scrambled eggs. Akoori is the Parsi way. The Parsis are Iranians who, fleeing persecution, arrived in India in AD 936. Their mantra is "good thoughts, good words, and good deeds," but they might as well tag on "good eggs" because they know a thing or two about them.
@@ -14,7 +19,7 @@ This dish has been a Sunday-morning family favorite for years. It's especially l
 
 **Serves 4 for breakfast**
 
-### Ingredients
+## Ingredients
 - 1 teaspoon cumin seeds
 - 8 eggs
 - 2 tablespoons unsalted butter
@@ -25,7 +30,7 @@ This dish has been a Sunday-morning family favorite for years. It's especially l
 - ½ teaspoon ground black pepper
 - 2 tablespoons cilantro, finely chopped
 
-### Instructions
+## Instructions
 1. Coarsely crush the cumin seeds in a mortar and pestle and leave to one side. Crack the eggs into a bowl and lightly beat with a fork, then leave to one side too.
 
 2. Next, put the butter into a frying pan over medium heat. When melted, add the crushed cumin and the red onions and fry for 12 to 15 minutes, until the onions are soft, golden, and caramelized. Then add the tomatoes, green chiles, salt, and black pepper.

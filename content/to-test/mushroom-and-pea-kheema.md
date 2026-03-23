@@ -1,12 +1,16 @@
 ---
 title: "Mushroom and Pea Kheema (Masaruma Matar ka Keema)"
-date: 2025-04-08
+date: 2025-04-08T00:00:00-05:00
 draft: false
-tags: ["Indian", "Kheema", "Mushrooms", "Peas", "Main Course", "Vegetarian"]
 description: "A vegetarian take on kheema using finely chopped mushrooms and peas, served uniquely in hollowed-out brioche buns."
+categories: ["Main"]
+tags: ["Indian", "Kheema", "Mushrooms", "Peas", "Main Course", "Vegetarian"]
+methods: ["Stove-Top", "Baked"]
+themes: ["Vegetarian", "Indian"]
+prep_time: "15 minutes"
+cook_time: "40 minutes"
+total_time: "55 minutes"
 servings: 4
-notes: "Requires a food processor for chopping mushrooms."
-# dietary: [] # Contains butter and brioche, so not GF/DF/VE by default
 ---
 
 My father lives just on the edge of what we consider to be normal. He prefers confectioners' sugar in his tea, has the buttons of his back pockets removed (for fear of damaging his car upholstery), and keeps a logbook of when he waters the plants. One time, he accidentally spread mushroom compost over the lawn and we ate mushrooms in every conceivable way for months. If you find yourself in a similar situation, this is a satisfying and delicious way to make use of them.
@@ -15,8 +19,8 @@ My father lives just on the edge of what we consider to be normal. He prefers co
 
 **Serves 4 as a main course**
 
-### Ingredients
-- 2¼ pounds cremini mushrooms
+## Ingredients
+- 1.02kg (2¼ lbs) cremini mushrooms
 - 2 tablespoons unsalted butter
 - 1 tablespoon oil
 - 1 teaspoon cumin seeds, crushed
@@ -29,11 +33,11 @@ My father lives just on the edge of what we consider to be normal. He prefers co
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 - ⅓ teaspoon ground turmeric
-- 1 generous cup peas (fresh or defrosted)
+- 240ml (1 generous cup) peas (fresh or defrosted)
 - 8 brioche buns
 - a handful of chopped cilantro leaves
 
-### Instructions
+## Instructions
 1. Preheat the oven to 350°F.
 
 2. Dust any soil from your mushrooms using paper towels, and break up any very large ones using your hands, then pulse in batches in the food processor until the mushrooms are chopped to lentil-size.
