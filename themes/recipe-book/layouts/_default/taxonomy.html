@@ -1,0 +1,46 @@
+{{- define "main" }}
+
+{{- /* Single taxonomy term page, e.g. /tags/vegan/ */}}
+{{- $paginator := .Paginate .Pages }}
+
+<div class="page-banner page-banner--taxonomy">
+  <div class="container">
+    <div class="page-banner__eyebrow">
+      <span class="page-banner__eyebrow-dot"></span>
+      {{ .Data.Singular | humanize | title }}
+    </div>
+    <h1 class="page-banner__title">{{ .Title }}</h1>
+    <p class="page-banner__meta">
+      {{ len .Pages }} recipe{{ if ne (len .Pages) 1 }}s{{ end }}
+      {{- if gt $paginator.TotalPages 1 }} · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}{{ end }}
+    </p>
+  </div>
+</div>
+
+<div class="list-content">
+  <div class="container">
+
+    {{- if $paginator.Pages }}
+    <div class="recipe-grid">
+      {{- range $paginator.Pages }}
+      {{- partial "recipe-card.html" . }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Page navigation">
+      {{- if $paginator.HasPrev }}
+      <a class="pagination__link" href="{{ $paginator.Prev.URL }}">← Newer</a>
+      {{- end }}
+      <span class="pagination__info">{{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+      {{- if $paginator.HasNext }}
+      <a class="pagination__link" href="{{ $paginator.Next.URL }}">Older →</a>
+      {{- end }}
+    </nav>
+    {{- end }}
+
+  </div>
+</div>
+
+{{- end }}

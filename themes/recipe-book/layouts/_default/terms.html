@@ -1,0 +1,31 @@
+{{- define "main" }}
+
+{{- /* Taxonomy terms index page e.g. /tags/, /methods/ */}}
+
+<div class="page-banner page-banner--taxonomy">
+  <div class="container">
+    <div class="page-banner__eyebrow">
+      <span class="page-banner__eyebrow-dot"></span>
+      Browse by
+    </div>
+    <h1 class="page-banner__title">{{ .Title }}</h1>
+    {{- if .Description }}
+    <p class="page-banner__desc">{{ .Description }}</p>
+    {{- end }}
+    <p class="page-banner__meta">{{ len .Data.Terms }} {{ .Data.Plural }}</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="terms-grid">
+    {{- $terms := .Data.Terms.Alphabetical }}
+    {{- range $terms }}
+    <a href="{{ .Page.Permalink }}" class="term-pill">
+      {{ .Page.Title }}
+      <span class="term-pill__count">{{ .Count }}</span>
+    </a>
+    {{- end }}
+  </div>
+</div>
+
+{{- end }}

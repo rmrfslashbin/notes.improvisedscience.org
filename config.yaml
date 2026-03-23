@@ -1,8 +1,9 @@
 baseURL: https://notes.improvisedscience.org/
 languageCode: en-us
 title: notes.improvisedscience.org.
-theme: papermod
+theme: recipe-book
 env: production
+
 outputs:
   home:
     - HTML
@@ -26,47 +27,62 @@ outputs:
   taxonomies:
     - HTML
     - Taxonomies
+
 taxonomies:
   category: categories
   tag: tags
   method: methods
   theme: themes
+
 params:
   author:
     name: ""
     email: ""
-  description: "Recipes!"
-  ShowToc: true
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+  description: "A personal collection of recipes worth keeping."
+
+  # Cookbook sections — used by the theme to describe each section
+  # New sections added here will automatically get their own cookbook card on the homepage.
+  cookbooks:
+    - section: recipes
+      label: "My Recipes"
+      description: "Recipes I've made and enjoyed. Some are original creations, some are family favorites, and others are modifications from sources I've cited."
+      color: terracotta
+    - section: to-test
+      label: "To Try"
+      description: "A queue of recipes I want to cook. Aspirational, untested, interesting."
+      color: sage
+
 menu:
   main:
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: recipes
+      name: My Recipes
+      url: /recipes/
       weight: 10
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: to-test
+      name: To Try
+      url: /to-test/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: categories
+      name: Categories
+      url: /categories/
       weight: 30
-    - identifier: methods
-      name: methods
-      url: /methods/
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 40
-    - identifier: themes
-      name: themes
-      url: /themes/
+    - identifier: methods
+      name: Methods
+      url: /methods/
       weight: 50
+    - identifier: themes
+      name: Themes
+      url: /themes/
+      weight: 60
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 70
+
 outputFormats:
   JSON:
     mediaType: application/json
@@ -78,5 +94,5 @@ outputFormats:
     isPlainText: true
     notAlternative: true
 
-
-  
+pagination:
+  pagerSize: 18

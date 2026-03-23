@@ -1,0 +1,12 @@
+{{- define "main" }}
+
+<div class="not-found">
+  <div class="container">
+    <div class="not-found__number">404</div>
+    <h1 class="not-found__title">Recipe not found</h1>
+    <p class="not-found__body">This page doesn't exist — maybe it moved, or the URL is off.</p>
+    <a href="{{ .Site.BaseURL }}" class="btn">← Back to the cookbook</a>
+  </div>
+</div>
+
+{{- end }}
