@@ -1,0 +1,128 @@
+{{- define "main" }}
+
+{{- $section := .Section }}
+{{- $sectionLabel := $section | humanize | title }}
+{{- if eq $section "to-test" }}{{ $sectionLabel = "To Try" }}{{ end }}
+{{- if eq $section "recipes" }}{{ $sectionLabel = "My Recipes" }}{{ end }}
+
+<article class="recipe-page" data-section="{{ $section }}">
+
+  <div class="container container--narrow">
+    {{- partial "breadcrumbs.html" . }}
+  </div>
+
+  {{- /* ── RECIPE HEADER ─────────────────────────────── */}}
+  <header class="recipe-header">
+    <div class="container container--narrow">
+
+      {{- /* Section badge */}}
+      <div class="recipe-header__section fade-up fade-up-1">
+        <span class="recipe-header__section-dot"></span>
+        {{ $sectionLabel }}
+      </div>
+
+      {{- /* Title */}}
+      <h1 class="recipe-header__title fade-up fade-up-2">
+        {{ .Title }}
+        {{- if .Draft }}<sup class="recipe-header__draft"><span class="draft-badge">Draft</span></sup>{{- end }}
+      </h1>
+
+      {{- /* Description */}}
+      {{- if .Description }}
+      <p class="recipe-header__description fade-up fade-up-3">{{ .Description }}</p>
+      {{- end }}
+
+      {{- /* Meta bar: servings, methods, themes, categories */}}
+      <div class="recipe-meta-bar fade-up fade-up-4">
+        {{- if .Params.servings }}
+        <span class="meta-chip meta-chip--serves">
+          <span class="meta-chip__label">Serves</span>&nbsp;{{ .Params.servings }}
+        </span>
+        <span class="meta-chip meta-chip--divider" aria-hidden="true">·</span>
+        {{- end }}
+
+        {{- range ($.GetTerms "methods") }}
+        <a href="{{ .Permalink }}" class="meta-chip">{{ .LinkTitle }}</a>
+        {{- end }}
+
+        {{- range ($.GetTerms "themes") }}
+        <a href="{{ .Permalink }}" class="meta-chip">{{ .LinkTitle }}</a>
+        {{- end }}
+
+        {{- range ($.GetTerms "categories") }}
+        <a href="{{ .Permalink }}" class="meta-chip">{{ .LinkTitle }}</a>
+        {{- end }}
+      </div>
+
+    </div>
+  </header>
+
+  {{- /* ── RECIPE BODY ──────────────────────────────── */}}
+  <div class="recipe-body fade-up fade-up-5">
+    <div class="container container--narrow">
+
+      {{- /* Main content */}}
+      {{- if .Content }}
+      <div class="recipe-content">
+        {{ .Content }}
+      </div>
+      {{- end }}
+
+      {{- /* Taxonomy footer */}}
+      {{- $hasTaxonomy := or .Params.tags .Params.categories .Params.methods .Params.themes }}
+      {{- if $hasTaxonomy }}
+      <div class="recipe-taxonomy">
+
+        {{- if .Params.tags }}
+        <div class="recipe-taxonomy__group">
+          <span class="recipe-taxonomy__label">Tags</span>
+          <div class="recipe-taxonomy__pills">
+            {{- range ($.GetTerms "tags") }}
+            <a href="{{ .Permalink }}" class="tag-pill">{{ .LinkTitle }}</a>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+
+        {{- if .Params.categories }}
+        <div class="recipe-taxonomy__group">
+          <span class="recipe-taxonomy__label">Category</span>
+          <div class="recipe-taxonomy__pills">
+            {{- range ($.GetTerms "categories") }}
+            <a href="{{ .Permalink }}" class="tag-pill">{{ .LinkTitle }}</a>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+
+        {{- if .Params.methods }}
+        <div class="recipe-taxonomy__group">
+          <span class="recipe-taxonomy__label">Method</span>
+          <div class="recipe-taxonomy__pills">
+            {{- range ($.GetTerms "methods") }}
+            <a href="{{ .Permalink }}" class="tag-pill">{{ .LinkTitle }}</a>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+
+        {{- if .Params.themes }}
+        <div class="recipe-taxonomy__group">
+          <span class="recipe-taxonomy__label">Themes</span>
+          <div class="recipe-taxonomy__pills">
+            {{- range ($.GetTerms "themes") }}
+            <a href="{{ .Permalink }}" class="tag-pill">{{ .LinkTitle }}</a>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+
+      </div>
+      {{- end }}
+
+    </div>
+  </div>
+
+</article>
+
+{{- end }}

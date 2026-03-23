@@ -1,8 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-# url: "/archive"
-# description: "Description for Search"
-summary: "search"
-placeholder: "placeholder text in search input box"
+title: "Search"
+layout: "search"
+description: "Search across all recipes by ingredient, technique, cuisine, or any keyword."
+placeholder: "Search recipes… try \"lentil\", \"mushroom\", \"vegan\""
 ---
