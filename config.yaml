@@ -59,14 +59,26 @@ menu:
       name: To Try
       url: /to-test/
       weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 40
+    - identifier: methods
+      name: Methods
+      url: /methods/
+      weight: 50
+    - identifier: themes
+      name: Themes
+      url: /themes/
+      weight: 60
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 70
 
 outputFormats:
   JSON:

@@ -18,7 +18,7 @@
 
 <div class="container">
   <div class="terms-grid">
-    {{- $terms := .Data.Terms.ByCount }}
+    {{- $terms := .Data.Terms.Alphabetical }}
     {{- range $terms }}
     <a href="{{ .Page.Permalink }}" class="term-pill">
       {{ .Page.Title }}
