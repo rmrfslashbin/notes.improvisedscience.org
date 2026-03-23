@@ -1,0 +1,82 @@
+{{- define "main" }}
+
+{{- /* ── HERO ──────────────────────────────────────────── */}}
+<section class="home-hero">
+  <div class="container">
+    <span class="home-hero__eyebrow fade-up fade-up-1">Notes on Cooking</span>
+    <h1 class="home-hero__title fade-up fade-up-2">A Kitchen<br>Notebook</h1>
+    <p class="home-hero__intro fade-up fade-up-3">
+      {{ with .Site.Params.description }}{{ . }}{{ end }}
+    </p>
+  </div>
+</section>
+
+{{- /* ── COOKBOOKS ──────────────────────────────────────── */}}
+{{- /* Use explicit cookbooks param to avoid internal Hugo sections (taxonomies, etc.) */}}
+<section class="cookbooks-section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-header__title">The Cookbooks</span>
+    </div>
+    <div class="cookbooks-grid">
+      {{- range .Site.Params.cookbooks }}
+      {{- $cb := . }}
+      {{- $sectionPage := $.Site.GetPage "section" $cb.section }}
+      {{- if $sectionPage }}
+      <a href="{{ $sectionPage.Permalink }}" class="cookbook-card" data-section="{{ $cb.section }}">
+        <span class="cookbook-card__label">
+          <span class="cookbook-card__dot"></span>
+          {{ $cb.section | upper }}
+        </span>
+        <h2 class="cookbook-card__title">{{ $cb.label | default ($cb.section | humanize | title) }}</h2>
+        <p class="cookbook-card__desc">{{ $cb.description | default "A collection of recipes." }}</p>
+        <span class="cookbook-card__count">
+          <span>{{ len $sectionPage.RegularPages }} recipe{{ if ne (len $sectionPage.RegularPages) 1 }}s{{ end }}</span>
+          <span class="cookbook-card__arrow">→</span>
+        </span>
+      </a>
+      {{- end }}
+      {{- end }}
+
+      {{- /* Placeholder card for future cookbooks */}}
+      <div class="cookbook-card cookbook-card--placeholder" style="opacity:0.45; pointer-events:none; border-style:dashed;">
+        <span class="cookbook-card__label" style="color:var(--text-faint);background:transparent;">
+          <span class="cookbook-card__dot" style="background:var(--border-strong);"></span>
+          COMING SOON
+        </span>
+        <h2 class="cookbook-card__title" style="color:var(--text-muted);">Another Cookbook</h2>
+        <p class="cookbook-card__desc">More cookbooks can be added by creating a new content section and adding it to the config.</p>
+        <span class="cookbook-card__count">
+          <span>—</span>
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{- /* ── RECENT RECIPES ────────────────────────────────── */}}
+<section class="recent-section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-header__title">Recently Added</span>
+    </div>
+    <div class="recipe-grid">
+      {{- range first 9 .Site.RegularPages }}
+      {{- partial "recipe-card.html" . }}
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+{{- /* ── ABOUT THIS SITE ────────────────────────────────── */}}
+{{- if .Content }}
+<section class="about-section" style="border-top:1px solid var(--border); padding:var(--s-8) 0;">
+  <div class="container" style="max-width:var(--max-w-prose);">
+    <div class="recipe-content" style="font-size:var(--text-base);">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{- end }}
+
+{{- end }}

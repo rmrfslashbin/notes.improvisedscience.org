@@ -1,0 +1,73 @@
+{{- define "main" }}
+
+{{- $section := .Section }}
+{{- $bannerClass := "" }}
+{{- if $section }}{{ $bannerClass = printf " page-banner--section" }}{{ else }}{{ $bannerClass = " page-banner--taxonomy" }}{{ end }}
+
+{{- /* ── PAGE BANNER ───────────────────────────────────── */}}
+<div class="page-banner{{ $bannerClass }}"{{ if $section }} data-section="{{ $section }}"{{ end }}>
+  <div class="container">
+    {{- /* Eyebrow */}}
+    <div class="page-banner__eyebrow">
+      {{- if $section }}
+      <span class="page-banner__eyebrow-dot"></span>
+      {{- if eq $section "to-test" }}To Try{{- else if eq $section "recipes" }}My Recipes{{- else }}{{ $section | humanize | title }}{{- end }}
+      {{- else }}
+      <span class="page-banner__eyebrow-dot"></span>
+      {{ with .Data.Plural }}{{ . | humanize | title }}{{ end }}
+      {{- end }}
+    </div>
+
+    {{- /* Title */}}
+    <h1 class="page-banner__title">{{ .Title }}</h1>
+
+    {{- /* Description */}}
+    {{- if .Description }}
+    <p class="page-banner__desc">{{ .Description }}</p>
+    {{- end }}
+
+    {{- /* Recipe count */}}
+    {{- $pages := union .RegularPages .Sections }}
+    {{- $paginator := .Paginate $pages }}
+    <p class="page-banner__meta">
+      {{ len .RegularPages }} recipe{{ if ne (len .RegularPages) 1 }}s{{ end }}
+      {{- if gt $paginator.TotalPages 1 }} · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}{{ end }}
+    </p>
+  </div>
+</div>
+
+{{- /* ── RECIPE GRID ──────────────────────────────────── */}}
+<div class="list-content">
+  <div class="container">
+    {{- $pages := union .RegularPages .Sections }}
+    {{- $paginator := .Paginate $pages }}
+
+    {{- if $paginator.Pages }}
+    <div class="recipe-grid">
+      {{- range $paginator.Pages }}
+      {{- partial "recipe-card.html" . }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- /* Pagination */}}
+    {{- if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Page navigation">
+      {{- if $paginator.HasPrev }}
+      <a class="pagination__link" href="{{ $paginator.Prev.URL }}">
+        ← Newer
+      </a>
+      {{- end }}
+      <span class="pagination__info">{{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+      {{- if $paginator.HasNext }}
+      <a class="pagination__link" href="{{ $paginator.Next.URL }}">
+        Older →
+      </a>
+      {{- end }}
+    </nav>
+    {{- end }}
+
+  </div>
+</div>
+
+{{- end }}

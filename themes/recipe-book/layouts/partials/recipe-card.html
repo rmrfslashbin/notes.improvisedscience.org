@@ -1,0 +1,51 @@
+{{- /* Expects: . = a page */}}
+{{- $section := .Section }}
+{{- $sectionLabel := .Section | humanize | title }}
+{{- if eq $section "to-test" }}{{ $sectionLabel = "To Try" }}{{ end }}
+{{- if eq $section "recipes" }}{{ $sectionLabel = "My Recipes" }}{{ end }}
+
+<article class="recipe-card" data-section="{{ $section }}">
+  <div class="recipe-card__accent"></div>
+  <div class="recipe-card__body">
+
+    {{- /* Section badge */}}
+    <span class="recipe-card__section-badge">{{ $sectionLabel }}</span>
+
+    {{- /* Title */}}
+    <h2 class="recipe-card__title">
+      {{ .Title }}
+      {{- if .Draft }}&nbsp;<span class="draft-badge">Draft</span>{{- end }}
+    </h2>
+
+    {{- /* Description */}}
+    {{- if .Description }}
+    <p class="recipe-card__description">{{ .Description }}</p>
+    {{- else if .Summary }}
+    <p class="recipe-card__description">{{ .Summary | plainify | truncate 140 }}</p>
+    {{- end }}
+
+    {{- /* Tags */}}
+    {{- if .Params.tags }}
+    <div class="recipe-card__tags">
+      {{- range first 5 .Params.tags }}
+      <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="tag-pill">{{ . }}</a>
+      {{- end }}
+      {{- if gt (len .Params.tags) 5 }}
+      <span class="tag-pill">+{{ sub (len .Params.tags) 5 }}</span>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- /* Meta: serves + date */}}
+    <div class="recipe-card__meta">
+      {{- if .Params.servings }}
+      <span>Serves {{ .Params.servings }}</span>
+      <span>·</span>
+      {{- end }}
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </div>
+
+  </div>
+  {{- /* Full card link */}}
+  <a href="{{ .Permalink }}" class="recipe-card__link" aria-label="View {{ .Title }}"></a>
+</article>

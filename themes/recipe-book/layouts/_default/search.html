@@ -1,0 +1,38 @@
+{{- define "main" }}
+
+<div class="search-page">
+  <div class="container">
+    <div class="search-wrap">
+
+      <div class="page-banner page-banner--taxonomy" style="padding: 0 0 var(--s-7);">
+        <div class="page-banner__eyebrow">
+          <span class="page-banner__eyebrow-dot"></span>
+          Find a recipe
+        </div>
+        <h1 class="page-banner__title">Search</h1>
+      </div>
+
+      <div class="search-field">
+        <svg class="search-field__icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input
+          id="search-input"
+          class="search-input"
+          type="search"
+          placeholder="{{ .Params.placeholder | default "Search recipes…" }}"
+          autocomplete="off"
+          autofocus
+          aria-label="Search recipes">
+      </div>
+
+      <div id="search-results" class="search-results" aria-live="polite" aria-label="Search results">
+        {{- /* Populated by main.js */}}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{{- end }}

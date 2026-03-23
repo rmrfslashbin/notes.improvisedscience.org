@@ -1,0 +1,21 @@
+{{- /* Breadcrumb trail for section pages */}}
+{{- if not .IsHome }}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ .Site.BaseURL }}" class="breadcrumb__link">Home</a>
+  {{- if .Section }}
+  <span class="breadcrumb__sep" aria-hidden="true">›</span>
+  {{- $sectionName := .Section | humanize | title }}
+  {{- if eq .Section "to-test" }}{{ $sectionName = "To Try" }}{{ end }}
+  {{- if eq .Section "recipes" }}{{ $sectionName = "My Recipes" }}{{ end }}
+  {{- if .IsSection }}
+  <span class="breadcrumb__current" aria-current="page">{{ $sectionName }}</span>
+  {{- else }}
+  <a href="{{ .Site.BaseURL }}{{ .Section }}/" class="breadcrumb__link">{{ $sectionName }}</a>
+  {{- end }}
+  {{- end }}
+  {{- if not .IsSection }}
+  <span class="breadcrumb__sep" aria-hidden="true">›</span>
+  <span class="breadcrumb__current" aria-current="page">{{ .Title }}</span>
+  {{- end }}
+</nav>
+{{- end }}
