@@ -71,7 +71,7 @@ servings: 4
 `Stove-Top`, `Baked`, `Grilled`, `Roasted`, `Slow Cooker`, `No-Cook`
 
 **`themes`** — Title Case, quoted array. Broader dietary/cultural themes:
-`Vegetarian`, `Vegan`, `Indian`, `Thai`, `Fusion`, `Thanksgiving`, `Holiday`, etc.
+`Vegetarian`, `Vegan`, `Indian`, `Thai`, `Korean`, `Chinese`, `Nordic`, `Fusion`, `Thanksgiving`, `Holiday`, etc.
 
 **`prep_time` / `cook_time` / `total_time`** — Format: `"X minutes"` or `"X hours Y minutes"`. Include passive time (soaking, chilling, resting) in `total_time` when it materially affects when the dish is ready.
 
@@ -223,11 +223,21 @@ Prefer these established tags for consistency. Add new tags only when no existin
 `Comfort Food`, `Quick`, `Weeknight`, `Leftovers`, `One-Pot`, `Spicy`, `Hot`, `Numbing`
 
 **Cuisine**
-`Indian`, `Chinese`, `Korean`, `Italian`, `Thai`, `Fusion`, `Sri Lankan`, `Punjabi`, `Gujarati`, `Parsi`, `Goan`, `Indonesian`, `Turkish`
+`Indian`, `Chinese`, `Korean`, `Italian`, `Thai`, `Fusion`, `Sri Lankan`, `Punjabi`, `Gujarati`, `Parsi`, `Goan`, `Indonesian`, `Turkish`, `Danish`, `Nordic`, `Scandinavian`
 
 **Common ingredients**
 `Lentils`, `Beans`, `Chickpeas`, `Mushrooms`, `Potatoes`, `Tofu`, `Pasta`, `Eggs`, `Cauliflower`
 
 ---
+
+---
+
+## Content Sections
+
+| Section | Label | Purpose |
+|---------|-------|---------|
+| `recipes` | My Recipes | Personal recipes — tested and cooked |
+| `to-test` | To Try | Recipe queue — aspirational, untested |
+| `michael` | The Michael Collection | Curated recipes for Michael |
 
 *Last updated: 2026-03-23*

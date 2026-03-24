@@ -14,6 +14,7 @@
         {{- $section := "" }}
         {{- if eq .URL "/recipes/" }}{{ $section = "recipes" }}{{ end }}
         {{- if eq .URL "/to-test/" }}{{ $section = "to-test" }}{{ end }}
+        {{- if eq .URL "/michael/" }}{{ $section = "michael" }}{{ end }}
         <a href="{{ .URL | absURL }}"
            class="site-nav__link"
            {{- if $section }} data-section="{{ $section }}"{{ end }}>

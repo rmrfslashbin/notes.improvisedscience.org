@@ -51,6 +51,10 @@ params:
       label: "To Try"
       description: "A queue of recipes I want to cook. Aspirational, untested, interesting."
       color: sage
+    - section: michael
+      label: "The Michael Collection"
+      description: "A curated collection of recipes for Michael."
+      color: navy
 
 menu:
   main:
@@ -62,6 +66,10 @@ menu:
       name: To Try
       url: /to-test/
       weight: 20
+    - identifier: michael
+      name: The Michael Collection
+      url: /michael/
+      weight: 25
     - identifier: categories
       name: Categories
       url: /categories/

@@ -3,6 +3,7 @@
 {{- $sectionLabel := .Section | humanize | title }}
 {{- if eq $section "to-test" }}{{ $sectionLabel = "To Try" }}{{ end }}
 {{- if eq $section "recipes" }}{{ $sectionLabel = "My Recipes" }}{{ end }}
+{{- if eq $section "michael" }}{{ $sectionLabel = "The Michael Collection" }}{{ end }}
 
 <article class="recipe-card" data-section="{{ $section }}">
   <div class="recipe-card__accent"></div>
