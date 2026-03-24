@@ -24,20 +24,20 @@ Makes one 13-inch loaf, approximately 26 slices. Total time includes 9½ hours o
 
 ### For the Soaker
 
-- 300g (10½oz) 7-grain hot cereal mix (such as Bob's Red Mill 7 Grain Cereal), or rye chops — see Notes
-- 130g (4½oz) raw sunflower seeds
-- 130g (4½oz) raw pumpkin seeds (pepitas)
-- 80g (2¾oz) flax seeds
-- 640ml (2⅔ cups) cold water
+- 375g (13¼oz) 7-grain hot cereal mix (such as Bob's Red Mill 7 Grain Cereal), or rye chops — see Notes
+- 142g (5oz) raw sunflower seeds
+- 152g (5½oz) raw pumpkin seeds (pepitas)
+- 71g (2½oz) flax seeds
+- 613ml (2½ cups) cold water
 
 ### For the Dough
 
-- 240g (8½oz) dark rye flour, plus more for dusting the pan and loaf
-- 240g (8½oz) bread flour
+- 248g (8¾oz) dark rye flour, plus more for dusting the pan and loaf
+- 295g (10½oz) bread flour
 - 1 tsp instant dried yeast
-- 360ml (1½ cups) cold water
+- 353ml (1½ cups) cold water
 - 4 tsp salt
-- 60ml (¼ cup) molasses
+- 80g (¼ cup) molasses
 - Butter, for greasing the pan
 
 ## Instructions
@@ -67,8 +67,6 @@ Makes one 13-inch loaf, approximately 26 slices. Total time includes 9½ hours o
 ## Notes
 
 - **Rye chops:** Rugbrød is traditionally made with rye chops — uniformly cut pieces of rye grain, available from King Arthur Flour. Because they can be difficult to find, a whole-grain hot cereal mix such as Bob's Red Mill 7 Grain Cereal makes an excellent substitute, containing a variety of coarsely milled whole grains including rye.
-
-- **Dry ingredient weights:** Gram weights for seeds and cereal will vary slightly by brand. These are reliable estimates; baking by weight is always more accurate than volume.
 
 ## Storage
 
