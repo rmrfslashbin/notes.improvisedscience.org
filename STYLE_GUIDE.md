@@ -75,7 +75,7 @@ servings: 4
 
 **`prep_time` / `cook_time` / `total_time`** — Format: `"X minutes"` or `"X hours Y minutes"`. Include passive time (soaking, chilling, resting) in `total_time` when it materially affects when the dish is ready.
 
-**`servings`** — Integer.
+**`servings`** — Integer. For recipes with a defined yield (muffins, cookies, bread), use the number of pieces or slices the recipe produces (e.g., `servings: 12` for a dozen muffins, `servings: 26` for a sliced loaf).
 
 ---
 
@@ -116,6 +116,15 @@ Use `tbsp` and `tsp` as-is. No metric conversion.
 ```
 1 tbsp olive oil
 ½ tsp ground cumin
+```
+
+### Dense liquids
+Honey, molasses, maple syrup, applesauce, nut butters, and similar thick ingredients are measured by weight (grams primary), not volume. Include the cup or tablespoon measure in parentheses for reference.
+
+```
+170g (½ cup) honey
+80g (¼ cup) molasses
+75g (⅓ cup) coconut oil, melted
 ```
 
 ### Temperatures
@@ -195,6 +204,42 @@ For complex recipes with multiple components, use sub-sections under `## Ingredi
 ### Assemble
 1. …
 ```
+
+### Baking recipes
+
+For standard baked goods (muffins, cakes, quick breads, cookies), split `## Ingredients` into:
+
+```markdown
+## Ingredients
+
+### Dry
+- flour, leaveners, salt, spices
+
+### Wet
+- eggs, oils, liquid sweeteners, dairy/non-dairy, extracts
+
+### Mix-ins
+- fruit, nuts, chocolate chips, etc.
+```
+
+Omit `### Mix-ins` if there are none. For yeasted or multi-stage breads, use descriptive names instead (e.g., `### For the Soaker` / `### For the Dough`).
+
+---
+
+## Attribution
+
+When a recipe originates from an external source, add a source line as the last line of the recipe body:
+
+```markdown
+*Source: Author, Site Name*
+*Source: [Author, Site Name](URL)*
+*Adapted from Author, Site Name*
+```
+
+- Use **Source** when reproducing the recipe with only format changes (measurements, structure).
+- Use **Adapted from** when ingredients or technique were meaningfully changed.
+- Omit the source line for original compositions.
+- If only the author name is known and no site or URL is available: `*Source: Author*`
 
 ---
 

@@ -72,4 +72,4 @@ Makes one 13-inch loaf, approximately 26 slices. Total time includes 9½ hours o
 
 Keeps at room temperature for 3 to 5 days, loosely wrapped in foil. Slice before freezing for longer storage.
 
-*Adapted from a recipe by Kristi.*
+*Source: Kristi*
