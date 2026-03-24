@@ -53,7 +53,7 @@ params:
       color: sage
     - section: michael
       label: "The Michael Collection"
-      description: "A curated collection of recipes for Michael."
+      description: "A curated collection of Michael's recipes."
       color: navy
 
 menu:
