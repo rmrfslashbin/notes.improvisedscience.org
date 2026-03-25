@@ -47,6 +47,4 @@ servings: 12
 6. Add the cooked lentils and a splash of water if the dal is too thick. Season with salt and cook for 5 minutes.
 7. Remove from heat. Stir in lemon juice and top with chopped coriander before serving.
 
-> **Instant pot:** Cook rinsed lentils in the IP on high pressure for 5 minutes with natural pressure release. Proceed with the curry from step 3.
->
 > **Dhana jeera** is a pre-mixed South Asian spice blend of ground coriander and cumin. If unavailable, use 1 tbsp ground coriander + 1 tbsp ground cumin.
