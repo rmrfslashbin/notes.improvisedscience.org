@@ -3,13 +3,7 @@ title: Slow Cooker Lentil Soup
 date: 2021-12-15T12:35:00-05:00
 draft: false
 description: "A hands-off slow cooker lentil soup with cumin, thyme, and lacinato kale, finished with a creamy blended chickpea base and a splash of sherry vinegar."
-tags:
-    - lentils
-    - onions
-    - carrots
-    - cumin
-    - thyme
-    - kale
+tags: ["Lentils", "Onions", "Carrots", "Cumin", "Thyme", "Kale"]
 categories: ["Main"]
 methods: ["Slow Cooker"]
 themes: ["Vegan"]

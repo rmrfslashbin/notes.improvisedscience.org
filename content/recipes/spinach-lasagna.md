@@ -3,11 +3,7 @@ title: Spinach Lasagna
 date: 2021-03-15T21:14:21-05:00
 draft: false
 description: "A hearty vegetarian lasagna layered with wilted spinach, creamy ricotta, roasted vegetables, and a rich tomato sauce topped with Parmesan."
-tags:
-    - spinach
-    - veggies
-    - cheese
-    - mushrooms
+tags: ["Spinach", "Veggies", "Cheese", "Mushrooms"]
 categories:
     - ["Main"]
 methods:

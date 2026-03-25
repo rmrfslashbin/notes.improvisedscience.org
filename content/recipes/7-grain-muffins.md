@@ -3,9 +3,7 @@ title: 7-Grain Muffins
 date: 2021-08-02T16:14:22-05:00
 draft: false
 description: "Hearty whole-grain muffins sweetened with molasses and packed with seven-grain cereal, fruit, and warm spices."
-tags:
-    - spelt
-    - cherries
+tags: ["Spelt", "Cherries"]
 categories: ["Breakfast"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

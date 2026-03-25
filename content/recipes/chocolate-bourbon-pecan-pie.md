@@ -3,10 +3,7 @@ title: Chocolate Bourbon Pecan Pie
 date: 2018-11-30T12:33:32-05:00
 draft: false
 description: "A decadent Southern pie packed with chopped pecans and chocolate chips in a buttery bourbon-spiked brown sugar custard poured into a flaky pastry shell."
-tags:
-    - chocolate
-    - bourbon
-    - pecan
+tags: ["Chocolate", "Bourbon", "Pecans"]
 categories:
     - ["Dessert"]
 methods:

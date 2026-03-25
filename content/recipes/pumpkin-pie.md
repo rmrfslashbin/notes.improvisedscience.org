@@ -3,8 +3,7 @@ title: Pumpkin Pie
 date: 2018-11-30T12:34:29-05:00
 draft: false
 description: "A from-scratch pumpkin pie made with freshly roasted sugar pumpkin, warming spices, and evaporated milk, poured into a flaky homemade crust and baked until silky smooth."
-tags:
-    - pumpkin
+tags: ["Pumpkin"]
 categories: ["Dessert"]
 methods: ["Baked"]
 themes: ["Thanksgiving"]

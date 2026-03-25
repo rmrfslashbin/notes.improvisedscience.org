@@ -3,11 +3,7 @@ title: Chili and Garlic Shrimp
 date: 2020-11-27T12:43:11-05:00
 draft: false
 description: "Plump shrimp seared in smoky guajillo chile sauce with golden sliced garlic, finished with lime juice and butter for a quick, deeply flavorful dish."
-tags:
-    - shrimp
-    - garlic
-    - chilis
-    - guajillo
+tags: ["Shrimp", "Garlic", "Chilis", "Guajillo"]
 categories:
     - ["Main"]
 methods:

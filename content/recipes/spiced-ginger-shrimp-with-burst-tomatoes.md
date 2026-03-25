@@ -3,10 +3,7 @@ title: Spiced Ginger Shrimp with Burst Tomatoes
 date: 2021-12-17
 draft: false
 description: "Garam masala and fresh ginger-marinated shrimp seared with blistered cherry tomatoes and finished with butter and lime for a quick, fragrant weeknight dish."
-tags:
-    - shrimp
-    - curry
-    - garam masala
+tags: ["Shrimp", "Curry", "Garam Masala"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 prep_time: "10 minutes"

@@ -3,8 +3,7 @@ title: Blueberry Muffins
 date: 2014-11-30T23:29:37-05:00
 draft: false
 description: "Light, golden buttermilk muffins bursting with fresh blueberries and brightened with lemon zest and vanilla."
-tags:
-    - blueberry
+tags: ["Blueberry"]
 categories: ["Breakfast"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

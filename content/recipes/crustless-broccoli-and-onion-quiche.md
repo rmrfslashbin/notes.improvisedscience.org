@@ -3,9 +3,7 @@ title: Crustless Broccoli and Onion Quiche
 date: 2014-11-30T23:35:53-05:00
 draft: false
 description: "A light, flourless quiche packed with tender broccoli and sweet caramelized onion, baked in a cast iron skillet with Pecorino Romano."
-tags:
-    - broccoli
-    - onion
+tags: ["Broccoli", "Onions"]
 categories:
     - ["Main"]
 methods:

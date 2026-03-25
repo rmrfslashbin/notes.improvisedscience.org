@@ -3,10 +3,7 @@ title: Multigrain Bread
 date: 2018-02-20T04:00:59-05:00
 draft: false
 description: "A hearty, chewy multigrain loaf built on a seven-grain cereal base, sweetened with honey and leavened with instant yeast for two full loaves or a boule."
-tags:
-    - whole-grain
-    - wheat
-    - yeast
+tags: ["Whole-Grain", "Wheat", "Yeast"]
 categories: ["Bread"]
 methods: ["Baked"]
 prep_time: "2 hours"

@@ -3,10 +3,7 @@ title: Mushroom and Gruyère Quiche
 date: 2014-11-30T23:36:37-05:00
 draft: false
 description: "A savory quiche packed with roasted cremini, portobello, and shiitake mushrooms, bound with buttermilk eggs and melted Gruyère in a flaky pie shell."
-tags:
-    - mushroom
-    - cheese
-    - gruyère
+tags: ["Mushrooms", "Cheese", "Gruyère"]
 categories: ["Main"]
 methods: ["Baked"]
 prep_time: "20 minutes"

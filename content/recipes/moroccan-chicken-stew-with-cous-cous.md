@@ -3,11 +3,7 @@ title: Morrocan Chicken Stew with Cous-Cous
 date: 2015-09-28T14:42:55-05:00
 draft: false
 description: "A slow-simmered Moroccan chicken stew with dried apricots, potatoes, and warm Provençal spices, served over fluffy couscous for a deeply satisfying winter meal."
-tags:
-    - chicken
-    - apricot
-    - potato
-    - cous-cous
+tags: ["Chicken", "Apricot", "Potatoes", "Cous-Cous"]
 categories:
     - "Main"
 methods:

@@ -3,8 +3,7 @@ title: Bean Burgers
 date: 2014-11-30T23:27:05-05:00
 draft: false
 description: "Simple white bean patties blended with oats, onion, and chili powder, pan-fried until golden and served on toasted buns."
-tags:
-    - beans
+tags: ["Beans"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 themes: ["Vegan"]

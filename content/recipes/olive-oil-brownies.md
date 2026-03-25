@@ -3,9 +3,7 @@ title: Olive Oil Brownies
 date: 2020-05-15T13:38:40-05:00
 draft: false
 description: "Fudgy, deeply chocolatey brownies made with olive oil and Dutch-processed cocoa for a rich, slightly fruity depth in every bite."
-tags:
-    - chocolate
-    - olive oil
+tags: ["Chocolate", "Olive Oil"]
 categories: ["Dessert"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

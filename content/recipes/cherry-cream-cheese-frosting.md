@@ -3,9 +3,7 @@ title: Cherry Cream Cheese Frosting
 date: 2014-11-26T02:53:26-05:00
 draft: false
 description: "A luscious, tangy cream cheese frosting swirled with cherry preserves, perfect for filling and topping a double-layer chocolate cake."
-tags:
-    - cream cheese
-    - cherries
+tags: ["Cream Cheese", "Cherries"]
 categories:
     - ["Condiment"]
 methods:

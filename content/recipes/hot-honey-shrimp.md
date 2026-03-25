@@ -3,10 +3,7 @@ title: Hot Honey Shrimp
 date: 2021-03-21T14:12:30-05:00
 draft: false
 description: "Plump shrimp roasted at high heat in a cayenne-spiked honey glaze with lime and ginger, finished with jalapeño and chives."
-tags:
-    - spicy
-    - honey
-    - shrimp
+tags: ["Spicy", "Honey", "Shrimp"]
 categories:
     - ["Main"]
 methods:

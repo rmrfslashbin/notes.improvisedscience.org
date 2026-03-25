@@ -3,8 +3,7 @@ title: Mom's Ice Cream
 date: 2014-11-26T02:57:28-05:00
 draft: false
 description: "A rich, egg-heavy old-fashioned vanilla ice cream made with evaporated milk and whole eggs, churned in an ice cream freezer with room for your favorite mix-ins."
-tags:
-    - vanilla
+tags: ["Vanilla"]
 categories:
     - "Dessert"
 methods:

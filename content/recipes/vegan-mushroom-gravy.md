@@ -3,8 +3,7 @@ title: Vegan Mushroom Gravy
 date: 2018-11-30T12:44:59-05:00
 draft: false
 description: "A silky, deeply savory vegan gravy built on caramelized porchini and baby portobello mushrooms thickened with flour and seasoned with soy sauce."
-tags:
-    - mushroom
+tags: ["Mushrooms"]
 categories:
     - ["Side Dish"]
 methods:

@@ -3,12 +3,7 @@ title: Cardamom Strawberries
 date: 2021-08-02T16:08:37-05:00
 draft: false
 description: "Fresh strawberries macerated in a fragrant cardamom-honey-bourbon syrup — elegant as a dessert topping or served on their own."
-tags:
-    - strawberries
-    - cardamom
-    - honey
-    - bourbon
-    - syrup
+tags: ["Strawberries", "Cardamom", "Honey", "Bourbon", "Syrup"]
 categories: ["Dessert"]
 methods: ["Stove-Top"]
 themes: ["Vegan"]

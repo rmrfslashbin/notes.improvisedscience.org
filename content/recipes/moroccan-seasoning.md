@@ -3,13 +3,7 @@ title: Morrocan Seasoning
 date: 2013-12-30T17:01:27-05:00
 draft: false
 description: "A warm, aromatic Moroccan spice blend with nutmeg, cumin, coriander, and cinnamon — perfect as a dry rub or couscous seasoning."
-tags:
-    - nutmeg
-    - cumin
-    - coriander
-    - allspice
-    - ginger
-    - cinnamon
+tags: ["Nutmeg", "Cumin", "Coriander", "Allspice", "Ginger", "Cinnamon"]
 categories: ["Condiment"]
 methods: ["No-Cook"]
 themes: ["Vegetarian"]

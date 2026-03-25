@@ -3,11 +3,7 @@ title: Slow Roasted Salmon
 date: 2020-09-05T00:12:29-05:00
 draft: false
 description: "A center-cut salmon fillet slow-roasted at 250°F with a brown sugar crust, then finished with a bright dill-lemon-olive oil drizzle."
-tags:
-    - salmon
-    - dill
-    - lemon
-    - olive oil
+tags: ["Salmon", "Dill", "Lemon", "Olive Oil"]
 categories: ["Main"]
 methods: ["Roasted"]
 prep_time: "5 minutes"

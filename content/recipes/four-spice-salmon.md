@@ -3,8 +3,7 @@ title: Four-Spice Salmon
 date: 2019-07-03T14:08:31-05:00
 draft: false
 description: "Pan-seared salmon fillets crusted with toasted coriander, cloves, cumin, and nutmeg — bold, aromatic, and ready in minutes."
-tags:
-    - salmon
+tags: ["Salmon"]
 categories:
     - ["Main"]
 methods:

@@ -3,8 +3,7 @@ title: Apple Cider Vinegar Pancakes
 date: 2014-11-26T02:50:37-05:00
 draft: false
 description: "Tangy, fluffy pancakes made with a blend of whole-grain flours, apple cider vinegar, and fresh blueberries."
-tags:
-    - apple cider
+tags: ["Apple Cider"]
 categories: ["Breakfast"]
 methods: ["Stove-Top"]
 themes: ["Vegetarian"]

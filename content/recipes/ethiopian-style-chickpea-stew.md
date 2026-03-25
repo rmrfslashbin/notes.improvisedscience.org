@@ -3,8 +3,7 @@ title: Ethiopian Style Chickpea Stew
 date: 2015-09-26T16:47:34-05:00
 draft: false
 description: "A warming Ethiopian-spiced stew with oven-roasted chickpeas, red potatoes, and carrots simmered in a fragrant tomato-spice broth."
-tags:
-    - chickpeas
+tags: ["Chickpeas"]
 categories:
     - ["Main"]
 methods:

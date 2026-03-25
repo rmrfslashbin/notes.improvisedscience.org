@@ -3,9 +3,7 @@ title: Grilled Pastrami-Style Salmon
 date: 2019-03-02T21:52:17-05:00
 draft: false
 description: "A center-cut salmon fillet rubbed with a pastrami-inspired spice blend of brown sugar, coriander, ginger, and allspice, then grilled to flaky perfection."
-tags:
-    - pastrami
-    - salmon
+tags: ["Pastrami", "Salmon"]
 categories:
     - ["Main"]
 methods:

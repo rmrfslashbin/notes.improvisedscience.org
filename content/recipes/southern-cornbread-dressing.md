@@ -3,8 +3,7 @@ title: Southern Cornbread Dressing
 date: 2018-11-30T13:14:27-05:00
 draft: false
 description: "A classic Southern dressing made with crumbled cornbread, soft white bread, sage, thyme, and rich stock — golden-edged and custardy at the center."
-tags:
-    - cornbread
+tags: ["Cornbread"]
 categories: ["Side Dish"]
 methods: ["Baked"]
 themes: ["Thanksgiving", "Vegetarian"]

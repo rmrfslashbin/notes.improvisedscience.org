@@ -3,12 +3,7 @@ title: Cherry Pineapple Dump Cake
 date: 2014-11-30T23:18:00-05:00
 draft: false
 description: "An effortlessly indulgent dump cake layered with cherry pie filling, crushed pineapple, and golden cake mix topped with pools of melted butter."
-tags:
-    - cherries
-    - pineapple
-    - convenience
-    - boxed cake mix
-    - family recipe
+tags: ["Cherries", "Pineapple", "Convenience", "Boxed Cake Mix", "Family Recipe"]
 categories:
     - ["Dessert"]
 methods:

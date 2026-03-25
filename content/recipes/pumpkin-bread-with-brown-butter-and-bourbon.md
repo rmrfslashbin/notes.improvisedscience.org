@@ -3,10 +3,7 @@ title: Pumpkin Bread With Brown Butter and Bourbon
 date: 2017-10-11T15:08:26-05:00
 draft: false
 description: "A deeply spiced pumpkin quick bread enriched with nutty brown butter and bourbon, baked into two loaves with whole wheat flour, cardamom, and dark brown sugar."
-tags:
-    - pumpkin
-    - browned butter
-    - bourbon
+tags: ["Pumpkin", "Browned Butter", "Bourbon"]
 categories: ["Bread"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

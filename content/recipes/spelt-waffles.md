@@ -3,8 +3,7 @@ title: Spelt Waffles
 date: 2021-08-02T16:11:36-05:00
 draft: false
 description: "Light and wholesome spelt waffles made with oat milk and your choice of oil, butter, or mashed banana — a simple, adaptable everyday breakfast."
-tags:
-    - spelt
+tags: ["Spelt"]
 categories: ["Breakfast"]
 methods: ["Griddle"]
 themes: ["Vegan", "Vegetarian"]

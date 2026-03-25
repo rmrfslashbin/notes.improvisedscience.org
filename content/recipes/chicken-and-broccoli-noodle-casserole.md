@@ -3,12 +3,7 @@ title: Chicken and Broccoli Noodle Casserole
 date: 2014-11-30T23:16:15-05:00
 draft: false
 description: "A comforting casserole of egg noodles, shredded chicken, and broccoli folded in a creamy cheddar sauce and baked under a Parmesan breadcrumb crust."
-tags:
-    - pasta
-    - chicken
-    - broccoli
-    - noodle
-    - cheese
+tags: ["Pasta", "Chicken", "Broccoli", "Noodle", "Cheese"]
 categories:
     - ["Main"]
 methods:

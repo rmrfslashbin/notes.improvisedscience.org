@@ -3,10 +3,7 @@ title: Yeast Rolls for Two
 date: 2021-12-15T11:28:00-05:00
 draft: false
 description: "Tender, golden yeast rolls made with a blend of all-purpose and spelt flour, scaled for a small batch of four perfectly portioned rolls."
-tags:
-    - spelt
-    - yeast
-    - rolls
+tags: ["Spelt", "Yeast", "Rolls"]
 categories:
     - ["Bread"]
 methods:

@@ -3,9 +3,7 @@ title: Lemon Pudding
 date: 2021-09-30T14:26:29-05:00
 draft: false
 description: "A creamy, tangy lemon pudding made with oat milk and fresh lemon juice, chilled in individual serving dishes."
-tags:
-    - lemon
-    - oat milk
+tags: ["Lemon", "Oat Milk"]
 categories:
     - "Dessert"
 methods:

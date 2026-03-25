@@ -3,9 +3,7 @@ title: Spelt Bread
 date: 2020-07-08T20:06:09-05:00
 draft: false
 description: "A simple, forgiving spelt loaf made in a stand mixer with minimal kneading, producing a tender 9-inch loaf in about 3 hours."
-tags:
-    - spelt
-    - yeast
+tags: ["Spelt", "Yeast"]
 categories: ["Bread"]
 methods: ["Baked"]
 themes: ["Vegan"]

@@ -3,13 +3,7 @@ title: Rye Chocolate Chip Cookies
 date: 2018-05-28T17:11:34-05:00
 draft: false
 description: "Toasted rye flour and browned butter give these grown-up chocolate chip cookies a deep, nutty richness, rounded out with molasses and dried tart cherries."
-tags:
-    - rye
-    - chocolate
-    - browed butter
-    - molasses
-    - cherries
-    - milk street
+tags: ["Rye", "Chocolate", "Browned Butter", "Molasses", "Cherries", "Milk Street"]
 categories: ["Dessert"]
 methods: ["Baked"]
 prep_time: "30 minutes"

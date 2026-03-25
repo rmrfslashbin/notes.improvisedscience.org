@@ -3,9 +3,7 @@ title: Roasted Pumpkin Seeds
 date: 2020-10-10T17:29:22-05:00
 draft: false
 description: "Crispy, salted pumpkin seeds brined in salted water, then oven-roasted until golden brown."
-tags:
-    - pumpkin
-    - seeds
+tags: ["Pumpkin", "Seeds"]
 categories: ["Snack"]
 methods: ["Stove-Top", "Roasted"]
 themes: ["Vegan"]

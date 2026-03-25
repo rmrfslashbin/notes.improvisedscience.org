@@ -3,9 +3,7 @@ title: Double Chocolate Cookies
 date: 2019-02-10T04:52:11-05:00
 draft: false
 description: "Deeply fudgy cookies loaded with Dutch-process cocoa and bittersweet chocolate chips, chilled overnight for an intense, brownie-like center."
-tags:
-    - chocolate
-    - dutch-process
+tags: ["Chocolate", "Dutch-Process"]
 categories:
     - ["Dessert"]
 methods:

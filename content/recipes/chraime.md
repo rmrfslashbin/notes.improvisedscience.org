@@ -3,11 +3,7 @@ title: Chráime
 date: 2015-02-01T13:50:36-05:00
 draft: false
 description: "A North African-Jewish braised fish dish with white fish fillets slowly simmered over a bed of potatoes, roasted peppers, tomatoes, and fresh herbs in a paprika-spiced broth."
-tags:
-    - fish
-    - veggies
-    - potatoes
-    - tomatoes
+tags: ["Fish", "Veggies", "Potatoes", "Tomatoes"]
 categories:
     - ["Main"]
 methods:

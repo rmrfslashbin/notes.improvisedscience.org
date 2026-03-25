@@ -3,10 +3,7 @@ title: Chicken Scaloppini
 date: 2014-06-11T01:39:24-05:00
 draft: false
 description: "Thin, golden-seared chicken cutlets served over a savory pan sauce of mushrooms, roasted peppers, capers, and white wine finished with butter."
-tags:
-    - chicken
-    - wine
-    - veggies
+tags: ["Chicken", "Wine", "Veggies"]
 categories:
     - ["Main"]
 methods:

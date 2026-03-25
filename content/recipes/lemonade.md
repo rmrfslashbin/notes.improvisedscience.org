@@ -3,8 +3,7 @@ title: Lemonade
 date: 2015-05-10T19:25:00-05:00
 draft: false
 description: "Classic fresh-squeezed lemonade with a simple syrup base, bright enough to drink straight and strong enough to stand up to a shot of vodka or tequila."
-tags:
-    - lemon
+tags: ["Lemon"]
 categories:
     - "Beverage"
 methods:

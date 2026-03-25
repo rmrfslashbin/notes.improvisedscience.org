@@ -3,10 +3,7 @@ title: Simple Tomato Sauce
 date: 2021-03-15T19:56:57-05:00
 draft: false
 description: "Samin Nosrat's deeply savory tomato sauce built on slowly caramelized onions, garlic, tomato paste, and basil — rich, versatile, and freezer-friendly."
-tags:
-    - tomato
-    - onion
-    - basil
+tags: ["Tomatoes", "Onions", "Basil"]
 categories: ["Condiment"]
 methods: ["Stove-Top"]
 themes: ["Vegan"]

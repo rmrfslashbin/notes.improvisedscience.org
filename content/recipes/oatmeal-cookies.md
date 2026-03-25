@@ -3,12 +3,7 @@ title: Oatmeal Cookies
 date: 2021-09-06T18:50:20-05:00
 draft: false
 description: "Chewy, nutty oatmeal cookies made with browned butter and studded with tart dried cherries, dark chocolate chips, and toasted pecans."
-tags:
-    - oatmeal
-    - chcoloate
-    - cherries
-    - pecans
-    - browned butter
+tags: ["Oatmeal", "Chocolate", "Cherries", "Pecans", "Browned Butter"]
 categories: ["Dessert"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

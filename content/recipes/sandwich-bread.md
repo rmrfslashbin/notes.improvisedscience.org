@@ -3,10 +3,7 @@ title: Sandwich Bread
 date: 2020-06-23T19:32:30-05:00
 draft: false
 description: "A slow-fermented rye or spelt sandwich loaf with a soft, classic texture achieved through three rises and about 8 hours of hands-off time."
-tags:
-    - yeast
-    - spelt
-    - rye
+tags: ["Yeast", "Spelt", "Rye"]
 categories: ["Bread"]
 methods: ["Baked"]
 prep_time: "30 minutes"

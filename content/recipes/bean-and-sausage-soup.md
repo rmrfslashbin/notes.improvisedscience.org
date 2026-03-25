@@ -3,9 +3,7 @@ title: Bean and Sausage Soup
 date: 2015-03-01T18:05:27-05:00
 draft: false
 description: "A thick, hearty bean and kielbasa stew simmered with rosemary, Parmesan rind, carrots, and garlic for deep, layered flavor."
-tags:
-    - beans
-    - sausage
+tags: ["Beans", "Sausage"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 themes: ["One-Pot"]

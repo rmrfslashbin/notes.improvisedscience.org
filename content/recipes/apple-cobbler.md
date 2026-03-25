@@ -1,9 +1,7 @@
 ---
 title: Apple Cobbler
 date: 2014-11-26T20:23:11-05:00
-tags:
-    - apples
-    - family recipe
+tags: ["Apples", "Family Recipe"]
 categories:
     - dessert
     - cobbler

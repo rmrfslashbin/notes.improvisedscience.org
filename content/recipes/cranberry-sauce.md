@@ -3,8 +3,7 @@ title: Cranberry Sauce
 date: 2019-11-28T22:03:26-05:00
 draft: false
 description: "A tart, bright cranberry sauce cooked down with orange juice or Grand Marnier until thick and glossy."
-tags:
-    - cranberries
+tags: ["Cranberries"]
 categories:
     - ["Condiment"]
 methods:

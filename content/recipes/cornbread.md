@@ -3,11 +3,7 @@ title: Cornbread
 date: 2018-11-30T13:00:22-05:00
 draft: false
 description: "A golden, tender skillet cornbread made with brown butter, tangy buttermilk, and a touch of maple syrup, baked in a cast-iron pan for a crispy crust."
-tags:
-    - cornmeal
-    - buttermilk
-    - cast iron skillet
-    - nytimes
+tags: ["Cornmeal", "Buttermilk", "Cast Iron Skillet", "NYTimes"]
 categories:
     - ["Bread"]
 methods:

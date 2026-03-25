@@ -3,12 +3,7 @@ title: Egg Nog
 date: 2014-11-26T02:59:47-05:00
 draft: false
 description: "A rich, boozy holiday eggnog made with separated eggs, dark rum, bourbon, whole milk, and folded whipped cream, served with a dusting of nutmeg."
-tags:
-    - bourbon
-    - rum
-    - vanilla
-    - cream
-    - nutmeg
+tags: ["Bourbon", "Rum", "Vanilla", "Cream", "Nutmeg"]
 categories:
     - ["Beverage"]
 methods:

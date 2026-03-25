@@ -3,9 +3,7 @@ title: Grilled Glazed Pork Tenderloin
 date: 2014-11-26T03:07:59-05:00
 draft: false
 description: "Brined pork tenderloins tied together and grilled with a sweet-and-spicy hoisin glaze until deeply caramelized and juicy."
-tags:
-    - pork
-    - glaze
+tags: ["Pork", "Glaze"]
 categories:
     - ["Main"]
 methods:

@@ -2,13 +2,7 @@
 title: Mexican Chocolate Pudding
 draft: false
 description: "A deeply spiced chocolate pudding made with oat milk steeped with guajillo chiles, cinnamon, and vanilla, finished with bittersweet chocolate and cognac."
-tags:
-    - vanilla
-    - cinnamon
-    - guajillo
-    - chili
-    - chocolate
-    - congnac
+tags: ["Vanilla", "Cinnamon", "Guajillo", "Chili", "Chocolate", "Cognac"]
 categories:
     - "Dessert"
 methods:

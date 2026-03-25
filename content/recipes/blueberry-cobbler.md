@@ -3,8 +3,7 @@ title: Blueberry Cobbler
 date: 2021-08-02T16:07:46-05:00
 draft: false
 description: "A Chez Panisse-inspired blueberry cobbler where lightly sugared berries bubble up around tender, buttery biscuit rounds."
-tags:
-    - blueberry
+tags: ["Blueberry"]
 categories: ["Dessert"]
 methods: ["Baked"]
 themes: ["Vegetarian"]

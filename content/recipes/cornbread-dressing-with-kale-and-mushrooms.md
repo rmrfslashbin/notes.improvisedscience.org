@@ -3,10 +3,7 @@ title: Cornbread Dressing with Kale and Mushrooms
 date: 2018-11-30T12:33:43-05:00
 draft: false
 description: "A hearty Thanksgiving dressing of golden cornbread cubes tossed with caramelized shiitake mushrooms, kale, sausage, and fresh sage baked until crispy on top."
-tags:
-    - cornmeal
-    - buttermilk
-    - cooks country
+tags: ["Cornmeal", "Buttermilk", "Cooks Country"]
 categories:
     - ["Side Dish"]
 methods:

@@ -3,9 +3,7 @@ title: Lemon-Olive Oil Tart
 date: 2020-04-28T14:21:29-05:00
 draft: false
 description: "A bright, silky lemon curd tart with a tender press-in olive oil crust that bakes to a deep golden brown."
-tags:
-    - lemon
-    - olive oil
+tags: ["Lemon", "Olive Oil"]
 categories:
     - "Dessert"
 methods:

@@ -3,10 +3,7 @@ title: Rice Pudding
 date: 2017-03-13T16:43:19-05:00
 draft: false
 description: "A creamy, aromatic rice pudding simmered with cinnamon sticks, cardamom, and lavender, sweetened with golden raisins and finished with vanilla-infused bourbon."
-tags:
-    - rice
-    - cinnammon
-    - raisins
+tags: ["Rice", "Cinnamon", "Raisins"]
 categories: ["Dessert"]
 methods: ["Stove-Top"]
 themes: ["Vegan"]

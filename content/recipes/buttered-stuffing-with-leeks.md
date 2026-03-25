@@ -3,9 +3,7 @@ title: Buttered Stuffing with Leeks
 date: 2019-11-28T21:50:54-05:00
 draft: false
 description: "A golden, crispy-topped Thanksgiving stuffing with buttery leeks, garlic, sage, and white wine soaked into torn sourdough bread."
-tags:
-    - sage
-    - leeks
+tags: ["Sage", "Leeks"]
 categories: ["Side Dish"]
 methods: ["Baked"]
 themes: ["Vegetarian", "Thanksgiving"]

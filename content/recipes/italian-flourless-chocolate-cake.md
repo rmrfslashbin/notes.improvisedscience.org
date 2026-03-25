@@ -3,9 +3,7 @@ title: Italian Flourless Chocolate Cake
 date: 2019-02-24T13:32:34-05:00
 draft: false
 description: "A dense, fudgy Italian-style flourless chocolate cake made with dark chocolate and potato starch, finished with a dusting of confectioners' sugar."
-tags:
-    - chocolate
-    - flourless
+tags: ["Chocolate", "Flourless"]
 categories:
     - "Dessert"
 methods:

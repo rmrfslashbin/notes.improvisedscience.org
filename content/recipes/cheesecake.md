@@ -3,9 +3,7 @@ title: Cheesecake
 date: 2014-11-26T02:54:10-05:00
 draft: false
 description: "A rich, dense New York-style cheesecake on a buttery graham cracker crust, perfected through many test batches and finished with a long overnight cure."
-tags:
-    - cream cheese
-    - original recipe
+tags: ["Cream Cheese", "Original Recipe"]
 categories:
     - ["Dessert"]
 methods:

@@ -3,11 +3,7 @@ title: Maple-Rosemary Skillet
 date: 2018-11-30T12:34:16-05:00
 draft: false
 description: "Golden-browned carrots and parsnips glazed with apple cider, maple syrup, and fresh rosemary in a single skillet — an easy, elegant Thanksgiving side."
-tags:
-    - maple
-    - carrots
-    - parsnips
-    - rosemary
+tags: ["Maple", "Carrots", "Parsnips", "Rosemary"]
 categories:
     - "Side Dish"
 methods:

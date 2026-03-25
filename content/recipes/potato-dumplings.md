@@ -3,8 +3,7 @@ title: Potato Dumplings
 date: 2018-07-14T00:02:18-05:00
 draft: false
 description: "Simple, pillowy potato dumplings made from grated boiled potatoes, semolina, and flour, then boiled and sliced into rounds."
-tags:
-    - potatos
+tags: ["Potatoes"]
 categories: ["Side Dish"]
 methods: ["Stove-Top"]
 prep_time: "20 minutes"

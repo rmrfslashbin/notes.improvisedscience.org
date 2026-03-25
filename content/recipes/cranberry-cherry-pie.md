@@ -3,10 +3,7 @@ title: Cranberry Cherry Pie
 date: 2018-11-30T12:34:03-05:00
 draft: false
 description: "A beloved family pie with a tart-sweet filling of cherry pie filling and whole cranberry sauce brightened with lemon and cinnamon, enclosed in a flaky double crust."
-tags:
-    - cranberries
-    - cherries
-    - family recipe
+tags: ["Cranberries", "Cherries", "Family Recipe"]
 categories:
     - ["Dessert"]
 methods:

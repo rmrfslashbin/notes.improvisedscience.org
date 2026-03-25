@@ -3,9 +3,7 @@ title: BBQ Salmon
 date: 2017-10-19T13:14:05-05:00
 draft: false
 description: "Skin-on salmon fillets grilled over cedar wood chips with a spiced sugar rub and Dijon-maple glaze for a smoky, caramelized crust."
-tags:
-    - bbq
-    - salmon
+tags: ["BBQ", "Salmon"]
 categories: ["Main"]
 methods: ["Grilled"]
 prep_time: "25 minutes"

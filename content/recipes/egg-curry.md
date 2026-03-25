@@ -3,8 +3,7 @@ title: Egg Curry
 date: 2020-03-27T16:59:36-05:00
 draft: false
 description: "A fragrant, slow-cooked Indian curry base with caramelized onions, whole spices, and tomatoes, finished with poached or hard-boiled eggs."
-tags:
-    - curry
+tags: ["Curry"]
 categories:
     - ["Main"]
 methods:

@@ -3,8 +3,7 @@ title: Banana Pudding
 date: 2019-06-06T12:37:31-05:00
 draft: false
 description: "Classic Southern banana pudding with a velvety vanilla custard, ripe banana slices, Nilla wafers, and a toasted meringue crown."
-tags:
-    - banana
+tags: ["Banana"]
 categories:
     - ["Dessert"]
 methods:

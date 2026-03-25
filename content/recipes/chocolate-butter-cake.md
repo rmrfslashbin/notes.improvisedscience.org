@@ -3,8 +3,7 @@ title: Chocolate Butter Cake
 date: 2014-11-30T23:19:11-05:00
 draft: false
 description: "A deeply chocolaty, moist two-layer butter cake made with melted unsweetened chocolate and cocoa, with a tender crumb that pairs beautifully with cherry cream cheese frosting."
-tags:
-    - chocolate
+tags: ["Chocolate"]
 categories:
     - ["Dessert"]
 methods:

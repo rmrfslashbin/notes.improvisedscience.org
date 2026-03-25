@@ -2,13 +2,7 @@
 title: Ratatouille
 draft: false
 description: "A slow-simmered Provençal vegetable stew of eggplant, zucchini, bell peppers, and tomatoes, each vegetable browned separately for maximum depth and flavor."
-tags:
-    - eggplant
-    - onions
-    - zucchini
-    - tomatoes
-    - garlic
-    - squash
+tags: ["Eggplant", "Onions", "Zucchini", "Tomatoes", "Garlic", "Squash"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 themes: ["Vegan"]

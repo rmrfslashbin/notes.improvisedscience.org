@@ -3,14 +3,7 @@ title: Special Chicken
 date: 2018-01-31T17:11:05-05:00
 draft: false
 description: "Flour-dredged chicken cutlets served over wilted spinach and topped with a pan sauce of mushrooms, onions, bell pepper, capers, and white wine."
-tags:
-    - chicken
-    - mushrooms
-    - onions
-    - shallots
-    - capers
-    - spinach
-    - original recipe
+tags: ["Chicken", "Mushrooms", "Onions", "Shallots", "Capers", "Spinach", "Original Recipe"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 prep_time: "15 minutes"

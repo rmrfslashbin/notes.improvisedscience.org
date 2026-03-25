@@ -3,11 +3,7 @@ title: Spanish Shrimp and Chickpea Stew
 date: 2020-05-06T15:46:24-05:00
 draft: false
 description: "Smoky paprika-crusted shrimp simmered with chickpeas, leeks, and clam juice in a Spanish-inspired one-pot stew with a savory butter-roux base."
-tags:
-    - shrimp
-    - chickpea
-    - paprika
-    - leeks
+tags: ["Shrimp", "Chickpeas", "Paprika", "Leeks"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 themes: ["Spanish"]

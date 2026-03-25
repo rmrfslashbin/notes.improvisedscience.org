@@ -3,9 +3,7 @@ title: "Karaage: Japanese Fried Chicken Thighs"
 date: 2019-08-21T19:44:56-05:00
 draft: false
 description: "Crispy Japanese fried chicken thighs marinated in soy, sake, and ginger, then dredged in cornstarch and fried to golden perfection."
-tags:
-    - chicken
-    - thigh
+tags: ["Chicken", "Thigh"]
 categories:
     - "Main"
 methods:

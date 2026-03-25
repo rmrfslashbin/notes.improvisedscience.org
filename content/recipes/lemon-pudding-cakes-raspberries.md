@@ -3,9 +3,7 @@ title: Lemon Pudding Cakes with Raspberries
 date: 2021-04-03T18:09:58-05:00
 draft: false
 description: "Individual lemon pudding cakes baked in ramekins in a water bath, with a soufflé top and custardy base, served with lightly sugared fresh raspberries."
-tags:
-    - lemon
-    - raspberries
+tags: ["Lemon", "Raspberries"]
 categories:
     - "Dessert"
 methods:

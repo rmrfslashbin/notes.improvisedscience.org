@@ -3,13 +3,7 @@ title: Chicken Enchilada Casserole
 date: 2014-11-30T23:17:26-05:00
 draft: false
 description: "Layers of roasted chicken, poblano and bell peppers, corn tortillas, and salsa bound with a silky cashew cream and melted cheddar."
-tags:
-    - chicken
-    - enchelada
-    - poblano
-    - peppers
-    - tortillas
-    - cheese
+tags: ["Chicken", "Enchilada", "Poblano", "Peppers", "Tortillas", "Cheese"]
 categories:
     - ["Main"]
 methods:

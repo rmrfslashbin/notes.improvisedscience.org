@@ -3,9 +3,7 @@ title: Banana Muffins
 date: 2021-08-02T16:05:34-05:00
 draft: false
 description: "Warmly spiced banana muffins made with seven-grain cereal and spelt flour, with molasses and applesauce adding depth and natural sweetness."
-tags:
-    - banana
-    - spelt
+tags: ["Banana", "Spelt"]
 categories:
     - ["Breakfast"]
 methods:

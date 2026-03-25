@@ -3,11 +3,7 @@ title: Sauced Shrimp with Lemon, Garlic, and Parsley
 date: 2015-03-01T17:52:45-05:00
 draft: false
 description: "Plump shrimp sautéed with garlic and lemon zest, then finished with white wine, fresh parsley, and butter for a bright, pan-sauce glaze."
-tags:
-    - shrimp
-    - garlic
-    - lemon
-    - parsley
+tags: ["Shrimp", "Garlic", "Lemon", "Parsley"]
 categories: ["Main"]
 methods: ["Stove-Top"]
 prep_time: "10 minutes"

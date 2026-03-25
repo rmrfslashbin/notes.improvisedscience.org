@@ -3,8 +3,7 @@ title: Lemon Pudding Cake
 date: 2019-02-19T15:09:55-05:00
 draft: false
 description: "A light, airy baked pudding cake with a soufflé-like top and a custardy lemon sauce underneath, baked in a water bath."
-tags:
-    - lemon
+tags: ["Lemon"]
 categories:
     - "Dessert"
 methods:

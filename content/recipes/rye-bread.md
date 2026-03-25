@@ -3,10 +3,7 @@ title: Rye Bread
 date: 2021-08-02T16:13:16-05:00
 draft: false
 description: "A hearty single loaf of rye bread with caraway seeds, molasses, and a golden crust, simple enough to knead by hand."
-tags:
-    - rye
-    - yeast
-    - caraway seeds
+tags: ["Rye", "Yeast", "Caraway Seeds"]
 categories: ["Bread"]
 methods: ["Baked"]
 prep_time: "20 minutes"

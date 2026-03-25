@@ -3,13 +3,7 @@ title: Chole Palak (Chickpeas With Spinach)
 date: 2020-03-28T18:51:38-05:00
 draft: false
 description: "A fragrant Indian one-pot of tender chickpeas and wilted spinach simmered in a spiced tomato-ginger purée with cumin, coriander, and garam masala."
-tags:
-    - chickpeas
-    - spinach
-    - curry
-    - tomatoes
-    - chilis
-    - manjula
+tags: ["Chickpeas", "Spinach", "Curry", "Tomatoes", "Chilis", "Manjula"]
 categories:
     - ["Main"]
 methods:

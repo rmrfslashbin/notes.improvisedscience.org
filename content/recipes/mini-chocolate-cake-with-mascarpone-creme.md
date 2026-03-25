@@ -3,9 +3,7 @@ title: Mini Chocolate Cake with Mascarpone Creme
 date: 2018-07-24T18:19:31-05:00
 draft: false
 description: "A small two-serving chocolate layer cake filled with whipped mascarpone creme and fresh berries — rich, elegant, and assembled to order."
-tags:
-    - chocolate
-    - mascarpone
+tags: ["Chocolate", "Mascarpone"]
 categories:
     - "Dessert"
 methods:

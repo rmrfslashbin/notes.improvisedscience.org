@@ -3,10 +3,7 @@ title: Lebanese Lentils and Rice with Crisped Onions
 date: 2019-03-03T17:40:15-05:00
 draft: false
 description: "Tender brown lentils and basmati rice simmered with warm spices, topped with deeply caramelized crispy onions and fresh scallions."
-tags:
-    - lentils
-    - rice
-    - onions
+tags: ["Lentils", "Rice", "Onions"]
 categories:
     - "Side Dish"
 methods:

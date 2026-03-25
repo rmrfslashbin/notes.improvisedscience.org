@@ -3,9 +3,7 @@ title: Indian Spiced Tomato and Egg Casserole
 date: 2019-12-09T14:20:47-05:00
 draft: false
 description: "Sweet potatoes baked under a cumin-and-garam-masala tomato sauce, then topped with eggs poached until the whites just set and yolks stay runny."
-tags:
-    - eggs
-    - sweet potatos
+tags: ["Eggs", "Sweet Potatoes"]
 categories:
     - ["Main"]
 methods:

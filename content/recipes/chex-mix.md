@@ -3,9 +3,7 @@ title: Chex Mix
 date: 2014-11-26T03:09:27-05:00
 draft: false
 description: "The classic oven-baked Chex Mix with three cereal varieties, mixed nuts, pretzels, and bagel chips seasoned with butter, Worcestershire, and garlic."
-tags:
-    - classic
-    - chex
+tags: ["Classic", "Chex"]
 categories:
     - ["Snack"]
 methods:

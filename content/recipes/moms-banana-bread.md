@@ -3,8 +3,7 @@ title: Mom's Banana Bread
 date: 2016-04-06T03:08:17-05:00
 draft: false
 description: "A generous two-loaf banana bread with pecans and orange juice, flexible enough to swap in pumpkin or applesauce and still come out perfectly moist."
-tags:
-    - banana
+tags: ["Banana"]
 categories:
     - "Bread"
 methods:

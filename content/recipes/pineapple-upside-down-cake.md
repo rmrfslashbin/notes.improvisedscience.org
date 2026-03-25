@@ -3,9 +3,7 @@ title: Pineapple Upside-Down Cake
 date: 2014-11-30T23:18:45-05:00
 draft: false
 description: "A golden, caramel-glazed pineapple upside-down cake perfumed with cardamom and dark rum, baked in a cast-iron skillet for a beautifully caramelized top."
-tags:
-    - pineapple
-    - cardamom
+tags: ["Pineapple", "Cardamom"]
 categories: ["Dessert"]
 methods: ["Baked"]
 themes: ["Vegetarian"]
