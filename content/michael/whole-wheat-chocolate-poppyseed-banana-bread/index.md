@@ -33,7 +33,7 @@ servings: "1 loaf"
 - 60g sour cream (or plain yogurt or applesauce)
 - 60g milk (or water)
 - 13g (1 tbsp) vanilla extract
-- 2 large eggs (~100g), optional (see note)
+- 2 large eggs (100g)
 
 ### Mix-ins
 
@@ -43,9 +43,8 @@ servings: "1 loaf"
 
 1. Preheat oven to 175°C / 350°F. Grease and line a 23×13cm (9×5 inch) loaf pan.
 2. **Dry ingredients.** Sift together flour, cocoa powder, baking soda, salt, and allspice (if using). Stir in poppy seeds. Set aside.
-3. **Wet ingredients.** In a large bowl, mash the bananas well. Whisk in oil, both sugars, sour cream, milk, vanilla, and eggs (if using) until well combined.
+3. **Wet ingredients.** In a large bowl, mash the bananas well. Whisk in oil, both sugars, sour cream, milk, vanilla, and eggs until well combined.
 4. **Combine.** Fold dry ingredients into wet until just combined — do not overmix. Fold in walnuts.
 5. Pour batter into the prepared pan. Bake for 60–80 minutes until a skewer inserted into the centre comes out clean. The wide time range reflects variation in banana moisture and oven accuracy — start checking at 60 minutes.
 6. Cool completely on a wire rack before slicing.
 
-> **Eggs:** The original recipe references adding eggs in the method but omits them from the ingredient list. Standard banana bread of this size typically uses 2 large eggs (~100g). Include them for a slightly more structured crumb, or omit for a denser, fudgier loaf.
