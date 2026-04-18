@@ -1018,13 +1018,13 @@ a.meta-chip:hover {
   list-style: none;
 }
 
-.recipe-content ol li {
+.recipe-content ol > li {
   counter-increment: recipe-steps;
   padding-left: var(--s-7);
   position: relative;
 }
 
-.recipe-content ol li::before {
+.recipe-content ol > li::before {
   content: counter(recipe-steps);
   position: absolute;
   left: 0;
@@ -1587,7 +1587,7 @@ a.meta-chip:hover {
     background: #000;
   }
 
-  .recipe-content ol li::before {
+  .recipe-content ol > li::before {
     color: #000;
   }
 }
