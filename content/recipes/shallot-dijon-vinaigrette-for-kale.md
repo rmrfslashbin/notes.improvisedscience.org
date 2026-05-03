@@ -2,6 +2,7 @@
 title: "Shallot-Dijon Vinaigrette for Kale"
 date: 2026-05-02T00:00:00-04:00
 draft: false
+weight: 10
 description: "A punchy shallot-Dijon vinaigrette finished with toasted sesame oil — sharp enough to stand up to raw kale, with a nutty top note that ties the whole thing together."
 categories: ["Condiment"]
 tags: ["Kale", "Dijon", "Shallot", "Vinaigrette", "Sesame Oil", "Vegetarian", "Vegan Adaptable", "Quick"]
