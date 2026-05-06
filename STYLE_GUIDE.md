@@ -7,8 +7,8 @@ Reference for authoring and editing recipes on this site. All existing content h
 ## File & Directory Naming
 
 - **Format**: kebab-case, all lowercase
-- **Single-file recipes**: `recipe-name.md` (e.g. `slow-cooker-lentil-soup.md`)
-- **Multi-file recipes** (with images, etc.): `recipe-name/index.md`
+- **Default: directory form** — `recipe-name/index.md` (e.g. `slow-cooker-lentil-soup/index.md`). Leaves room to add a photo or other assets later without renaming. New recipes should use this form even when no assets are present.
+- **Single-file form** (`recipe-name.md`) is acceptable for legacy recipes already in that shape; do not convert them unless adding assets.
 - **No underscores, spaces, uppercase letters, or special characters** in filenames
 - **Accented characters** are stripped: `Crème brûlée` → `creme-brulee`, `Gougères` → `gougeres`
 - **Apostrophes and punctuation** are removed: `Aunt Bill's` → `aunt-bills`
