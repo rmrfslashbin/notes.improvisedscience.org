@@ -1,7 +1,7 @@
 default_goal: run
 
 install-test:
-	test -f themes/papermod/README.md
+	test -f themes/recipe-book/theme.toml
 
 run: install-test
 	@echo "Running..."
