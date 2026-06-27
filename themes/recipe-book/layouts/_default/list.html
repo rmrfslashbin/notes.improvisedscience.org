@@ -26,11 +26,13 @@
     <p class="page-banner__desc">{{ .Description }}</p>
     {{- end }}
 
-    {{- /* Recipe count */}}
+    {{- /* Item count — noun comes from the section's cookbook entry (defaults to "recipe") */}}
+    {{- $noun := "recipe" }}
+    {{- with index (where .Site.Params.cookbooks "section" .Section) 0 }}{{ $noun = .noun | default "recipe" }}{{ end }}
     {{- $pages := union .RegularPages .Sections }}
     {{- $paginator := .Paginate $pages }}
     <p class="page-banner__meta">
-      {{ len .RegularPages }} recipe{{ if ne (len .RegularPages) 1 }}s{{ end }}
+      {{ len .RegularPages }} {{ $noun }}{{ if ne (len .RegularPages) 1 }}s{{ end }}
       {{- if gt $paginator.TotalPages 1 }} · Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}{{ end }}
     </p>
   </div>

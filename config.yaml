@@ -55,6 +55,11 @@ params:
       label: "The Michael Collection"
       description: "A curated collection of Michael's recipes."
       color: navy
+    - section: notes
+      label: "Notes & Things"
+      description: "Kitchen reference — equipment guides, techniques, and odds and ends that aren't recipes."
+      color: plum
+      noun: note   # count label on cards/lists (defaults to "recipe")
 
 menu:
   main:
@@ -70,6 +75,10 @@ menu:
       name: The Michael Collection
       url: /michael/
       weight: 25
+    - identifier: notes
+      name: Notes & Things
+      url: /notes/
+      weight: 27
     - identifier: categories
       name: Categories
       url: /categories/

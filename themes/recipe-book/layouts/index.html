@@ -30,8 +30,9 @@
         </span>
         <h2 class="cookbook-card__title">{{ $cb.label | default ($cb.section | humanize | title) }}</h2>
         <p class="cookbook-card__desc">{{ $cb.description | default "A collection of recipes." }}</p>
+        {{- $noun := $cb.noun | default "recipe" }}
         <span class="cookbook-card__count">
-          <span>{{ len $sectionPage.RegularPages }} recipe{{ if ne (len $sectionPage.RegularPages) 1 }}s{{ end }}</span>
+          <span>{{ len $sectionPage.RegularPages }} {{ $noun }}{{ if ne (len $sectionPage.RegularPages) 1 }}s{{ end }}</span>
           <span class="cookbook-card__arrow">→</span>
         </span>
       </a>
@@ -49,7 +50,9 @@
       <span class="section-header__title">Recently Added</span>
     </div>
     <div class="recipe-grid">
-      {{- range first 9 .Site.RegularPages }}
+      {{- /* Recipe cookbooks only — keep non-recipe sections (e.g. notes) out of the recipe feed */}}
+      {{- $recipePages := where .Site.RegularPages "Section" "in" (slice "recipes" "to-test" "michael") }}
+      {{- range first 9 $recipePages }}
       {{- partial "recipe-card.html" . }}
       {{- end }}
     </div>

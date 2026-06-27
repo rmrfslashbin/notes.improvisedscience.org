@@ -313,6 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 .site-nav__link[data-section="recipes"]::before { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--clr-recipes); margin-right: 5px; vertical-align: middle; }
 .site-nav__link[data-section="to-test"]::before   { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--clr-totest);   margin-right: 5px; vertical-align: middle; }
 .site-nav__link[data-section="michael"]::before   { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--clr-michael);  margin-right: 5px; vertical-align: middle; }
+.site-nav__link[data-section="notes"]::before     { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--clr-default);  margin-right: 5px; vertical-align: middle; }
 
 .site-header__controls {
   display: flex;
