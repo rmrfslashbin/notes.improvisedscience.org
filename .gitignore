@@ -1,5 +1,6 @@
 # Project specific
 public/
+.wrangler/
 
 # Dependencies
 node_modules/
