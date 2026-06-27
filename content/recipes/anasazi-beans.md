@@ -33,7 +33,7 @@ Family recipe from sister, Rachael.
 ### For 2 Cups Dried Beans (serves 8)
 - 400g (14oz) dried Anasazi beans
 - 1 medium red (purple) onion, chopped
-- 1¾–2 teaspoons fine sea salt
+- 1¾–2 teaspoons (11–12g) fine sea salt
 - 1¾–2 teaspoons baking soda
 - 2 tablespoons (30ml) olive oil
 - 1.4L (6 cups) water
@@ -57,14 +57,15 @@ Family recipe from sister, Rachael.
 The same batch in an electric pressure cooker, ready in about 75 minutes instead of 8 hours.
 
 1. **Sort and rinse** the beans as above.
-2. **Combine**: Add the beans, chopped red onion, salt, olive oil, and 1.4L (6 cups) water to the Instant Pot. **Keep the oil** — beans foam under pressure, and the oil suppresses froth that can clog the steam valve.
+2. **Combine**: Add the beans, chopped red onion, salt, olive oil, and **840ml (3½ cups) water** to the Instant Pot — much less than the slow-cooker amount (see note). **Keep the oil** — beans foam under pressure, and the oil suppresses froth that can clog the steam valve.
 3. **Cut the baking soda to ½ teaspoon** (or omit). A full dose foams hard in a sealed pot; pressure does the softening that the baking soda handles in the slow cooker, so it isn't needed here.
 4. **Cook**: Seal the lid, set the valve to **Sealing**, and cook on **High Pressure for 35 minutes**.
 5. **Release**: Let the pressure release **naturally for at least 20 minutes** (a full natural release is ideal). Never quick-release beans — it sprays foamy liquid through the valve.
 6. **Finish**: Open, taste, and adjust salt. Too thin? Simmer a few minutes on **Sauté**. Too thick? Stir in warm water.
 
 **Instant Pot notes:**
-- **Mind the fill line.** Two cups of dry beans plus 6 cups of water, plus foaming, sits near the ½-full max-fill mark of a 6-quart pot — the reduced baking soda and the oil are what keep it safe. If you're nervous, drop the water to 5 cups; pressure cooking has little evaporation, so the beans still come out saucy. An 8-quart pot has plenty of room; do **not** make this batch in a 3-quart mini.
+- **Use far less water than the slow cooker.** The 8-hour slow cooker boils off a lot of liquid; the sealed Instant Pot loses almost none, so 3½ cups is plenty to cover the beans and still finish creamy — the full 6 cups leaves you simmering on Sauté for the better part of an hour to reduce it. Keep the beans just barely covered before sealing (add a splash only if they poke above the surface). If the result is thinner than you like, a 5–10 minute Sauté is all it should take.
+- **Mind the fill line.** Even at 3½ cups, account for foaming — the reduced baking soda and the oil keep it under control. An 8-quart pot has loads of room; do **not** make this batch in a 3-quart mini.
 - **Pressure time doesn't change with batch size** — 35 minutes is set by doneness, not quantity. A full pot just takes longer (~15–20 minutes) to come to pressure.
 - **Texture**: 35 minutes plus a full natural release gives soft, creamy beans that hold their shape. Cook 40 minutes for more breakdown, or 28–30 minutes for firmer beans.
 - **More onion presence?** Reserve half the onion and stir it in during a 5-minute Sauté at the end instead of cooking it all under pressure.
@@ -83,7 +84,7 @@ The same batch in an electric pressure cooker, ready in about 75 minutes instead
 
 ### For 3 Cups Beans (1.5x batch, serves 12):
 - 600g (21oz) dried beans
-- **2 to 2.5 teaspoons salt**
+- **2 to 2.5 teaspoons (12–15g) salt**
 - **2 to 2.5 teaspoons baking soda**
 - 1½ medium red onions, chopped
 - 3 tablespoons olive oil
