@@ -21,7 +21,7 @@ The following settings must be configured manually in the Cloudflare Pages dashb
 - **Build system version**: Version 2
 
 ### Environment Variables
-- **HUGO_VERSION**: `0.148.1`
+- **HUGO_VERSION**: `0.163.3`
 
 ### Branch Control
 - **Production branch**: `main`

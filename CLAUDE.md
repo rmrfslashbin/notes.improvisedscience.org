@@ -31,7 +31,7 @@ Plus taxonomy landing pages under `content/taxonomies/`, `content/methods/`, `co
 - Build config lives in the Cloudflare Pages **web UI only** (no `wrangler.toml` by design — see `CLOUDFLARE_SETUP.md`).
 - Build command: `hugo --minify -b https://notes.improvisedscience.org/`
 - Output: `public/`
-- `HUGO_VERSION`: `0.148.1`
+- `HUGO_VERSION`: `0.163.3`
 - Production branch: `main`; automatic deploys enabled.
 
 The `Makefile`'s `deploy` target (`hugo deploy`) is a manual/legacy path and is **not** what production uses. Do not run it expecting it to ship the site.
