@@ -77,6 +77,8 @@ servings: 4
 
 **`servings`** — Integer. For recipes with a defined yield (muffins, cookies, bread), use the number of pieces or slices the recipe produces (e.g., `servings: 12` for a dozen muffins, `servings: 26` for a sliced loaf).
 
+**`weight`** — Optional, but **add `weight: 10` to every newly added recipe.** Hugo sorts weighted pages ahead of unweighted ones, so recipes carrying `weight: 10` surface at the top of `/recipes/` and in the homepage's "Recently Added" list (ordered among themselves by `date`, newest first). A recipe **without** a weight sinks below every weighted recipe regardless of its `date` — it still builds and is reachable, but it will be missing from "Recently Added." Use `10` to match the existing set; don't invent other values.
+
 ---
 
 ## Measurements

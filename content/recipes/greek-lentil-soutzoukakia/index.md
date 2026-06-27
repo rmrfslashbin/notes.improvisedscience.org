@@ -1,6 +1,6 @@
 ---
 title: "Greek Lentil Soutzoukakia"
-date: 2026-06-27T16:30:00-04:00
+date: 2026-06-27T09:00:00-04:00
 draft: false
 weight: 10
 description: "Greek vegan 'little sausages' of blended brown lentils, oats, carrot, and cumin, fried and then simmered in a spiced red-wine tomato sauce."
